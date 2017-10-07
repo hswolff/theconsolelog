@@ -19,7 +19,7 @@ module.exports = {
   // them here. All files are relative to where this file is found.
   path: {
     source: './',
-    destination: './_site',
+    destination: './docs',
     templates: './_templates',
     data: './_data',
   },
