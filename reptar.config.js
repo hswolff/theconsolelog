@@ -7,7 +7,7 @@ module.exports = {
   // Any values placed here are globally accessible
   // from any template context via the `site` key.
   site: {
-    title: 'My Reptar Title',
+    title: 'The Console Log',
     email: 'your-reptar@email.com',
     description: "Your website's description goes here.\n",
     baseurl: '', // the subpath of your site, e.g. /blog
