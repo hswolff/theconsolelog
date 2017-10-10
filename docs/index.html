@@ -33,6 +33,10 @@
             font-size: 28px;
         }
 
+        .logo {
+            width: 100%;
+        }
+
         .welcome-text {
             margin-top: 20px;
             width: 410px;
@@ -47,13 +51,26 @@
         .typed {
             white-space: pre;
         }
+        /* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+        @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+            .logo {
+                /* width: 100%; */
+            }
+
+            .welcome-text {
+                width: 100%;
+                padding: 0 20px;
+                font-size: 22px;
+            }
+        }
     </style>
 </head>
 
 <body class="home-template">
     <div class="container">
-        <a href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc">
-            <img src="/images/logo.png" alt="The Console Log">
+        <a href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc" title="The Console Log">
+            <img src="/images/logo.png" alt="The Console Log" class="logo">
         </a>
         <div class="welcome-text">
             <span class="typed"></span>
