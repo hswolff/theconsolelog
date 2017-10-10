@@ -1,82 +1,89 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <title>The Console Log</title>
-  <meta name="description" content="Your website's description goes here.
-">
-  <meta name="keywords" content="" />
+    <title>The Console Log</title>
+    <meta name="description" content="A weekly YouTube show about JavaScript and the web.">
+    <meta name="keywords" content="javascript,node,ecmascript,youtube,tv,news" />
 
-  <meta name="HandheldFriendly" content="True" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <style>
+        html,
+        body {
+            min-height: 100%;
+        }
 
-  <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        body {
+            background-color: #232121;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            color: white;
+            font-family: "American Typewriter", monospace, serif;
+            font-size: 28px;
+        }
+
+        .welcome-text {
+            margin-top: 20px;
+            width: 410px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .welcome-text a {
+            color: #fff;
+        }
+
+        .typed {
+            white-space: pre;
+        }
+    </style>
 </head>
+
 <body class="home-template">
-
-  <header class="main-header">
-    <div class="vertical">
-      <div class="main-header-content">
-        <h1 class="page-title">
-          <a href="/">The Console Log</a>
-        </h1>
-        <div>
-          <a href="/about/">About</a>
+    <div class="container">
+        <a href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc">
+            <img src="/images/logo.png" alt="The Console Log">
+        </a>
+        <div class="welcome-text">
+            <span class="typed"></span>
         </div>
-      </div>
     </div>
-  </header>
 
-  <main id="content" class="content" role="main">
-    
-
-
-<article class="post">
-  <header class="post-header">
-    <h2 class="post-title">
-      <a href="/hello-world/">Hello World!</a>
-    </h2>
-  </header>
-  <section class="post-excerpt">
-    
-    
-  </section>
-  <footer class="post-meta">
-    <time class="post-date" datetime="25 March 2017">25 March 2017</time>
-    &middot;
-    <span>
-      <a href="/tag/meta/">meta</a>
-    </span>
-  </footer>
-</article>
-
-
-
-
-    
-<nav class="pagination" role="navigation">
-  
-
-  <span class="page-number">1 of 1</span>
-
-  
-</nav>
-
-  </main>
-
-  <footer class="site-footer clearfix">
-    <p class="footer-description">
-      &copy; The Console Log
-    </p>
-    <p class="footer-published">
-      joyfully published by <a href="https://github.com/reptar/reptar">reptar</a>
-    </p>
-  </footer>
-
-  <script type="text/javascript" src="/js/main.js"></script>
+    <script src="https://unpkg.com/typed.js@2.0.6/lib/typed.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            console.log('ready');
+            var typed = new Typed('.typed', {
+                strings: [
+                    // 'The Console Log is a\nweekly YouTube show\nabout JavaScript and the web.'
+                    'The Console Log is a\nweekly YouTube show about\nJavaScript and the web.' +
+                    '\n\nNew Episodes every Monday.' +
+                    '\n\nFollow on <a href="https://twitter.com/_theconsolelog">Twitter.</a>' +
+                    '\n\n <i />'
+                ],
+                startDelay: 2000,
+                typeSpeed: 60,
+                // typeSpeed: 5,
+                backSpeed: 0,
+                showCursor: true,
+                fadeOut: true,
+                cursorChar: '_',
+                autoInsertCss: true,
+            });
+        });
+        console.log('hi');
+    </script>
 </body>
+
 </html>
