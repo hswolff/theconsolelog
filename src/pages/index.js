@@ -1,6 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import Link from 'gatsby-link';
+import { DateTime } from 'luxon';
 
 export default ({ data }) => {
   const { allEpisodesJson } = data;
@@ -24,10 +25,14 @@ const EpisodeItem = ({ fields: { slug, episodeNumber }, title, date }) => (
       <Link to={slug}>{title}</Link>
     </h3>
     <div>
-      {date.start} - {date.end}
+      {formatDate(date.start)} - {formatDate(date.end)}
     </div>
   </div>
 );
+
+function formatDate(date) {
+  return DateTime.fromISO(date).toFormat('LLLL d');
+}
 
 export const pageQuery = graphql`
   query AllEpisodes {

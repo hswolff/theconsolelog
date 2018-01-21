@@ -21,6 +21,7 @@
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-source-filesystem": "^1.5.14",
     "gatsby-transformer-json": "^1.0.14",
+    "luxon": "^0.3.1",
     "react-emotion": "^8.0.12",
     "react-helmet": "^5.2.0",
     "typography-theme-parnassus": "^0.15.10"
