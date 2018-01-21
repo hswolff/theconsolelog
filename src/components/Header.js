@@ -26,6 +26,7 @@ export default () => (
           The Console Log
         </Link>
       </h1>
+      <Link to="/episode/tags">Tags</Link>
       <Link to="/about">About</Link>
     </div>
   </div>
