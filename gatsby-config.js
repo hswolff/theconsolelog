@@ -3,6 +3,7 @@ module.exports = {
     title: 'The Console Log',
   },
   plugins: [
+    'gatsby-plugin-react-next',
     {
       resolve: 'gatsby-plugin-typography',
       options: {
