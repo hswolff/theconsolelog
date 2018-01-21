@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-const Header = () => (
+export default () => (
   <div
     style={{
       background: 'rebeccapurple',
@@ -23,11 +23,10 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          The Console Log
         </Link>
       </h1>
+      <Link to="/about">About</Link>
     </div>
   </div>
 );
-
-export default Header;

@@ -1,14 +1,14 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React, { Fragment } from 'react';
 import Helmet from 'react-helmet';
 import { css } from 'emotion';
 
 import Header from '../components/Header';
 
-const TemplateWrapper = ({ children }) => (
-  <div>
+export default ({ children }) => (
+  <Fragment>
     <Helmet
-      title="Gatsby Default Starter"
+      title="The Console Log"
+      titleTemplate="%s | The Console Log"
       meta={[
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
@@ -25,11 +25,5 @@ const TemplateWrapper = ({ children }) => (
     >
       {children()}
     </div>
-  </div>
+  </Fragment>
 );
-
-TemplateWrapper.propTypes = {
-  children: PropTypes.func,
-};
-
-export default TemplateWrapper;
