@@ -1,0 +1,51 @@
+{
+  "title": "Console.Log('Happy New Year 2018!')",
+  "date": {
+    "start": "2018-01-02",
+    "end": "2018-01-07"
+  },
+  "content": [
+    {
+      "name": "The Console Log Project Board",
+      "links": ["https://github.com/hswolff/theconsolelog/projects/1"]
+    },
+    {
+      "name": "The State of JavaScript Frameworks, 2017",
+      "links": [
+        "https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1"
+      ]
+    },
+    {
+      "name": "The Most Hearted Pens of 2017",
+      "links": ["https://codepen.io/2017/popular/pens/"]
+    },
+    {
+      "name": "Meltdown and Spectre effects on browsers",
+      "links": [
+        "https://www.chromium.org/Home/chromium-security/ssca",
+        "https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/"
+      ]
+    },
+    {
+      "name": "Zero config UI for Jest",
+      "links": ["https://majestic.debuggable.io/"]
+    },
+    {
+      "name":
+        "Stimulus: A modest JavaScript framework for the HTML you already have",
+      "links": ["https://github.com/stimulusjs/stimulus/"]
+    },
+    {
+      "name": "Sapper: Towards the ideal web app framework",
+      "links": [
+        "https://svelte.technology/blog/sapper-towards-the-ideal-web-app-framework"
+      ]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Compatibility data for Web technologies as displayed on MDN",
+      "links": ["https://github.com/mdn/browser-compat-data/"]
+    }
+  ]
+}
