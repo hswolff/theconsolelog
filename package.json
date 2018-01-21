@@ -19,11 +19,14 @@
     "gatsby-plugin-react-next": "^1.0.7",
     "gatsby-plugin-sharp": "^1.6.25",
     "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-source-filesystem": "^1.5.14",
+    "gatsby-transformer-json": "^1.0.14",
     "react-emotion": "^8.0.12",
     "react-helmet": "^5.2.0",
     "typography-theme-parnassus": "^0.15.10"
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
     "eslint-plugin-react": "^7.5.1"
   }

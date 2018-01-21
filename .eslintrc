@@ -1,4 +1,5 @@
 {
+  "parser": "babel-eslint",
   "env": {
     "browser": true,
     "es6": true,
@@ -10,7 +11,11 @@
       "experimentalObjectRestSpread": true,
       "jsx": true
     },
+    "ecmaVersion": 8,
     "sourceType": "module"
+  },
+  "globals": {
+    "graphql": true
   },
   "plugins": ["react"],
   "rules": {
@@ -19,6 +24,7 @@
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
     "react/react-in-jsx-scope": ["off"],
-    "react/display-name": ["off"]
+    "react/display-name": ["off"],
+    "react/prop-types": ["off"]
   }
 }

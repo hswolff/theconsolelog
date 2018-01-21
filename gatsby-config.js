@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
   siteMetadata: {
     title: 'The Console Log',
@@ -20,5 +22,13 @@ module.exports = {
     },
     'gatsby-plugin-sharp',
     'gatsby-plugin-catch-links',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'episodes',
+        path: path.join(__dirname, 'episodes'),
+      },
+    },
+    'gatsby-transformer-json',
   ],
 };
