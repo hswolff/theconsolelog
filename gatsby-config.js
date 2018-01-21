@@ -17,5 +17,7 @@ module.exports = {
         trackingId: 'UA-107877562-1',
       },
     },
+    'gatsby-plugin-sharp',
+    'gatsby-plugin-catch-links',
   ],
 };
