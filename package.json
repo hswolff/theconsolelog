@@ -8,10 +8,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "emotion": "^8.0.12",
+    "emotion-server": "^8.0.12",
     "gatsby": "^1.9.158",
     "gatsby-link": "^1.6.34",
+    "gatsby-plugin-emotion": "^1.1.10",
     "gatsby-plugin-react-helmet": "^2.0.3",
-    "react-helmet": "^5.2.0"
+    "gatsby-plugin-typography": "^1.7.10",
+    "react-emotion": "^8.0.12",
+    "react-helmet": "^5.2.0",
+    "typography-theme-parnassus": "^0.15.10"
   },
   "devDependencies": {
     "eslint": "^4.15.0",

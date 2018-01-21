@@ -1,6 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'The Console Log',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: [
+    {
+      resolve: 'gatsby-plugin-typography',
+      options: {
+        pathToConfigModule: 'src/utils/typography.js',
+      },
+    },
+    'gatsby-plugin-emotion',
+    'gatsby-plugin-react-helmet',
+  ],
 };
