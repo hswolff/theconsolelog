@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import { css } from 'emotion';
 
 import Header from '../components/Header';
+import AboutInfoBox from '../components/AboutInfoBox';
 
 export default ({ children }) => (
   <Fragment>
@@ -15,6 +16,7 @@ export default ({ children }) => (
       ]}
     />
     <Header />
+    <AboutInfoBox />
     <div
       className={css({
         margin: '0 auto',

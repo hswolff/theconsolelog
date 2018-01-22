@@ -1,9 +1,9 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import styled from 'react-emotion';
+import { layout } from '../utils/constants';
 import image from '../images/logo.png';
-
-const maxWidth = 960;
+import youtube from '../images/youtube-64.png';
 
 export default () => (
   <header
@@ -22,15 +22,42 @@ export default () => (
         </Title>
       </Left>
       <Right>
+        <Link to="/">Episodes</Link>
+        <Bullet />
         <Link to="/episode/tags">Tags</Link>
-        <Link to="/about">About</Link>
+        <Bullet />
+        <a
+          href="https://twitter.com/_theconsolelog"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Twitter
+        </a>
+        <Bullet />
+        <a
+          href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Watch the Show!
+          <img
+            src={youtube}
+            css={`
+              width: 24px;
+              height: 24px;
+              margin: 0;
+              margin-left: 5px;
+              margin-bottom: -5px;
+            `}
+          />
+        </a>
       </Right>
     </HeaderInner>
   </header>
 );
 
 const HeaderInner = styled('div')`
-  max-width: ${maxWidth}px;
+  max-width: ${layout.width}px;
   margin: 0 auto;
   padding: 1.45rem 0;
   display: flex;
@@ -74,11 +101,20 @@ const Right = styled('div')`
   a {
     color: #fff;
     box-shadow: none;
-    & + a {
-      margin-left: 10px;
-    }
     &:hover {
       text-decoration: underline;
     }
   }
 `;
+
+const Bullet = () => (
+  <span
+    css={`
+      display: inline-block;
+      margin: 0 10px;
+      color: #fff;
+    `}
+  >
+    &bull;
+  </span>
+);
