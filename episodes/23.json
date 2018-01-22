@@ -1,0 +1,71 @@
+{
+  "title": "React's Circle of Life-cyles",
+  "date": {
+    "start": "2018-01-15",
+    "end": "2018-01-21"
+  },
+  "youtube": {
+    "id": "vcn4CqCeCfU"
+  },
+  "content": [
+    {
+      "name": "React Lifecyle Hooks Changing",
+      "links": ["https://github.com/facebook/react/pull/12028"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Bootstrap 4 Released",
+      "links": ["http://blog.getbootstrap.com/2018/01/18/bootstrap-4/"],
+      "tags": ["css"]
+    },
+    {
+      "name": "Houdini Begins To Surface: CSS Paint API In Chrome Stable",
+      "links": ["https://developers.google.com/web/updates/2018/01/paintapi"],
+      "tags": ["css"]
+    },
+    {
+      "name": "Pipeline Operator Goes to Stage 1",
+      "links": [
+        "https://github.com/tc39/proposal-pipeline-operator",
+        "https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-pipeline-operator"
+      ],
+      "tags": ["javascript", "tc39"]
+    }
+  ],
+  "overflow": [
+    {
+      "name":
+        "Xray: an experimental next-generation Electron-based text editor",
+      "links": ["https://github.com/atom/xray"],
+      "tags": ["electron"]
+    },
+    {
+      "name": "TypeScript: Conditional types",
+      "links": ["https://github.com/Microsoft/TypeScript/pull/21316"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Chrome Autoplay Policy Changes",
+      "links": [
+        "https://developers.google.com/web/updates/2017/09/autoplay-policy-changes"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Dialog Element",
+      "links": [
+        "https://github.com/GoogleChrome/dialog-polyfill",
+        "https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/"
+      ],
+      "tags": ["html"]
+    },
+    {
+      "name": "Mongoose 5.0 Released",
+      "links": [
+        "https://github.com/Automattic/mongoose/blob/master/History.md#500--2018-01-17",
+        "http://thecodebarbarian.com/whats-new-in-mongoose-5-improved-post-hooks.html"
+      ],
+      "tags": ["mongodb"]
+    }
+  ]
+}
