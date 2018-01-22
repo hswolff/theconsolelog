@@ -13,8 +13,11 @@ export default ({ children }) => (
       title="The Console Log"
       titleTemplate="%s | The Console Log"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        {
+          name: 'description',
+          content: 'A weekly YouTube show about JavaScript and the web.',
+        },
+        { name: 'keywords', content: 'youtube, show, javascript, news' },
       ]}
     />
     <Header />
