@@ -4,6 +4,9 @@
     "start": "2018-01-08",
     "end": "2018-01-14"
   },
+  "youtube": {
+    "id": "qibp8xLLCJs"
+  },
   "content": [
     {
       "name": "ESM modules in node: npm edition",

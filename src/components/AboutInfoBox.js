@@ -7,7 +7,7 @@ export default () => (
   <Container>
     <TypedText
       strings={[
-        '<a href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc">The Console Log</a>' +
+        '<a href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc" target="_blank">The Console Log</a>' +
           ' is a weekly YouTube show about JavaScript and the web.' +
           '\n\n' +
           'New Episodes every Monday.' +

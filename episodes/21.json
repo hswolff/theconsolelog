@@ -4,6 +4,9 @@
     "start": "2018-01-02",
     "end": "2018-01-07"
   },
+  "youtube": {
+    "id": "Ft166k1hAPU"
+  },
   "content": [
     {
       "name": "The State of JavaScript Frameworks, 2017",

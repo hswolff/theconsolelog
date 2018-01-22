@@ -1,7 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import Link from 'gatsby-link';
-import { DateTime } from 'luxon';
+import EpisodeListItem from '../components/EpisodeListItem';
 
 export default ({ data }) => {
   const { allEpisodesJson } = data;
@@ -9,27 +8,11 @@ export default ({ data }) => {
     <React.Fragment>
       <Helmet title="Home" />
       {allEpisodesJson.edges.map(({ node }) => (
-        <EpisodeItem key={node.fields.episodeNumber} {...node} />
+        <EpisodeListItem key={node.fields.episodeNumber} {...node} />
       ))}
     </React.Fragment>
   );
 };
-
-const EpisodeItem = ({ fields: { slug, episodeNumber }, title, date }) => (
-  <div>
-    <span>Episode: {episodeNumber}</span>
-    <h3>
-      <Link to={slug}>{title}</Link>
-    </h3>
-    <div>
-      {formatDate(date.start)} - {formatDate(date.end)}
-    </div>
-  </div>
-);
-
-function formatDate(date) {
-  return DateTime.fromISO(date).toFormat('LLLL d');
-}
 
 export const pageQuery = graphql`
   query AllEpisodes {
