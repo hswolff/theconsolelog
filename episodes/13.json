@@ -1,0 +1,60 @@
+{
+  "title": "The Past and Future of CSS",
+  "date": {
+    "start": "2017-10-23",
+    "end": "2017-10-29"
+  },
+  "youtube": {
+    "id": "CSQwY5tD-RQ"
+  },
+  "content": [
+    {
+      "name": "Saying Goodbye to Firebug",
+      "links": ["https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/"],
+      "tags": ["firefox"]
+    },
+    {
+      "name": "React Removes Haste",
+      "links": ["https://github.com/facebook/react/pull/11303"],
+      "tags": ["react"]
+    },
+    {
+      "name": "The History of CSS",
+      "links": [
+        "https://css-tricks.com/look-back-history-css/",
+        "https://thehistoryoftheweb.com/"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "name": "CSS Houdini Experiments",
+      "links": ["http://lab.iamvdo.me/houdini/"],
+      "tags": ["css"]
+    },
+    {
+      "name": "VSCode Moving Back to Blue Icon",
+      "links": ["https://code.visualstudio.com/blogs/2017/10/24/theicon"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Apollo Client 2.0",
+      "links": [
+        "https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7"
+      ],
+      "tags": ["apollo", "graphql"]
+    },
+    {
+      "name": "ReasonML 3.0 Released",
+      "links": ["https://reasonml.github.io/community/blog/#reason-3"],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "Promise.finally Finally Here",
+      "links": [
+        "https://developers.google.com/web/updates/2017/10/promise-finally"
+      ],
+      "tags": ["tc39"]
+    }
+  ],
+  "overflow": []
+}

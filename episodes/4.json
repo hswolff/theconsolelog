@@ -1,0 +1,44 @@
+{
+  "title": "PWA - They're a Big Fan Deal",
+  "date": {
+    "start": "2017-08-08",
+    "end": "2017-08-13"
+  },
+  "youtube": {
+    "id": "ErYhEGtjajo"
+  },
+  "content": [
+    {
+      "name": "Atom and Code Updates!",
+      "links": [
+        "http://blog.atom.io/2017/08/08/atom-1-19.html",
+        "https://code.visualstudio.com/updates/v1_15"
+      ],
+      "tags": ["atom", "vscode"]
+    },
+    {
+      "name": "New Node 8.3, now with the new v8 engine Turbofan!",
+      "links": [
+        "https://nodejs.org/en/blog/release/v8.3.0/",
+        "https://medium.com/the-node-js-collection/node-options-has-landed-in-8-x-5fba57af703d"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "PWAs Coming to Safari!",
+      "links": [
+        "https://mobile.twitter.com/webmaxru/status/893027996659060738"
+      ],
+      "tags": ["safari", "pwa"]
+    },
+    {
+      "name": "ES Modules, today!",
+      "links": [
+        "https://medium.com/web-on-the-edge/es-modules-in-node-today-32cff914e4b",
+        "https://blog.meteor.com/reify-meteors-evolving-javascript-module-compiler-70425fa45d81"
+      ],
+      "tags": ["javascript"]
+    }
+  ],
+  "overflow": []
+}

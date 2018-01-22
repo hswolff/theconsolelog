@@ -1,0 +1,50 @@
+{
+  "title": "Upgrade Complete! MDN Gets Supercharged",
+  "date": {
+    "start": "2017-10-16",
+    "end": "2017-10-22"
+  },
+  "youtube": {
+    "id": "qRGs3eqnIpE"
+  },
+  "content": [
+    {
+      "name": "MDN to Become Single Source of Truth",
+      "links": [
+        "https://blog.mozilla.org/blog/2017/10/18/mozilla-brings-microsoft-google-w3c-samsung-together-create-cross-browser-documentation-mdn/",
+        "https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/"
+      ],
+      "tags": ["mdn", "documentation"]
+    },
+    {
+      "name": "GitHub is 10 Years Old!",
+      "links": ["https://twitter.com/defunkt/status/921158180280983552"],
+      "tags": ["github", "twitter"]
+    },
+    {
+      "name": "React now using Yarn Workspaces",
+      "links": ["https://github.com/facebook/react/pull/11252"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Chrome 62 Released",
+      "links": [
+        "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html",
+        "https://developers.google.com/web/updates/2017/08/devtools-release-notes",
+        "https://developers.google.com/web/updates/2017/10/nic62"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Nodejs 9.0.0 scheduled for October 31st",
+      "links": ["https://mobile.twitter.com/jasnell/status/920296046739169282"],
+      "tags": ["node"]
+    },
+    {
+      "name": "Babel v7.0.0-beta.3 Released!",
+      "links": ["https://github.com/babel/babel/releases/tag/v7.0.0-beta.3"],
+      "tags": ["babel"]
+    }
+  ],
+  "overflow": []
+}

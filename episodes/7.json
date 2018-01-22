@@ -1,0 +1,52 @@
+{
+  "title":
+    "Upgrade All The Things! Editors, Babel, and WordPress Says Bye to React!",
+  "date": {
+    "start": "2017-09-11",
+    "end": "2017-09-17"
+  },
+  "youtube": {
+    "id": "JctUrhEF7eg"
+  },
+  "content": [
+    {
+      "name": "Sublime Text 3.0 Final",
+      "links": [
+        "https://www.sublimetext.com/blog/articles/sublime-text-3-point-0"
+      ],
+      "tags": ["sublime text"]
+    },
+    {
+      "name": "Atom 1.20",
+      "links": ["http://blog.atom.io/2017/09/12/atom-1-20.html"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "Atom IDE",
+      "links": ["https://blog.atom.io/2017/09/12/announcing-atom-ide.html"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "Babel 7.0 Is Coming!",
+      "links": ["https://babeljs.io/blog/2017/09/12/planning-for-7.0"],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Skynet is coming",
+      "links": ["https://twitter.com/todbot/status/907335250195374081"],
+      "tags": ["funny"]
+    },
+    {
+      "name":
+        "Apple makes proposal to CSS about how to design for iPhone X's round corners and notch",
+      "links": ["https://github.com/w3c/csswg-drafts/issues/1693"],
+      "tags": ["css", "apple"]
+    },
+    {
+      "name": "React & WordPress",
+      "links": ["https://ma.tt/2017/09/on-react-and-wordpress/"],
+      "tags": ["react", "wordpress"]
+    }
+  ],
+  "overflow": []
+}

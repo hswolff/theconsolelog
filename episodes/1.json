@@ -1,0 +1,54 @@
+{
+  "title": "The First Episode Takes The Longest",
+  "date": {
+    "start": "2017-07-17",
+    "end": "2017-07-23"
+  },
+  "youtube": {
+    "id": "ngFub1uO"
+  },
+  "content": [
+    {
+      "name": "Apollo Server reaches 1.0!",
+      "links": [
+        "https://dev-blog.apollodata.com/apollo-server-1-0-a-graphql-server-for-all-node-js-frameworks-2b37d3342f7c"
+      ],
+      "tags": ["graphql", "apollo"]
+    },
+    {
+      "name": "State of JS",
+      "links": ["https://stateofjs.com/"],
+      "tags": ["javascript"]
+    },
+    {
+      "name": "HTTP2 coming to node",
+      "links": [
+        "https://medium.com/the-node-js-collection/say-hello-to-http-2-for-node-js-core-261ba493846e"
+      ],
+      "tags": ["http2"]
+    },
+    {
+      "name": "Cover of Despacito with a guy snoring",
+      "links": [
+        "http://nymag.com/selectall/2017/07/woman-films-husband-snoring-as-despacito-cover.html?"
+      ],
+      "tags": []
+    },
+    {
+      "name": "DoppioJVM",
+      "links": ["http://plasma-umass.github.io/doppio-demo/"],
+      "tags": ["java"]
+    },
+    {
+      "name": "Apple is continuing its trend of oppenness.",
+      "links": ["https://machinelearning.apple.com/"],
+      "tags": ["apple", "machine-learning"]
+    },
+    {
+      "name": "Funny Dog API",
+      "links": ["https://dog.ceo/dog-api/#all"],
+      "tags": ["api"]
+    }
+  ],
+  "overflow": []
+}

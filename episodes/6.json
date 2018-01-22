@@ -1,0 +1,37 @@
+{
+  "title": "A Tale of Node Forks",
+  "date": {
+    "start": "2017-08-21",
+    "end": "2017-08-28"
+  },
+  "youtube": {
+    "id": "1-_q_MhQ3qY"
+  },
+  "content": [
+    {
+      "name": "Splitting of Node.js community with Ayo.js",
+      "links": [
+        "https://github.com/ayojs/ayo",
+        "http://www.zdnet.com/article/after-governance-breakdown-node-js-leaders-fight-for-its-survival/"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name":
+        "Exactly 10 years later and still the best Success Kid ever! #HappySuccessKidDay",
+      "links": ["https://twitter.com/laneymg/status/901537082929143808"],
+      "tags": ["meme"]
+    },
+    {
+      "name": "Polymer 3.0 preview: npm and ES6 Modules",
+      "links": ["https://www.polymer-project.org/blog/2017-08-22-npm-modules"],
+      "tags": ["polymer"]
+    },
+    {
+      "name": "PR to Delete Stack reconciler",
+      "links": ["https://github.com/facebook/react/pull/10517"],
+      "tags": ["react"]
+    }
+  ],
+  "overflow": []
+}

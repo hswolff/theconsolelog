@@ -1,0 +1,46 @@
+{
+  "title": "React 16 Has Changed Everything. Again.",
+  "date": {
+    "start": "2017-09-25",
+    "end": "2017-10-01"
+  },
+  "youtube": {
+    "id": "6KMToownK4c"
+  },
+  "content": [
+    {
+      "name": "React 15.6.2 as MIT",
+      "links": ["https://twitter.com/aweary/status/912504764545376261"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React 16",
+      "links": [
+        "https://reactjs.org/blog/2017/09/26/react-v16.0.html",
+        "https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Enzyme 3 has been released with React 16 support! 😍😍😍",
+      "links": [
+        "https://github.com/airbnb/enzyme/blob/master/docs/guides/migration-from-2-to-3.md"
+      ],
+      "tags": ["enzyme", "react"]
+    },
+    {
+      "name": "Neon Wants Your Help!",
+      "links": ["http://calculist.org/blog/2017/09/25/neon-wants-your-help/"],
+      "tags": ["rust"]
+    },
+    {
+      "name": "TC39 September Meeting",
+      "links": [
+        "https://github.com/babel/proposals/issues/28",
+        "https://twitter.com/littledan/status/913224214760566784"
+      ],
+      "tags": ["tc39"]
+    }
+  ],
+  "overflow": []
+}

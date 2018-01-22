@@ -1,0 +1,43 @@
+{
+  "title": "All The New Things - React 16, TC39, And Goodbye Flash!",
+  "date": {
+    "start": "2017-07-24",
+    "end": "2017-07-30"
+  },
+  "youtube": {
+    "id": "NxUTSMSkkjI"
+  },
+  "content": [
+    {
+      "name": "Adobe Flash",
+      "tags": ["flash"],
+      "links": [
+        "https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html",
+        "https://blog.chromium.org/2017/07/so-long-and-thanks-for-all-flash.html"
+      ]
+    },
+    {
+      "name": "Chrome 60 released",
+      "tags": ["chrome"],
+      "links": [
+        "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html",
+        "https://developers.google.com/web/updates/2017/05/devtools-release-notes",
+        "https://developers.google.com/web/updates/2017/06/object-rest-spread"
+      ]
+    },
+    {
+      "name": "React 16 beta 1 is out",
+      "tags": ["react"],
+      "links": [
+        "https://github.com/facebook/react/issues/10294",
+        "https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html"
+      ]
+    },
+    {
+      "name": "TC39 July Meeting",
+      "tags": ["tc39"],
+      "links": ["https://github.com/tc39/agendas/blob/master/2017/07.md"]
+    }
+  ],
+  "overflow": []
+}

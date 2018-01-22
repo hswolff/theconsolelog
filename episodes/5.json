@@ -1,0 +1,42 @@
+{
+  "title": "Reactions, Anger, and Patents, Oh My!",
+  "date": {
+    "start": "2017-08-14",
+    "end": "2017-08-20"
+  },
+  "youtube": {
+    "id": "aBM3xbltms4"
+  },
+  "content": [
+    {
+      "name": "React's Patent Clause",
+      "links": [
+        "https://code.facebook.com/posts/112130496157735/explaining-react-s-license/"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "New Babel REPL",
+      "links": [
+        "https://twitter.com/brian_d_vaughn/status/898215894639423488",
+        "https://twitter.com/left_pad/status/900165111981256708"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Concurrency in Swift: One possible approach",
+      "links": [
+        "https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782"
+      ],
+      "tags": ["swift"]
+    },
+    {
+      "name": "Introducing Electron Webpack Dashboard",
+      "links": [
+        "https://formidable.com/blog/2017/introducing-electron-webpack-dashboard/"
+      ],
+      "tags": ["electron", "webpack"]
+    }
+  ],
+  "overflow": []
+}

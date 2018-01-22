@@ -1,0 +1,45 @@
+{
+  "title": "React Fragments Aren't a Figment Of My Imagination",
+  "date": {
+    "start": "2017-11-27",
+    "end": "2017-12-03"
+  },
+  "youtube": {
+    "id": "CQ7xIA98mmg"
+  },
+  "content": [
+    {
+      "name": "React 16.2.0 Released",
+      "links": [
+        "https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html",
+        "https://twitter.com/sebmarkbage/status/935629861829320704",
+        "https://twitter.com/drosenwasser/status/935677033874538497"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Compile to WebAssembly Directly with Rust",
+      "links": ["https://www.hellorust.com/news/native-wasm-target.html"],
+      "tags": ["webassembly", "rust"]
+    },
+    {
+      "name": "npm updates: 5.6.0 Released, auto-merge package-lock conflicts",
+      "links": [
+        "http://blog.npmjs.org/post/167963735925/v560-2017-11-27",
+        "https://twitter.com/maybekatz/status/936729201733877761"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "PR Created to add Python support to Prettier",
+      "links": ["https://github.com/prettier/prettier/pull/3349"],
+      "tags": ["prettier", "python"]
+    },
+    {
+      "name": "Django 2.0 Released",
+      "links": ["https://docs.djangoproject.com/en/2.0/releases/2.0/"],
+      "tags": ["python", "django"]
+    }
+  ],
+  "overflow": []
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Virtual Reality Black Friday Is Still Scary",
+  "date": {
+    "start": "2017-11-20",
+    "end": "2017-11-26"
+  },
+  "youtube": {
+    "id": "wdfd7VSg6A8"
+  },
+  "content": [
+    {
+      "name": "Enabling the Social 3D Web",
+      "links": ["https://blog.mozvr.com/enabling-the-social-3d-web/"],
+      "tags": ["webvr"]
+    },
+    {
+      "name":
+        "Semver Proposal: Rename \"Major\" to Breaking and \"Minor\" to Feature",
+      "links": ["https://github.com/semver/semver/issues/411"],
+      "tags": ["semver"]
+    },
+    {
+      "name": "The Cost of JavaScript",
+      "links": [
+        "https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e"
+      ],
+      "tags": ["fun", "javascript"]
+    },
+    {
+      "name": "Why is it called Black Friday?",
+      "links": [
+        "https://kottke.org/17/11/why-do-we-call-it-black-friday-oh-and-some-black-friday-shopping-deals",
+        "https://www.visualthesaurus.com/cm/wordroutes/the-origins-of-black-friday/"
+      ],
+      "tags": ["fun"]
+    }
+  ],
+  "overflow": []
+}

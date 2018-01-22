@@ -1,0 +1,38 @@
+{
+  "title": "Nintendo Switch Uses React?!",
+  "date": {
+    "start": "2017-11-06",
+    "end": "2017-11-13"
+  },
+  "youtube": {
+    "id": "7JC7kWkqYvs"
+  },
+  "content": [
+    {
+      "name": "WebRTC is now Feature Complete",
+      "links": [
+        "https://www.w3.org/2017/11/media-advisory-webrtc10-cr.html.en"
+      ],
+      "tags": ["webrtc"]
+    },
+    {
+      "name": "Nintendo Switch Uses React",
+      "links": [
+        "https://html5experts.jp/shumpei-shiraishi/24538/",
+        "https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fhtml5experts.jp%2Fshumpei-shiraishi%2F24538%2F&edit-text="
+      ],
+      "tags": ["nintendo"]
+    },
+    {
+      "name": "Chrome Text Underline Upgrade",
+      "links": ["https://twitter.com/malyw/status/928250363647610881"],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Atom 1.18",
+      "links": ["https://code.visualstudio.com/updates/v1_18"],
+      "tags": ["atom"]
+    }
+  ],
+  "overflow": []
+}

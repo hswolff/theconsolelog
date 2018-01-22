@@ -1,0 +1,35 @@
+{
+  "title": "Last Episode Of 2017! What's the State of JavaScript In 2017?",
+  "date": {
+    "start": "2017-12-11",
+    "end": "2017-12-17"
+  },
+  "youtube": {
+    "id": "y9sVLcpSm8M"
+  },
+  "content": [
+    {
+      "name": "State of JavaScript 2017",
+      "links": ["https://stateofjs.com/"],
+      "tags": ["javascript"]
+    },
+    {
+      "name": "ReasonML is licensed under the MIT license",
+      "links": ["https://twitter.com/jordwalke/status/940355721354387456"],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "Observables in the DOM?",
+      "links": ["https://github.com/whatwg/dom/issues/544"],
+      "tags": ["tc39", "observables"]
+    },
+    {
+      "name": "The Current State of Implementation and Planning for ESModules",
+      "links": [
+        "https://medium.com/the-node-js-collection/the-current-state-of-implementation-and-planning-for-esmodules-a4ecb2aac07a"
+      ],
+      "tags": ["esmodules"]
+    }
+  ],
+  "overflow": []
+}

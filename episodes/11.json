@@ -1,0 +1,38 @@
+{
+  "title": "Pretty Vues of the Glimmering Octoverse",
+  "date": {
+    "start": "2017-10-09",
+    "end": "2017-10-15"
+  },
+  "youtube": {
+    "id": "0CvVfxOuvBI"
+  },
+  "content": [
+    {
+      "name": "Prettier adds support for Markdown",
+      "links": ["https://github.com/prettier/prettier/pull/2943"],
+      "tags": ["prettier"]
+    },
+    {
+      "name": "The State of the Octoverse 2017",
+      "links": ["https://octoverse.github.com/"],
+      "tags": ["github"]
+    },
+    {
+      "name": "Glimmer.js Progress Report",
+      "links": [
+        "https://emberjs.com/blog/2017/10/10/glimmer-progress-report.html"
+      ],
+      "tags": ["ember"]
+    },
+    {
+      "name": "Vue 2.5 Released",
+      "links": [
+        "https://medium.com/the-vue-point/vue-2-5-released-14bd65bf030b",
+        "https://gist.github.com/yyx990803/9bdff05e5468a60ced06c29c39114c6b"
+      ],
+      "tags": ["vue"]
+    }
+  ],
+  "overflow": []
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Native Mustache Templates In The Browser? A Must Ask!",
+  "date": {
+    "start": "2017-10-30",
+    "end": "2017-11-05"
+  },
+  "youtube": {
+    "id": "5wNps11wZIo"
+  },
+  "content": [
+    {
+      "name": "HTML Template Instantiation Proposal by Apple",
+      "links": [
+        "https://www.reddit.com/r/javascript/comments/7affoq/apples_proposal_for_html_template_interpolation/",
+        "https://github.com/w3c/webcomponents/blob/gh-pages/proposals/Template-Instantiation.md"
+      ],
+      "tags": ["apple", "tc39"]
+    },
+    {
+      "name": "What are the Most Disliked Programming Languages?",
+      "links": [
+        "https://stackoverflow.blog/2017/10/31/disliked-programming-languages/"
+      ],
+      "tags": ["fun"]
+    },
+    {
+      "name":
+        "Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line",
+      "links": [
+        "https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Version 5.0.0 of Angular Now Available",
+      "links": [
+        "https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced"
+      ],
+      "tags": ["angular"]
+    },
+    {
+      "name": "Inside The Great Poop Emoji Feud",
+      "links": [
+        "https://www.buzzfeed.com/charliewarzel/inside-the-great-poop-emoji-feud?utm_term=.xuvPaQ8EQ#.wyj3j7BP7"
+      ],
+      "tags": ["fun"]
+    },
+    {
+      "name":
+        "Apple Says 'Face With Tears of Joy' is Most Popular Emoji in United States Among English Speakers",
+      "links": [
+        "https://www.macrumors.com/2017/11/03/face-with-tears-of-joy-most-popular-emoji/"
+      ],
+      "tags": ["apple", "fun"]
+    }
+  ],
+  "overflow": []
+}

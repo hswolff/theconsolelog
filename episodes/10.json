@@ -1,0 +1,54 @@
+{
+  "title": "The CSS Grid Demo That Changed Everything For Me",
+  "date": {
+    "start": "2017-10-02",
+    "end": "2017-10-08"
+  },
+  "youtube": {
+    "id": "iZaL0rMRNTI"
+  },
+  "content": [
+    {
+      "name": "The Road to Ember 3.0",
+      "links": [
+        "https://emberjs.com/blog/2017/10/03/the-road-to-ember-3-0.html"
+      ],
+      "tags": ["ember"]
+    },
+    {
+      "name": "Glimmer's Optimizing Compiler",
+      "links": [
+        "https://www.linkedin.com/pulse/glimmers-optimizing-compiler-chad-hietala/"
+      ],
+      "tags": ["ember"]
+    },
+    {
+      "name": "VSCode version 1.17",
+      "links": [
+        "https://code.visualstudio.com/updates/v1_17",
+        "https://code.visualstudio.com/blogs/2017/10/03/terminal-renderer"
+      ],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Happy Birthday to TypeScript! Turns 5!",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2017/10/02/typescript-turns-5/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "AIM will shut down after 20 years",
+      "links": [
+        "https://www.theverge.com/2017/10/6/16435690/aim-shutting-down-after-20-years-aol-instant-messenger"
+      ],
+      "tags": ["news"]
+    },
+    {
+      "name": "Amazing CSS Grid Demo",
+      "links": ["https://codepen.io/rrenula/pen/LzLXYJ"],
+      "tags": ["css"]
+    }
+  ],
+  "overflow": []
+}

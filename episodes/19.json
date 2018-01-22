@@ -1,0 +1,47 @@
+{
+  "title": "React Humbly Requests Your Comments",
+  "date": {
+    "start": "2017-12-04",
+    "end": "2017-12-10"
+  },
+  "youtube": {
+    "id": "aQ0pKiwYK6E"
+  },
+  "content": [
+    {
+      "name": "Introducing the React RFC Process",
+      "links": [
+        "https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html",
+        "https://github.com/reactjs/rfcs/pulls"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "December 4th 1995: Netscape and Sun announce JavaScript",
+      "links": [
+        "https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71",
+        "https://twitter.com/obensource/status/937702006143246338",
+        "https://twitter.com/BrendanEich/status/937680138124316673"
+      ],
+      "tags": ["javascript", "fun"]
+    },
+    {
+      "name": "Webpack 4.0.0-alpha.0 Released",
+      "links": [
+        "https://twitter.com/thelarkinn/status/937777635626688512",
+        "https://github.com/webpack/webpack/issues/6064",
+        "https://twitter.com/TheLarkInn/status/938928029044170752"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "Parcel JavaScript Bundler Released",
+      "links": [
+        "https://hackernoon.com/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1",
+        "https://parceljs.org/"
+      ],
+      "tags": ["parcel", "bundler"]
+    }
+  ],
+  "overflow": []
+}

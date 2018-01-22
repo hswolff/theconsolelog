@@ -1,0 +1,42 @@
+{
+  "title": "No Assembly Required",
+  "date": {
+    "start": "2017-07-31",
+    "end": "2017-08-06"
+  },
+  "youtube": {
+    "id": "1uFyIxkEu60"
+  },
+  "content": [
+    {
+      "name": "webpack awarded $125,000 from MOSS Program ",
+      "links": [
+        "https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "malware on the npm registry",
+      "links": [
+        "http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "The Composer for Rick and Morty",
+      "links": ["https://www.youtube.com/watch?v=JN61CU3njsE"],
+      "tags": ["youtube"]
+    },
+    {
+      "name": "http2 merged into master!",
+      "links": ["https://twitter.com/mylesborins/status/893566926236024834"],
+      "tags": ["http2"]
+    },
+    {
+      "name": "v8 6.0 merged into master!",
+      "links": ["https://twitter.com/mylesborins/status/892482115685801984"],
+      "tags": ["node"]
+    }
+  ],
+  "overflow": []
+}
