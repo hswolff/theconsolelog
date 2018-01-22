@@ -1,0 +1,71 @@
+{
+  "title": "ES Modules in the Browser AND IN Node? Unthinkable!",
+  "date": {
+    "start": "2018-01-08",
+    "end": "2018-01-14"
+  },
+  "youtube": {
+    "id": "qibp8xLLCJs"
+  },
+  "content": [
+    {
+      "name": "ESM modules in node: npm edition",
+      "links": [
+        "https://gist.github.com/ceejbot/b49f8789b2ab6b09548ccb72813a1054",
+        "https://twitter.com/jdalton/status/951995685620006912"
+      ],
+      "tags": ["modules", "npm"]
+    },
+    {
+      "name": "Editorial: Add Automatic Semicolon Insertion hazard clause",
+      "links": ["https://github.com/tc39/ecma262/pull/1062"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Prettier 1.10: One Year of Prettier",
+      "links": ["https://prettier.io/blog/2018/01/10/1.10.0.html"],
+      "tags": ["prettier"]
+    },
+    {
+      "name": "The State of Atom's Performance",
+      "links": [
+        "http://blog.atom.io/2018/01/10/the-state-of-atoms-performance.html"
+      ],
+      "tags": ["atom"]
+    }
+  ],
+  "overflow": [
+    {
+      "name":
+        "Add wasm2c, a new tool that reads a .wasm file and generates a C source file",
+      "links": ["https://github.com/WebAssembly/wabt/pull/710"],
+      "tags": ["webassembly"]
+    },
+    {
+      "name": "Router and Subscriptions with ReasonML",
+      "links": [
+        "https://reasonml.github.io/reason-react/blog/2018/01/09/subscriptions-send-router.html"
+      ],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "Proposal: explicit named imports for non-JS/CSS assets",
+      "links": [
+        "https://github.com/facebookincubator/create-react-app/issues/3722"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Code Splitting Coming to Rollup",
+      "links": ["https://github.com/rollup/rollup/pull/1841"],
+      "tags": ["rollup", "bundler"]
+    },
+    {
+      "name": "HTML 5.2 Is Done, HTML 5.3 Is Coming",
+      "links": [
+        "https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/"
+      ],
+      "tags": ["html"]
+    }
+  ]
+}

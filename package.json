@@ -1,25 +1,35 @@
 {
   "name": "theconsolelog",
-  "version": "1.0.0",
-  "description": "",
-  "main": "reptar.config.js",
+  "version": "2.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "lint": "eslint ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hswolff/theconsolelog.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hswolff/theconsolelog/issues"
-  },
-  "homepage": "https://github.com/hswolff/theconsolelog#readme",
   "dependencies": {
-    "normalize.css": "^7.0.0",
-    "reptar-excerpt": "^1.0.0",
-    "reptar-html-minifier": "^1.0.0"
+    "emotion": "^8.0.12",
+    "emotion-server": "^8.0.12",
+    "gatsby": "^1.9.158",
+    "gatsby-link": "^1.6.34",
+    "gatsby-plugin-catch-links": "^1.0.14",
+    "gatsby-plugin-emotion": "^1.1.10",
+    "gatsby-plugin-google-analytics": "^1.0.15",
+    "gatsby-plugin-react-helmet": "^2.0.3",
+    "gatsby-plugin-react-next": "^1.0.7",
+    "gatsby-plugin-sharp": "^1.6.25",
+    "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-source-filesystem": "^1.5.14",
+    "gatsby-transformer-json": "^1.0.14",
+    "luxon": "^0.3.1",
+    "react-emotion": "^8.0.12",
+    "react-helmet": "^5.2.0",
+    "typed.js": "^2.0.6",
+    "typography-theme-parnassus": "^0.15.10"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-plugin-react": "^7.5.1"
   }
 }
