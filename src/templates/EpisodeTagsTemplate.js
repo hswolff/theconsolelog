@@ -30,7 +30,6 @@ export default function EpisodeTagsTemplate({ pathContext }) {
             );
           })}
         </ul>
-        <GatsbyLink to="/episode/tags">All tags</GatsbyLink>
       </div>
     );
   }
