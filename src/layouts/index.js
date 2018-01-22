@@ -21,17 +21,18 @@ export default ({ children }) => (
       ]}
     />
     <Header />
-    <AboutInfoBox />
-    <div
+    <main
       className={css({
         margin: '0 auto',
         maxWidth: layout.width,
-        padding: '0px 0 1.45rem',
+        padding: `0px ${layout.paddingY} 1.45rem`,
         paddingTop: 0,
       })}
     >
+      <AboutInfoBox />
+
       {children()}
-    </div>
-    <Footer />
+      <Footer />
+    </main>
   </Fragment>
 );

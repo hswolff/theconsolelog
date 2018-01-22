@@ -19,7 +19,7 @@ export default () => (
 );
 
 const Container = styled('aside')`
-  width: ${layout.width}px;
+  max-width: ${layout.width}px;
   margin: 0 auto;
   border-radius: 4px;
   padding: 1.2rem 1.1rem;
@@ -47,6 +47,6 @@ class TypedText extends Component {
   }
 
   render() {
-    return <span css={{ whiteSpace: 'pre' }} ref={r => (this.el = r)} />;
+    return <span css={{ whiteSpace: 'pre-wrap' }} ref={r => (this.el = r)} />;
   }
 }

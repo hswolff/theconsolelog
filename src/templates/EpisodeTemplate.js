@@ -16,12 +16,16 @@ export default function EpisodeTempalate({ data: { episodesJson } }) {
       <Helmet title={`E${episodeNumber}: ${title}`} />
       <EpisodeListItem {...episodesJson} linked={false} />
       <iframe
-        width={800}
-        height={450}
         src={`https://www.youtube.com/embed/${youtube.id}?rel=0&amp;showinfo=0`}
         frameBorder={0}
         allow="autoplay; encrypted-media"
         allowFullScreen
+        css={`
+          @media (min-width: 1000px) {
+            width: 800px;
+            height: 450px;
+          }
+        `}
       />
       <h2>Show Links</h2>
       <Links content={content} />

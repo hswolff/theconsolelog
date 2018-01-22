@@ -14,7 +14,7 @@ export default () => (
   >
     <HeaderInner>
       <Left>
-        <Link to="/" css={{ margin: 'none', color: 'transparent' }}>
+        <Link to="/" css={{ boxShadow: 'none' }}>
           <Logo src={image} title="The Console Log" />
         </Link>
         <Title>
@@ -43,6 +43,7 @@ export default () => (
           <img
             src={youtube}
             css={`
+              max-width: inherit;
               width: 24px;
               height: 24px;
               margin: 0;
@@ -59,11 +60,14 @@ export default () => (
 const HeaderInner = styled('div')`
   max-width: ${layout.width}px;
   margin: 0 auto;
-  padding: 1.45rem 0;
+  padding: 1.45rem ${layout.paddingY};
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  flex-direction: column;
+  @media (min-width: 1000px) {
+    flex-direction: row;
+  }
 `;
 
 const Left = styled('div')`
@@ -76,10 +80,6 @@ const Logo = styled('img')`
   width: 64px;
   height: 64px;
   margin: 0;
-  &,
-  &:hover {
-    text-decoration: none;
-  }
 `;
 
 const Title = styled('h1')`
