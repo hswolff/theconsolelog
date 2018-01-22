@@ -13,7 +13,7 @@ export default function EpisodeTagsTemplate({ pathContext }) {
           {links.length} link{links.length === 1 ? '' : 's'} tagged with {name}
         </h1>
         <ul>
-          {links.map(({ name, slug, links }) => {
+          {links.map(({ name, links }) => {
             return (
               <li key={name}>
                 <h1>{name}</h1>

@@ -5,7 +5,17 @@ import { layout } from '../utils/constants';
 export default () => (
   <Footer>
     <Left>The Console Log</Left>
-    <Right>New Episodes Weekly</Right>
+    <Right>
+      <span>New Episodes Weekly</span>
+      <Bullet />
+      <a
+        href="https://github.com/hswolff/theconsolelog"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        GitHub
+      </a>
+    </Right>
   </Footer>
 );
 
@@ -27,22 +37,13 @@ const Left = styled('div')`
   align-items: center;
 `;
 
-const Right = styled('div')`
-  a {
-    color: #fff;
-    box-shadow: none;
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-`;
+const Right = styled('div')``;
 
 const Bullet = () => (
   <span
     css={`
       display: inline-block;
       margin: 0 10px;
-      color: #fff;
     `}
   >
     &bull;
