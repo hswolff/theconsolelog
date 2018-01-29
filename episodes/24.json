@@ -1,0 +1,117 @@
+{
+  "title": "JavaScript Just Got SUPERCHARGED",
+  "date": {
+    "start": "2018-01-22",
+    "end": "2018-01-28"
+  },
+  "youtube": {
+    "id": "CjPs6cGnoIQ"
+  },
+  "content": [
+    {
+      "name": "TC39 now has an official logo",
+      "links": [
+        "https://github.com/tc39/logo",
+        "https://twitter.com/mathias/status/956638727203299328"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Async iteration is now stage 4",
+      "links": [
+        "https://github.com/tc39/proposals/commit/a41dccc91675f41c65dee354c18c19946d6f2f45"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Promise.prototype.finally is now stage 4",
+      "links": [
+        "https://github.com/tc39/proposals/commit/4aa195cb84b40cb6d6cb12bda31ba8cb69b5dda1",
+        "https://twitter.com/ljharb/status/956229868575846400"
+      ],
+      "tags": ["tc39"]
+    },
+
+    {
+      "name": "Rest/spread for properties is now stage 4",
+      "links": [
+        "https://github.com/tc39/proposals/commit/7a04292f2e6f11fbcfef8a7b20a0bf5aedba79a4",
+        "https://twitter.com/rauschma/status/956615757722513414"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name":
+        "`catch` bindings are now optional in @v8js v6.6.x and Chrome 66, stage 3",
+      "links": [
+        "https://github.com/tc39/proposal-optional-catch-binding",
+        "https://twitter.com/mathias/status/956209997808939008"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "webpack 4.0.0-beta.0 Released",
+      "links": [
+        "https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2",
+        "https://twitter.com/wsokra/status/956300912330493952"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "New React Context API Merged",
+      "links": [
+        "https://github.com/facebook/react/pull/11818",
+        "https://github.com/acdlite/rfcs/blob/new-version-of-context/text/0000-new-version-of-context.md",
+        "https://twitter.com/acdlite/status/956390180637650944",
+        "https://twitter.com/acdlite/status/956649762660302848"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Service Worker Support Added to Safari in iOS 11.3",
+      "links": [
+        "https://twitter.com/rmondello/status/956256845311590400",
+        "https://webkit.org/blog/8084/release-notes-for-safari-technology-preview-48/",
+        "https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_11_1.html"
+      ],
+      "tags": ["service workers", "safari"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "create-react-app graduates from open source incubator program",
+      "links": ["https://twitter.com/fbOpenSource/status/955513652261482496"],
+      "tags": ["react"]
+    },
+    {
+      "name":
+        "Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more",
+      "links": [
+        "https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95"
+      ],
+      "tags": ["bundler"]
+    },
+    {
+      "name": "ESModule targeting has landed in Babel for babel-preset-env",
+      "links": [
+        "https://twitter.com/kristoferbaxter/status/955572177750786048"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Trailing commas support added to ReasonML",
+      "links": ["https://github.com/facebook/reason/pull/1775"],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "Visual Studio Code Can Do That?",
+      "links": ["http://vscodecandothat.com/"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "A JavaScript NES emulator",
+      "links": ["https://github.com/bfirsh/jsnes"],
+      "tags": ["emulator", "fun"]
+    }
+  ]
+}
