@@ -3,6 +3,8 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'The Console Log',
+    description: 'A weekly YouTube show about JavaScript and the web.',
+    siteUrl: 'http://theconsolelog.com',
   },
   plugins: [
     'gatsby-plugin-react-next',
@@ -30,5 +32,57 @@ module.exports = {
       },
     },
     'gatsby-transformer-json',
+    {
+      resolve: 'gatsby-plugin-feed',
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              title
+              description
+              siteUrl
+            }
+          }
+        }
+      `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allEpisodesJson } }) => {
+              return allEpisodesJson.edges.map(edge => {
+                return Object.assign({}, edge.node, {
+                  description: `Episode ${edge.node.fields.episodeNumber}.`,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                });
+              });
+            },
+            query: `
+            {
+              allEpisodesJson(sort: {fields: [date___end], order: DESC}) {
+                edges {
+                  node {
+                    title
+                    fields {
+                      episodeNumber
+                      slug
+                    }
+                    youtube {
+                      id
+                    }
+                    date {
+                      start
+                      end
+                    }
+                  }
+                }
+              }
+            }
+          `,
+            output: '/rss.xml',
+          },
+        ],
+      },
+    },
   ],
 };
