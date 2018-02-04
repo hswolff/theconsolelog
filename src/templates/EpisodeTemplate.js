@@ -27,6 +27,14 @@ export default function EpisodeTempalate({ data: { episodesJson } }) {
           }
         `}
       />
+      <p>
+        <a
+          href={`https://www.youtube.com/watch?v=${youtube.id}`}
+          target="_blank"
+        >
+          Watch on YouTube
+        </a>
+      </p>
       <h2>Show Links</h2>
       <Links content={content} />
       <h2>Overflow Links</h2>
