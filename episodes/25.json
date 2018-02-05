@@ -1,0 +1,66 @@
+{
+  "title":
+    "The Groundhog Saw Its Shadow, That Means Only 3 More Years For AngularJS",
+  "date": {
+    "start": "2018-01-29",
+    "end": "2018-02-04"
+  },
+  "youtube": {
+    "id": "BKAnagoQz4k"
+  },
+  "content": [
+    {
+      "name": "Stable AngularJS and Long Term Support",
+      "links": [
+        "https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c"
+      ],
+      "tags": ["angularjs"]
+    },
+    {
+      "name": "TypeScript 2.7",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Observable notebooks",
+      "links": [
+        "https://beta.observablehq.com/",
+        "https://twitter.com/observablehq/status/958726175123128321"
+      ],
+      "tags": ["fun"]
+    },
+    {
+      "name": "V8 release v6.5",
+      "links": ["https://v8project.blogspot.com/2018/02/v8-release-65.html"],
+      "tags": ["javascript"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Indexed Database API 2.0",
+      "links": ["https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/"],
+      "tags": ["dom"]
+    },
+    {
+      "name": "ECMAScript regular expressions are getting better!",
+      "links": ["https://mathiasbynens.be/notes/es-regexp-proposals"],
+      "tags": ["javascript", "tc39"]
+    },
+    {
+      "name": "Introducing URQL (Beta), A Universal React Query Library",
+      "links": ["https://formidable.com/blog/2018/introducing-urql/"],
+      "tags": ["graphql"]
+    },
+    {
+      "name":
+        "The WHATWG URL implementation will be a global starting in Node.js 10.0.0",
+      "links": [
+        "https://twitter.com/jasnell/status/958719599612186625",
+        "https://github.com/nodejs/node/pull/18281"
+      ],
+      "tags": ["node"]
+    }
+  ]
+}
