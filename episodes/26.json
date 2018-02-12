@@ -1,0 +1,81 @@
+{
+  "title": "February is Full of Promise & Emojis",
+  "date": {
+    "start": "2018-02-05",
+    "end": "2018-02-11"
+  },
+  "youtube": {
+    "id": "G4ngqjMuDFg"
+  },
+  "content": [
+    {
+      "name":
+        "Node.js 10.0.0 will contain first class support for fully promisified fs functions",
+      "links": [
+        "https://twitter.com/jasnell/status/960733696461438976",
+        "https://github.com/nodejs/node/pull/18297"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "In depth guide to Service Workers for WebKit",
+      "links": ["https://webkit.org/blog/8090/workers-at-your-service/"],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "157 New Emojis in the 2018 Emoji List",
+      "links": [
+        "https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/"
+      ],
+      "tags": ["emoji", "fun"]
+    },
+    {
+      "name": "Chrome to mark all HTTP sites as \"not-secure\" in July",
+      "links": [
+        "https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "VSCode 1.20 Released",
+      "links": [
+        "https://code.visualstudio.com/updates/v1_20",
+        "https://www.youtube.com/watch?v=MWz8y1D3PMQ"
+      ],
+      "tags": ["vscode"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Umbrella Issue for React's 16.3 and 16.4 releases",
+      "links": ["https://github.com/facebook/react/issues/12152"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Next.js 5",
+      "links": ["https://zeit.co/blog/next5"],
+      "tags": ["nextjs", "release"]
+    },
+    {
+      "name": "Announcing CodeSandbox 2.5",
+      "links": [
+        "https://hackernoon.com/announcing-codesandbox-2-5-be767d15ffd",
+        "https://medium.com/@christianalfoni/lessons-learned-refactoring-codesandbox-io-from-redux-to-cerebral-40e9a5646281"
+      ],
+      "tags": ["release"]
+    },
+    {
+      "name": "Winamp 2.9 in HTML5 and JavaScript",
+      "links": ["https://github.com/captbaritone/winamp2-js"],
+      "tags": ["fun"]
+    },
+    {
+      "name": "How Google Chrome’s new ad blocker works",
+      "links": [
+        "https://www.ctrl.blog/entry/chrome-adblocker",
+        "https://developers.google.com/web/updates/2017/12/better-ads"
+      ],
+      "tags": ["chrome"]
+    }
+  ]
+}
