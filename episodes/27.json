@@ -1,0 +1,103 @@
+{
+  "title": "Get AMPed for Ember's 3.0 Release",
+  "date": {
+    "start": "2018-02-12",
+    "end": "2018-02-18"
+  },
+  "youtube": {
+    "id": "FJaaL4gACWA"
+  },
+  "content": [{
+      "name": "React Native (including Fresco, Metro, and Yoga) relicensed under the MIT license to match React",
+      "links": [
+        "https://twitter.com/reactjs/status/964689022747475968",
+        "https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Ember 3.0 Released",
+      "links": [
+        "https://emberjs.com/blog/2018/02/14/ember-3-0-released.html",
+        "https://emberjs.com/blog/2018/02/16/ember-3-1-beta-released.html"
+      ],
+      "tags": ["ember"]
+    },
+    {
+      "name": "Bringing the power of AMP to Gmail",
+      "links": [
+        "https://www.blog.google/products/g-suite/bringing-power-amp-gmail/",
+        "https://ampbyexample.com/playground/#runtime=amp4email"
+      ],
+      "tags": ["email", "amp"]
+    },
+    {
+      "name": "Intent to Ship: CSS Typed OM Houdini API",
+      "links": [
+        "https://twitter.com/malyw/status/963759734619869186",
+        "https://docs.google.com/document/d/1a4gFI-iFv5uA3SskHMrt-ZphCJTbNda9U78xlHmektA/view#"
+      ],
+      "tags": ["css", "houdini"]
+    }
+  ],
+  "overflow": [{
+      "name": "MongoDB gets support for multi-document ACID transactions",
+      "links": [
+        "https://www.mongodb.com/transactions",
+        "https://techcrunch.com/2018/02/15/mongodb-gets-support-for-multi-document-acid-transactions/"
+      ],
+      "tags": ["mongodb"]
+    },
+    {
+      "name": "webpack 4: mode and optimization",
+      "links": [
+        "https://medium.com/webpack/webpack-4-mode-and-optimization-5423a6bc597a"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "webpack 4: import() and CommonJs",
+      "links": [
+        "https://medium.com/webpack/webpack-4-import-and-commonjs-d619d626b655"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "CSS Grid Layout Module Level 2",
+      "links": ["https://css-tricks.com/css-grid-layout-module-level-2/"],
+      "tags": ["css"]
+    },
+    {
+      "name": "Parcel v1.6.0 Released",
+      "links": ["https://medium.com/@devongovett/parcel-v1-6-0-46f4a2514668"],
+      "tags": ["parcel"]
+    },
+    {
+      "name": "Atom 1.24",
+      "links": ["http://blog.atom.io/2018/02/13/atom-1-24.html"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "Near the 7.0 Babel release",
+      "links": [
+        "https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039",
+        "http://new.babeljs.io/docs/en/next/v7-migration.html"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Overview of how React works: Render & Commit Phase",
+      "links": [
+        "https://github.com/reactjs/rfcs/issues/26#issuecomment-365744134"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Salon mines cryptocurrencies when you suppress ads",
+      "links": [
+        "https://www.salon.com/about/faq-what-happens-when-i-choose-to-suppress-ads-on-salon/"
+      ],
+      "tags": ["crypto"]
+    }
+  ]
+}
