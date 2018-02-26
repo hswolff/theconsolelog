@@ -1,0 +1,77 @@
+{
+  "title": "Webpack Goes To 4 And I Turn Into 2",
+  "date": {
+    "start": "2018-02-19",
+    "end": "2018-02-25"
+  },
+  "youtube": {
+    "id": "SDJwfkB9EZI"
+  },
+  "content": [
+    {
+      "name": "webpack 4.0 final",
+      "links": [
+        "https://medium.com/webpack/webpack-4-released-today-6cdb994702d4",
+        "https://twitter.com/wSokra/status/967592495533215749",
+        "https://github.com/webpack/webpack/releases/tag/v4.0.0"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "npm 5.7.1",
+      "links": [
+        "http://blog.npmjs.org/post/171139955345/v570",
+        "https://github.com/npm/npm/releases/tag/v5.7.1"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Better Flow Error Messages for the JavaScript Ecosystem",
+      "links": [
+        "https://medium.com/flow-type/better-flow-error-messages-for-the-javascript-ecosystem-73b6da948ae2"
+      ],
+      "tags": ["lfow"]
+    },
+    {
+      "name": "Angular Ivy, A Brand New Renderer for Angular",
+      "links": [
+        "https://blog.angular.io/trip-report-from-ngatlanta-angulars-roadmap-inclusion-and-more-b6c8bae85417",
+        "http://ivy.angular.io",
+        "https://herringtondarkholme.github.io/2018/02/19/angular-ivy/"
+      ],
+      "tags": ["angular"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Release Notes for Safari Technology Preview 50",
+      "links": [
+        "https://webkit.org/blog/8121/release-notes-for-safari-technology-preview-50/"
+      ],
+      "tags": ["safari"]
+    },
+    {
+      "name": "@code insiders now support disabling built in extensions.",
+      "links": ["https://twitter.com/sandy081/status/965891223813869569"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Maybe you don't need Rust and WASM to speed up your JS",
+      "links": [
+        "https://twitter.com/mraleph/status/965589745605767168?s=12",
+        "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+      ],
+      "tags": ["wasm"]
+    },
+    {
+      "name": "npmarchive demo",
+      "links": ["https://twitter.com/maybekatz/status/967257910051880960"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "WebAssembly Core Specification",
+      "links": ["https://www.w3.org/TR/2018/WD-wasm-core-1-20180215/"],
+      "tags": ["webassembly"]
+    }
+  ]
+}
