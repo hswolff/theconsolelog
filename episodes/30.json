@@ -1,0 +1,123 @@
+{
+  "title": "Smooshgate Flattens the JavaScript Community",
+  "date": {
+    "start": "2018-03-05",
+    "end": "2018-03-11"
+  },
+  "youtube": {
+    "id": "RRGCoGUnMfg"
+  },
+  "content": [
+    {
+      "name": "flatten renamed to smoosh?",
+      "links": [
+        "https://github.com/tc39/proposal-flatMap/pull/56",
+        "https://twitter.com/jspedant/status/971193585822396416?s=12",
+        "https://github.com/mootools/mootools-core/issues/2797#issuecomment-371058213",
+        "https://github.com/staltz/prevent-smoosh",
+        "https://twitter.com/bterlson/status/971583243639169024?s=12"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Private class fields (Stage 3) arrived in Chrome",
+      "links": ["https://twitter.com/malyw/status/970659453925318656?s=12"],
+      "tags": ["tc39"]
+    },
+    {
+      "name":
+        "Google Chrome: Flash Usage Declines from 80% in 2014 to Under 8% Today",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/google-chrome-flash-usage-declines-from-80-percent-in-2014-to-under-8-percent-today/"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "React Suspense demo",
+      "links": ["https://codesandbox.io/s/8nq4w3jj39"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Alternative HoC Pattern for React Components",
+      "links": ["https://twitter.com/acdlite/status/971598256454098944"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React ref-forwarding API RFC",
+      "links": [
+        "https://github.com/reactjs/rfcs/pull/30",
+        "https://github.com/facebook/react/pull/12346"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Adding the \"adopt\" keyword to the JSX syntax",
+      "links": [
+        "https://gist.github.com/trueadm/17beb64288e30192f3aa29cad0218067",
+        "https://twitter.com/trueadm/status/972606926298189824?s=12"
+      ],
+      "tags": ["react"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "History of the browser user-agent string",
+      "links": ["https://webaim.org/blog/user-agent-string-history/"],
+      "tags": ["browser", "history"]
+    },
+    {
+      "name": "VSCode 1.21 Released",
+      "links": ["https://code.visualstudio.com/updates/v1_21"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "An experimental next-generation Electron-based text editor",
+      "links": ["https://github.com/atom/xray"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "npm ci",
+      "links": [
+        "http://blog.npmjs.org/post/171556855892/introducing-npm-ci-for-faster-more-reliable"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Clang is now used to build Chrome for Windows",
+      "links": [
+        "http://blog.llvm.org/2018/03/clang-is-now-used-to-build-chrome-for.html"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Emscripting a C library to Wasm",
+      "links": [
+        "https://developers.google.com/web/updates/2018/03/emscripting-a-c-library"
+      ],
+      "tags": ["web assembly"]
+    },
+    {
+      "name":
+        "Chrome 66: The Preview tab pretty-prints minified resources by default",
+      "links": ["https://twitter.com/ChromeDevTools/status/971054800900165634"],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Reason 3.1.0 Released",
+      "links": ["https://reasonml.github.io/blog/2018/03/06/reason-3.1.0.html"],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "React Native Community has a new home",
+      "links": ["https://twitter.com/reactnative/status/971139145866264577"],
+      "tags": ["react native"]
+    },
+    {
+      "name": "Standardizing lessons learned from AMP",
+      "links": [
+        "https://amphtml.wordpress.com/2018/03/08/standardizing-lessons-learned-from-amp/"
+      ],
+      "tags": ["amp"]
+    }
+  ]
+}
