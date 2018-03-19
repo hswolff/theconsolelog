@@ -1,0 +1,112 @@
+{
+  "title": "Developers Love JavaScript, They Really Do!",
+  "date": {
+    "start": "2018-03-12",
+    "end": "2018-03-18"
+  },
+  "youtube": {
+    "id": "5WgKT3NBPVI"
+  },
+  "content": [
+    {
+      "name": "Stack Overflow Developer Survey Results 2018",
+      "links": [
+        "https://insights.stackoverflow.com/survey/2018/",
+        "https://www.mongodb.com/blog/post/stack-overflow-research-developers-mongodb-most-wanted-database"
+      ],
+      "tags": ["news"]
+    },
+    {
+      "name": "Celebrating the 29th anniversary of the Web",
+      "links": [
+        "https://www.w3.org/blog/2018/03/celebrating-the-anniversary-of-the-web/"
+      ],
+      "tags": ["web"]
+    },
+    {
+      "name": "MobX 4 Released",
+      "links": [
+        "https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da"
+      ],
+      "tags": ["mobx"]
+    },
+    {
+      "name": "Adding Websocket support to node?",
+      "links": ["https://github.com/nodejs/node/issues/19308"],
+      "tags": ["node", "websocket"]
+    },
+    {
+      "name": "Javascript Classes 1.1",
+      "links": ["https://github.com/zenparsing/js-classes-1.1"],
+      "tags": ["javascript", "tc39"]
+    },
+    {
+      "name": "Package name maps",
+      "links": ["https://github.com/domenic/package-name-maps"],
+      "tags": ["tc39"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "EmberConf 2018 Keynote",
+      "links": ["https://speakerdeck.com/tomdale/emberconf-2018-keynote"],
+      "tags": ["ember"]
+    },
+    {
+      "name": "Unblocking Clipboard Access",
+      "links": [
+        "https://developers.google.com/web/updates/2018/03/clipboardapi"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Say Hello to Houdini and the CSS Paint API",
+      "links": [
+        "https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/",
+        "https://github.com/lonekorean/hello-houdini"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "name":
+        "Repl.it 1.0: the IDE That Grows—from Playgrounds to Fullstack Apps",
+      "links": ["https://repl.it/site/blog/platform"],
+      "tags": ["web"]
+    },
+    {
+      "name":
+        "LinkedIn: How We Built the Same App Twice with Preact and Glimmer.js",
+      "links": [
+        "https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs"
+      ],
+      "tags": ["preact", "ember"]
+    },
+    {
+      "name": "Atom 1.25",
+      "links": ["http://blog.atom.io/2018/03/15/atom-1-25.html"],
+      "tags": ["web"]
+    },
+    {
+      "name": "TC39 developer engagement survey",
+      "links": [
+        "https://docs.google.com/forms/d/e/1FAIpQLSfoZy6pQSWO9H88QyStTSHYAvFSDvs9B751C3y4AdDKs66a1g/viewform"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Announcing TypeScript 2.8 RC",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/03/15/announcing-typescript-2-8-rc/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Street Fighter II in the real world",
+      "links": [
+        "https://www.youtube.com/watch?v=NpvZWFd0uRg",
+        "https://9to5mac.com/2018/03/15/ar-games-street-fighter-2/amp/"
+      ],
+      "tags": ["cool"]
+    }
+  ]
+}
