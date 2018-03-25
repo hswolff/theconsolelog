@@ -1,0 +1,85 @@
+{
+  "title": "We Hit Over 1000 Subscribers!!!",
+  "date": {
+    "start": "2018-03-19",
+    "end": "2018-03-25"
+  },
+  "youtube": {
+    "id": "uKZGflqm8eE"
+  },
+  "content": [
+    {
+      "name": "New npmjs website",
+      "links": [
+        "https://www.npmjs.com/",
+        "https://twitter.com/isntitvacant/status/976567455890976769?s=12"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "D3 5.0 Released",
+      "links": [
+        "https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-50"
+      ],
+      "tags": ["d3"]
+    },
+    {
+      "name": "TC39 March Meeting",
+      "links": [
+        "https://github.com/tc39/agendas/blob/master/2018/03.md",
+        "https://github.com/babel/proposals/issues/40",
+        "https://github.com/keithamus/proposal-array-last",
+        "https://github.com/gsathya/proposal-slice-notation",
+        "https://github.com/tc39/proposal-pipeline-operator/",
+        "https://docs.google.com/presentation/d/1eFFRK1wLIazIuK0F6fY974OIDvvWXS890XAMB59PUBA/edit#slide=id.p"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "React Apollo 2.1",
+      "links": [
+        "https://dev-blog.apollodata.com/introducing-react-apollo-2-1-c837cc23d926"
+      ],
+      "tags": ["graphql"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "JSX Adopt Babel Plugin",
+      "links": [
+        "https://github.com/Andarist/babel-plugin-jsx-adopt",
+        "https://twitter.com/andaristrake/status/975514517374492674"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Visualization of async vs sync rendering in React",
+      "links": ["https://twitter.com/acdlite/status/977291318324948992"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Keyboard Cat dies",
+      "links": [
+        "https://www.washingtonpost.com/news/morning-mix/wp/2018/03/20/bento-the-keyboard-cat-dies-at-age-9-condolences-pour-in/?utm_term=.71dc7b0e7a24"
+      ],
+      "tags": ["funny"]
+    },
+    {
+      "name": "Sensor APIs are now W3C Candidate Recommendations",
+      "links": [
+        "https://lists.w3.org/Archives/Public/public-device-apis/2018Mar/0008.html"
+      ],
+      "tags": ["w3c"]
+    },
+    {
+      "name": "ECMAScript Proposal: Optional Static Typing",
+      "links": ["https://github.com/sirisian/ecmascript-types"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Funny Thank You Issue on VSCode",
+      "links": ["https://github.com/Microsoft/vscode/issues/46143"],
+      "tags": ["vscode"]
+    }
+  ]
+}
