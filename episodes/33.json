@@ -1,0 +1,94 @@
+{
+  "title": "New Versions of React, iOS, and GraphQL! And Tensorflow comes to JS!?",
+  "date": {
+    "start": "2018-03-26",
+    "end": "2018-04-01"
+  },
+  "youtube": {
+    "id": "03bFTBzvKAA"
+  },
+  "content": [{
+      "name": "React v16.3.0: New lifecycles and context API",
+      "links": ["https://reactjs.org/blog/2018/03/29/react-v-16-3.html"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React Update on Async Rendering",
+      "links": [
+        "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Service Workers shipped in Safari for iOS 11.3",
+      "links": [
+        "https://twitter.com/addyosmani/status/979606651429822464",
+        "https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7"
+      ],
+      "tags": ["serviceworkers", "safari", "ios"]
+    },
+    {
+      "name": "GraphQL.js: Preparing for v14.0.0",
+      "links": [
+        "https://medium.com/@leeb/graphql-js-preparing-for-v14-0-0-839f823c144e"
+      ],
+      "tags": ["graphql"]
+    },
+    {
+      "name": "TensorFlow.js",
+      "links": ["https://js.tensorflow.org/"],
+      "tags": ["machine learning"]
+    }
+  ],
+  "overflow": [{
+      "name": "CodeSandbox Live",
+      "links": [
+        "https://medium.com/@compuives/introducing-codesandbox-live-real-time-code-collaboration-in-the-browser-6d508cfc70c9",
+        "https://twitter.com/CompuIves/status/978322665009307648"
+      ],
+      "tags": ["codesandbox"]
+    },
+    {
+      "name": "Next.js 5.1",
+      "links": ["https://zeit.co/blog/next5-1"],
+      "tags": ["next"]
+    },
+    {
+      "name": "Working with the new CSS Typed Object Model",
+      "links": ["https://developers.google.com/web/updates/2018/03/cssom"],
+      "tags": ["css"]
+    },
+    {
+      "name": "V8 release v6.6",
+      "links": ["https://v8project.blogspot.com/2018/03/v8-release-66.html"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "React Router v4.3.0-rc.1",
+      "links": [
+        "https://github.com/ReactTraining/react-router/releases/tag/v4.3.0-rc.1"
+      ],
+      "tags": ["react", "router"]
+    },
+    {
+      "name": "TypeScript 2.8",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/",
+        "https://twitter.com/typescriptlang/status/978673305917026306"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Parcel v1.7.0",
+      "links": ["https://medium.com/@devongovett/parcel-v1-7-0-9aac0c505837"],
+      "tags": ["parcel"]
+    },
+    {
+      "name": "Tomorrow’s ES Modules Today!",
+      "links": [
+        "https://medium.com/web-on-the-edge/tomorrows-es-modules-today-c53d29ac448c"
+      ],
+      "tags": ["es", "node"]
+    }
+  ]
+}
