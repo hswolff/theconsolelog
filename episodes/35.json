@@ -1,0 +1,56 @@
+{
+  "title": "The Merge That Kept Us All In React Suspense",
+  "date": {
+    "start": "2018-05-07",
+    "end": "2018-05-13"
+  },
+  "youtube": {
+    "id": "aTXLLyk-fNg"
+  },
+  "content": [{
+      "id": "React Suspense Merged into Master",
+      "links": [
+        "https://twitter.com/acdlite/status/994751858244665346",
+        "https://github.com/facebook/react/commit/6565795377d1d2c79a7708766f1af9e1a87517de"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "id": "ES2015 / ES6 modules are now live in Firefox 60",
+      "links": [
+        "https://developer.mozilla.org/en-US/Firefox/Releases/60",
+        "https://bugzilla.mozilla.org/show_bug.cgi?id=1438139"
+      ],
+      "tags": ["tc39", "firefox"]
+    },
+    {
+      "id": "npm audit",
+      "links": [
+        "https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "id": "Visual Studio Live Share is now available for free",
+      "links": [
+        "https://twitter.com/reybango/status/993544691131002886",
+        "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
+      ],
+      "tags": ["vscode"]
+    },
+    {
+      "id": "Emoji Draft Candidates for 2019",
+      "links": [
+        "http://blog.unicode.org/2018/05/emoji-draft-candidates-for-2019.html"
+      ],
+      "tags": ["emoji"]
+    }
+  ],
+  "overflow": [{
+    "id": "Sublime Text 3.1",
+    "links": [
+      "https://www.sublimetext.com/blog/articles/sublime-text-3-point-1"
+    ],
+    "tags": ["editor"]
+  }]
+}
