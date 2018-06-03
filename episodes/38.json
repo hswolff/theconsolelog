@@ -1,0 +1,90 @@
+{
+  "title": "Node 10 and npm 6 Together At Last",
+  "date": {
+    "start": "2018-05-28",
+    "end": "2018-06-03"
+  },
+  "youtube": {
+    "id": "k2m0Txczxv8"
+  },
+  "content": [{
+      "name": "Node v10.3.0",
+      "links": [
+        "https://nodejs.org/en/blog/release/v10.3.0/"
+      ],
+      "tags": ["node", "npm"]
+    },
+    {
+      "name": "2018 Node.js User Survey Report",
+      "links": [
+        "https://nodejs.org/en/user-survey-report/"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "MongoDB 4.0 RC-0",
+      "links": [
+        "https://www.mongodb.com/blog/post/mongodb-40-release-candidate-0-has-landed"
+      ],
+      "tags": ["mongodb"]
+    },
+    {
+      "name": "Initial PR for Decorators proposal (Stage 2) for Babel",
+      "links": [
+        "https://twitter.com/left_pad/status/1002527220919947264?s=12"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Announcing TypeScript 2.9",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/05/31/announcing-typescript-2-9/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "New Settings Editor for VSCode",
+      "links": [
+        "https://twitter.com/MrAhmadAwais/status/1002000099130642432"
+      ],
+      "tags": ["vscode"]
+    }
+  ],
+  "overflow": [{
+      "name": "Jest 23",
+      "links": [
+        "https://facebook.github.io/jest/blog/2018/05/29/jest-23-blazing-fast-delightful-testing.html"
+      ],
+      "tags": ["jest"]
+    },
+    {
+      "name": "Reach Router",
+      "links": [
+        "https://reach.tech/router",
+        "https://twitter.com/ryanflorence/status/1002218160517300224"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "maid: Markdown driven task runner",
+      "links": [
+        "https://github.com/egoist/maid"
+      ],
+      "tags": ["markdown"]
+    },
+    {
+      "name": "How well do you know your npm trivia?",
+      "links": [
+        "https://jaxenter.com/npm-trivia-144846.html"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "We just landed @v8js 6.7 in @nodejs master!!!",
+      "links": [
+        "https://twitter.com/mylesborins/status/1002460687510237185?s=12"
+      ],
+      "tags": ["node"]
+    }
+  ]
+}
