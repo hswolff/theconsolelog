@@ -1,0 +1,131 @@
+{
+  "title": "Microsoft Buys GitHub And Everyone Freaks Out",
+  "date": {
+    "start": "2018-06-04",
+    "end": "2018-06-10"
+  },
+  "youtube": {
+    "id": "eYn91hcRj2k"
+  },
+  "content": [{
+      "name": "Microsoft Buys GitHub for $7.5 Billion",
+      "links": [
+        "https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/",
+        "https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/calldeck.pptx?version=f3eef72b-35d3-95b2-4fda-73a47f805c7f",
+        "https://blog.github.com/2018-06-04-github-microsoft/",
+        "https://natfriedman.github.io/hello/",
+        "https://johansen.software/github-xp/",
+        "https://www.reddit.com/r/AMA/comments/8pc8mf/im_nat_friedman_future_ceo_of_github_ama/"
+      ],
+      "tags": ["microsoft", "github"]
+    },
+    {
+      "name": "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018",
+      "links": [
+        "https://www.youtube.com/watch?v=M3BM9TB-8yA",
+        "http://tinyclouds.org/jsconf2018.pdf"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "React Router 4.3.0",
+      "links": [
+        "https://github.com/ReactTraining/react-router/releases/tag/v4.3.0"
+      ],
+      "tags": ["react", "router"]
+    },
+    {
+      "name": "React Router beta with new Context API",
+      "links": [
+        "https://github.com/ReactTraining/react-router/pull/5908"
+      ],
+      "tags": ["react", "router"]
+    },
+    {
+      "name": "VSCode 1.24",
+      "links": [
+        "https://code.visualstudio.com/updates/v1_24"
+      ],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "JetBrains: The State of Developer Ecosystem in 2018",
+      "links": [
+        "https://www.jetbrains.com/research/devecosystem-2018/"
+      ],
+      "tags": ["code"]
+    }
+  ],
+  "overflow": [{
+      "name": "Meteor 1.7 and the evergreen dream",
+      "links": [
+        "https://blog.meteor.com/meteor-1-7-and-the-evergreen-dream-a8c1270b0901"
+      ],
+      "tags": ["meteor"]
+    }, {
+      "name": "Mobx 5 Released",
+      "links": [
+        "https://medium.com/@mweststrate/mobx-5-the-saga-continues-4852bce05572",
+        "https://github.com/mobxjs/mobx/blob/e17c47833d1812eee6d77914be890aa41e4b7908/CHANGELOG.md#500"
+      ],
+      "tags": ["mobx"]
+    }, {
+      "name": "Worker threads in node.js",
+      "links": [
+        "https://github.com/nodejs/node/pull/20876"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "MapKit JS – Embed interactive Apple maps on your website (apple.com)",
+      "links": [
+        "https://developer.apple.com/documentation/mapkitjs",
+        "https://news.ycombinator.com/item?id=17232169"
+      ],
+      "tags": ["apple"]
+    },
+    {
+      "name": "Yarn import now uses package-lock.json",
+      "links": [
+        "https://yarnpkg.com/blog/2018/06/04/yarn-import-package-lock/"
+      ],
+      "tags": ["yarn", "npm"]
+    },
+    {
+      "name": "In depth guide to Time",
+      "links": [
+        "https://zachholman.com/talk/utc-is-enough-for-everyone-right"
+      ],
+      "tags": ["time"]
+    },
+    {
+      "name": "Safari Technology Preview 58, with Safari 12 Features, is Now Available",
+      "links": [
+        "https://webkit.org/blog/8327/safari-technology-preview-58-with-safari-12-features-is-now-available/"
+      ],
+      "tags": ["safari"]
+    },
+    {
+      "name": "Rollup v0.60",
+      "links": [
+        "https://twitter.com/RollupJS/status/1004419635784179713",
+        "https://github.com/rollup/rollup/blob/master/CHANGELOG.md#0600"
+      ],
+      "tags": ["rollup"]
+    },
+    {
+      "name": "Prettier VSCode v2",
+      "links": [
+        "https://github.com/prettier/prettier-vscode/issues/488"
+      ],
+      "tags": ["prettier", "vscode"]
+    },
+    {
+      "name": "Node v10.4.0 (Current)",
+      "links": [
+        "https://nodejs.org/en/blog/release/v10.4.0/"
+      ],
+      "tags": ["node"]
+    }
+  ]
+}
