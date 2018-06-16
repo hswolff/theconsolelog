@@ -1,0 +1,163 @@
+{
+  "title": "Star Wars: Vue.js Passes React In GitHub Stars",
+  "date": {
+    "start": "2018-06-11",
+    "end": "2018-06-17"
+  },
+  "youtube": {
+    "id": "otmMul8s20w"
+  },
+  "content": [{
+      "name": "Has Vue passed React yet?",
+      "links": [
+        "https://hasvuepassedreactyet.surge.sh/"
+      ],
+      "tags": ["vue"]
+    }, {
+      "name": "Vue Native",
+      "links": [
+        "https://vue-native.io/",
+        "https://medium.com/@geekyants/introducing-vue-native-b66f71d50438"
+      ],
+      "tags": ["vue"]
+    },
+    {
+      "name": "Vue.js to be rewritten with TypeScript",
+      "links": [
+        "https://github.com/vuejs/roadmap"
+      ],
+      "tags": ["vue"]
+    },
+    {
+      "name": "Reverted #MobX 5 to be an ES5 build (even though it is unusable on ES5 envs)",
+      "links": [
+        "https://twitter.com/mweststrate/status/1006097317542408192?s=12"
+      ],
+      "tags": ["mobx"]
+    },
+    {
+      "name": "Sneak peak at React Suspense ",
+      "links": [
+        "https://twitter.com/acdlite/status/1007062696141787136",
+        "https://twitter.com/dan_abramov/status/1007064968875905024"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "State of React Native 2018",
+      "links": [
+        "https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018"
+      ],
+      "tags": ["react", "react native"]
+    }
+  ],
+  "overflow": [{
+      "name": "Parcel v1.9.0 does tree shaking on both ES6 and CommonJS modules! This is a HUGE deal since most of the code on npm is still CommonJS.",
+      "links": [
+        "https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79",
+        "https://twitter.com/devongovett/status/1007295102878769152"
+      ],
+      "tags": ["parcel"]
+    },
+    {
+      "name": "In Chrome 64 and Node.js v10, your JavaScript apps now continue execution while the @v8js garbage collector scans the heap to find and mark live objects",
+      "links": [
+        "https://v8project.blogspot.com/2018/06/concurrent-marking.html",
+        "https://twitter.com/v8js/status/1006187194808233985"
+      ],
+      "tags": ["v8", "chrome"]
+    },
+    {
+      "name": "Node.js app deploys on Google App Engine",
+      "links": [
+        "https://cloudplatform.googleblog.com/2018/06/Now-you-can-deploy-your-Node-js-app-to-App-Engine-standard-environment.html"
+      ],
+      "tags": ["node"]
+    }, {
+      "name": "New Static Deployments with Now",
+      "links": [
+        "https://zeit.co/blog/new-static-deployments"
+      ],
+      "tags": ["static site"]
+    },
+    {
+      "name": "Origin of the Zen of Python",
+      "links": [
+        "https://twitter.com/gvanrossum/status/1006275582227767297"
+      ],
+      "tags": ["python"]
+    },
+    {
+      "name": "Sonar",
+      "links": [
+        "https://github.com/facebook/Sonar"
+      ],
+      "tags": ["android"]
+    },
+    {
+      "name": "docz",
+      "links": [
+        "https://www.docz.site/"
+      ],
+      "tags": ["react", "markdown", "docs"]
+    },
+    {
+      "name": "Repl.it and React",
+      "links": [
+        "https://repl.it/site/blog/react",
+        "https://twitter.com/amasad/status/1006303489989808128?s=12"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "React Native 0.56",
+      "links": [
+        "https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md#056"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Apollo Day SF",
+      "links": [
+        "https://dev-blog.apollodata.com/apollo-day-sf-from-promise-to-production-with-graphql-332f1b3e7a18"
+      ],
+      "tags": ["apollo"]
+    },
+    {
+      "name": "React Recomponent",
+      "links": [
+        "https://github.com/philipp-spiess/react-recomponent"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Unladen Swallows and the Deprecation of webpack-cli",
+      "links": [
+        "https://medium.com/webpack/unladen-swallows-and-the-deprecation-of-webpack-cli-39814f6694d3"
+      ],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "All of Office 365 is (almost finished) being completely rewritten in this little scripting language called JavaScript",
+      "links": [
+        "https://twitter.com/TheLarkInn/status/1006746626617008128",
+        "https://github.com/Microsoft/react-native-windows"
+      ],
+      "tags": ["react", "react native"]
+    },
+    {
+      "name": "VS Code Extension for Managing GitHub Pull Requests",
+      "links": [
+        "https://github.com/Microsoft/vscode-pull-request-github"
+      ],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Ivy engine in Angular: first in-depth look at compilation, runtime and change detection",
+      "links": [
+        "https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd"
+      ],
+      "tags": ["angular"]
+    }
+  ]
+}
