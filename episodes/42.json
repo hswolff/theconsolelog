@@ -1,0 +1,98 @@
+{
+  "title": "ES2018 is Here! Let's crack open a beer!",
+  "date": {
+    "start": "2018-06-25",
+    "end": "2018-07-01"
+  },
+  "youtube": {
+    "id": "QRbqubgr4xY"
+  },
+  "content": [{
+      "name": "Eslint 5.0 Released",
+      "links": [
+        "https://eslint.org/blog/2018/06/eslint-v5.0.0-released"
+      ],
+      "tags": ["eslint"]
+    },
+    {
+      "name": "ES2018 Approved",
+      "links": [
+        "https://www.ecma-international.org/publications/standards/Ecma-262.htm",
+        "https://twitter.com/rauschma/status/1011941727270301696?s=12",
+        "https://medium.com/front-end-hacking/javascript-whats-new-in-ecmascript-2018-es2018-17ede97f36d5"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "On Consuming (and Publishing) ES2015+ Packages",
+      "links": [
+        "https://babeljs.io/blog/2018/06/26/on-consuming-and-publishing-es2015+-packages"
+      ],
+      "tags": ["babel", "tc39"]
+    }
+  ],
+  "overflow": [{
+      "name": "MongoDB 4.0 News",
+      "links": [
+        "https://www.mongodb.com/mongodb-4.0"
+      ],
+      "tags": ["mongodb"]
+    },
+    {
+      "name": "Open source sustainability",
+      "links": [
+        "https://techcrunch.com/2018/06/23/open-source-sustainability/"
+      ],
+      "tags": ["open source"]
+    },
+    {
+      "name": "Now + GitHub",
+      "links": [
+        "https://zeit.co/blog/now-for-github"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Mozilla bakes ‘Have I Been Pwned’ into Firefox’s new privacy tool",
+      "links": [
+        "https://thenextweb.com/security/2018/06/26/mozilla-bakes-have-i-been-pwned-into-firefoxs-new-privacy-tool/"
+      ],
+      "tags": ["firefox"]
+    },
+    {
+      "name": "Announcing Expo Dev Tools (beta)",
+      "links": [
+        "https://blog.expo.io/announcing-expo-dev-tools-beta-c252cbeccb36"
+      ],
+      "tags": ["expo"]
+    },
+    {
+      "name": "zelda-style game built with WebGL:",
+      "links": [
+        "https://twitter.com/_developit/status/1012000040737484800"
+      ],
+      "tags": ["webgl"]
+    },
+    {
+      "name": "React Profiler",
+      "links": [
+        "https://medium.com/@dave_lunny/how-to-use-reacts-experimental-new-profiler-feature-c340674e5d0e"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "JavaScript Usage by Industry",
+      "links": [
+        "https://blog.npmjs.org/post/175311966445/javascript-usage-by-industry"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "v6.2.0-next.0",
+      "links": [
+        "https://blog.npmjs.org/post/175381395925/v620-next0"
+      ],
+      "tags": ["npm"]
+    }
+  ]
+}
