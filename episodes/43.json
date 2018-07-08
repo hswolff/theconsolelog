@@ -1,0 +1,76 @@
+{
+  "title": "npm says goodbye to GitHub issues",
+  "date": {
+    "start": "2018-07-02",
+    "end": "2018-07-08"
+  },
+  "youtube": {
+    "id": "XmuLCYGsTUc"
+  },
+  "content": [{
+      "name": "npm archive",
+      "links": [
+        "https://twitter.com/maybekatz/status/1014992401998311425?s=12",
+        "https://github.com/npm/npm/blob/canary/doc/cli/npm-archive.md"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "npm shutting down GitHub issue tracker",
+      "links": [
+        "https://blog.npmjs.org/post/175587538995/announcing-npmcommunity"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "React Native 0.56 Released",
+      "links": [
+        "http://facebook.github.io/react-native/blog/2018/07/04/releasing-react-native-056"
+      ],
+      "tags": ["react", "react native"]
+    },
+    {
+      "name": "CSS Grid Level 2: Here Comes Subgrid",
+      "links": [
+        "https://www.smashingmagazine.com/2018/07/css-grid-2/"
+      ],
+      "tags": ["css"]
+    }
+  ],
+  "overflow": [{
+      "name": "Announcing CodeSandbox Dashboard & Teams",
+      "links": [
+        "https://medium.com/@compuives/announcing-codesandbox-dashboard-teams-876f5933160b"
+      ],
+      "tags": ["codesandbox"]
+    },
+    {
+      "name": "Zero Setup VSCode Intelligence",
+      "links": [
+        "https://repl.it/site/blog/intel"
+      ],
+      "tags": ["repl"]
+    },
+    {
+      "name": "Node v10.6.0 (Current)",
+      "links": [
+        "https://nodejs.org/en/blog/release/v10.6.0/"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "The Node Security Platform service is shutting down 9/30",
+      "links": [
+        "https://blog.npmjs.org/post/175511531085/the-node-security-platform-service-is-shutting"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Firefox 61 – Quantum of Solstice",
+      "links": [
+        "https://hacks.mozilla.org/2018/06/firefox-61-quantum-of-solstice/"
+      ],
+      "tags": ["firefox"]
+    }
+  ]
+}
