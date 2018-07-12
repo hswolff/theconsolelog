@@ -123,7 +123,6 @@ module.exports = {
                     ...rssResult,
                     enclosure: {
                       url: node.podcast.url,
-                      // type: 'audio/mpeg',
                     },
                     custom_elements: [
                       { 'itunes:author': 'The Console Log' },
