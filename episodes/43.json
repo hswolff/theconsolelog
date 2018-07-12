@@ -10,6 +10,7 @@
   "podcast": {
     "url": "https://s3.amazonaws.com/the-console-log-podcast/e43.mp3"
   },
+  "duration": "7:58",
   "content": [{
       "name": "npm archive",
       "links": [

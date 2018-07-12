@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'The Console Log',
-    description: 'A weekly YouTube show about JavaScript and the web.',
+    description: 'A weekly show about all the latest JavaScript and web news.',
     siteUrl: 'http://theconsolelog.com',
     iTunesLogo: 'https://theconsolelog.com/itunes-logo.jpeg',
   },
@@ -59,6 +59,7 @@ module.exports = {
             ...siteMetadata,
             ...rest,
             image_url: siteMetadata.iTunesLogo,
+            language: 'en',
             custom_namespaces: {
               itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd',
             },
@@ -74,6 +75,7 @@ module.exports = {
                   { 'itunes:email': 'hello@hswolff.com' },
                 ],
               },
+              { 'itunes:explicit': 'yes' },
               {
                 'itunes:image': {
                   _attr: {
@@ -118,6 +120,7 @@ module.exports = {
                     podcast {
                       url
                     }
+                    duration
                     content {
                       name
                       links

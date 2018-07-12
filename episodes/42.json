@@ -10,6 +10,7 @@
   "podcast": {
     "url": "https://s3.amazonaws.com/the-console-log-podcast/e42.mp3"
   },
+  "duration": "7:51",
   "content": [{
       "name": "Eslint 5.0 Released",
       "links": [
