@@ -5,6 +5,7 @@ module.exports = {
     title: 'The Console Log',
     description: 'A weekly YouTube show about JavaScript and the web.',
     siteUrl: 'http://theconsolelog.com',
+    iTunesLogo: 'https://theconsolelog.com/itunes-logo.jpeg',
   },
   plugins: [
     'gatsby-plugin-react-next',
@@ -43,21 +44,64 @@ module.exports = {
               description
               siteUrl
               site_url: siteUrl
+              iTunesLogo
             }
           }
         }
       `,
+        setup: ({
+          query: {
+            site: { siteMetadata },
+            ...rest
+          },
+        }) => {
+          return {
+            ...siteMetadata,
+            ...rest,
+            image_url: siteMetadata.iTunesLogo,
+            custom_namespaces: {
+              itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd',
+            },
+            custom_elements: [
+              { 'itunes:subtitle': siteMetadata.description },
+              { 'itunes:author': 'The Console Log' },
+              {
+                'itunes:summary': siteMetadata.description,
+              },
+              {
+                'itunes:owner': [
+                  { 'itunes:name': 'The Console Log' },
+                  { 'itunes:email': 'hello@hswolff.com' },
+                ],
+              },
+              {
+                'itunes:image': {
+                  _attr: {
+                    href: siteMetadata.iTunesLogo,
+                  },
+                },
+              },
+              {
+                'itunes:category': [
+                  {
+                    _attr: {
+                      text: 'Technology',
+                    },
+                  },
+                  {
+                    'itunes:category': {
+                      _attr: {
+                        text: 'Tech News',
+                      },
+                    },
+                  },
+                ],
+              },
+            ],
+          };
+        },
         feeds: [
           {
-            serialize: ({ query: { site, allEpisodesJson } }) => {
-              return allEpisodesJson.edges.map(edge => {
-                return Object.assign({}, edge.node, {
-                  description: `Episode ${edge.node.fields.episodeNumber}.`,
-                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                });
-              });
-            },
             query: `
             {
               allEpisodesJson(sort: {fields: [date___end], order: DESC}) {
@@ -71,6 +115,13 @@ module.exports = {
                     youtube {
                       id
                     }
+                    podcast {
+                      url
+                    }
+                    content {
+                      name
+                      links
+                    }
                     date {
                       start
                       end
@@ -80,6 +131,63 @@ module.exports = {
               }
             }
           `,
+            serialize: ({
+              query: {
+                site: { siteMetadata },
+                allEpisodesJson,
+              },
+            }) => {
+              return allEpisodesJson.edges.map(({ node }) => {
+                const hasPodcast = node.podcast && node.podcast.url;
+
+                let rssResult = Object.assign({}, node, {
+                  description: `Episode ${node.fields.episodeNumber}.`,
+                  url: siteMetadata.siteUrl + node.fields.slug,
+                  guid: siteMetadata.siteUrl + node.fields.slug,
+                  date: new Date(node.date.end),
+                });
+
+                if (hasPodcast) {
+                  rssResult = {
+                    ...rssResult,
+                    enclosure: {
+                      url: node.podcast.url,
+                    },
+                    custom_elements: [
+                      { 'itunes:author': 'The Console Log' },
+                      { 'itunes:subtitle': node.title },
+                      {
+                        'itunes:image': {
+                          _attr: {
+                            href: siteMetadata.iTunesLogo,
+                          },
+                        },
+                      },
+                      { 'itunes:duration': node.duration || '00:00:00' },
+                      {
+                        'itunes:summary': (function() {
+                          let summary = 'Show links!';
+
+                          node.content.forEach(({ name, links }) => {
+                            summary += `\n${name}`;
+
+                            links.forEach(link => {
+                              summary += `\n\t* ${link}`;
+                            });
+
+                            summary += '\n';
+                          });
+
+                          return summary;
+                        })(),
+                      },
+                    ],
+                  };
+                }
+
+                return rssResult;
+              });
+            },
             output: '/rss.xml',
           },
         ],

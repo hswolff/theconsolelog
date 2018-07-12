@@ -7,6 +7,9 @@
   "youtube": {
     "id": "XmuLCYGsTUc"
   },
+  "podcast": {
+    "url": "https://s3.amazonaws.com/the-console-log-podcast/e43.mp3"
+  },
   "content": [{
       "name": "npm archive",
       "links": [
