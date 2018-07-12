@@ -5,7 +5,7 @@ module.exports = {
     title: 'The Console Log',
     description: 'A weekly YouTube show about JavaScript and the web.',
     siteUrl: 'http://theconsolelog.com',
-    iTunesLogo: 'https://theconsolelog.com/itunes-logo.png',
+    iTunesLogo: 'https://theconsolelog.com/itunes-logo.jpeg',
   },
   plugins: [
     'gatsby-plugin-react-next',
