@@ -102,6 +102,35 @@ module.exports = {
         },
         feeds: [
           {
+            query: `
+            {
+              allEpisodesJson(sort: {fields: [date___end], order: DESC}) {
+                edges {
+                  node {
+                    title
+                    fields {
+                      episodeNumber
+                      slug
+                    }
+                    youtube {
+                      id
+                    }
+                    podcast {
+                      url
+                    }
+                    content {
+                      name
+                      links
+                    }
+                    date {
+                      start
+                      end
+                    }
+                  }
+                }
+              }
+            }
+          `,
             serialize: ({
               query: {
                 site: { siteMetadata },
@@ -135,7 +164,23 @@ module.exports = {
                         },
                       },
                       { 'itunes:duration': node.duration || '00:00:00' },
-                      { 'itunes:summary': node.title },
+                      {
+                        'itunes:summary': (function() {
+                          let summary = 'Show links!';
+
+                          node.content.forEach(({ name, links }) => {
+                            summary += `\n${name}`;
+
+                            links.forEach(link => {
+                              summary += `\n\t* ${link}`;
+                            });
+
+                            summary += '\n';
+                          });
+
+                          return summary;
+                        })(),
+                      },
                     ],
                   };
                 }
@@ -143,31 +188,6 @@ module.exports = {
                 return rssResult;
               });
             },
-            query: `
-            {
-              allEpisodesJson(sort: {fields: [date___end], order: DESC}) {
-                edges {
-                  node {
-                    title
-                    fields {
-                      episodeNumber
-                      slug
-                    }
-                    youtube {
-                      id
-                    }
-                    podcast {
-                      url
-                    }
-                    date {
-                      start
-                      end
-                    }
-                  }
-                }
-              }
-            }
-          `,
             output: '/rss.xml',
           },
         ],
