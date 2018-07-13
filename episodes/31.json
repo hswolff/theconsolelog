@@ -7,8 +7,8 @@
   "youtube": {
     "id": "5WgKT3NBPVI"
   },
-  "content": [
-    {
+  "duration": "9:57",
+  "content": [{
       "name": "Stack Overflow Developer Survey Results 2018",
       "links": [
         "https://insights.stackoverflow.com/survey/2018/",
@@ -46,8 +46,7 @@
       "tags": ["tc39"]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "EmberConf 2018 Keynote",
       "links": ["https://speakerdeck.com/tomdale/emberconf-2018-keynote"],
       "tags": ["ember"]
@@ -68,14 +67,12 @@
       "tags": ["css"]
     },
     {
-      "name":
-        "Repl.it 1.0: the IDE That Grows—from Playgrounds to Fullstack Apps",
+      "name": "Repl.it 1.0: the IDE That Grows—from Playgrounds to Fullstack Apps",
       "links": ["https://repl.it/site/blog/platform"],
       "tags": ["web"]
     },
     {
-      "name":
-        "LinkedIn: How We Built the Same App Twice with Preact and Glimmer.js",
+      "name": "LinkedIn: How We Built the Same App Twice with Preact and Glimmer.js",
       "links": [
         "https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs"
       ],

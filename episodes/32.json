@@ -7,8 +7,8 @@
   "youtube": {
     "id": "uKZGflqm8eE"
   },
-  "content": [
-    {
+  "duration": "8:43",
+  "content": [{
       "name": "New npmjs website",
       "links": [
         "https://www.npmjs.com/",
@@ -43,8 +43,7 @@
       "tags": ["graphql"]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "JSX Adopt Babel Plugin",
       "links": [
         "https://github.com/Andarist/babel-plugin-jsx-adopt",

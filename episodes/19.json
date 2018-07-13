@@ -7,8 +7,8 @@
   "youtube": {
     "id": "aQ0pKiwYK6E"
   },
-  "content": [
-    {
+  "duration": "8:57",
+  "content": [{
       "name": "Introducing the React RFC Process",
       "links": [
         "https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html",

@@ -7,8 +7,8 @@
   "youtube": {
     "id": "qRGs3eqnIpE"
   },
-  "content": [
-    {
+  "duration": "5:58",
+  "content": [{
       "name": "MDN to Become Single Source of Truth",
       "links": [
         "https://blog.mozilla.org/blog/2017/10/18/mozilla-brings-microsoft-google-w3c-samsung-together-create-cross-browser-documentation-mdn/",

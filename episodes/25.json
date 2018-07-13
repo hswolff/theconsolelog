@@ -1,6 +1,5 @@
 {
-  "title":
-    "The Groundhog Saw Its Shadow, That Means Only 3 More Years For AngularJS",
+  "title": "The Groundhog Saw Its Shadow, That Means Only 3 More Years For AngularJS",
   "date": {
     "start": "2018-01-29",
     "end": "2018-02-04"
@@ -8,8 +7,8 @@
   "youtube": {
     "id": "BKAnagoQz4k"
   },
-  "content": [
-    {
+  "duration": "7:26",
+  "content": [{
       "name": "Stable AngularJS and Long Term Support",
       "links": [
         "https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c"
@@ -37,8 +36,7 @@
       "tags": ["javascript"]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "Indexed Database API 2.0",
       "links": ["https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/"],
       "tags": ["dom"]
@@ -54,8 +52,7 @@
       "tags": ["graphql"]
     },
     {
-      "name":
-        "The WHATWG URL implementation will be a global starting in Node.js 10.0.0",
+      "name": "The WHATWG URL implementation will be a global starting in Node.js 10.0.0",
       "links": [
         "https://twitter.com/jasnell/status/958719599612186625",
         "https://github.com/nodejs/node/pull/18281"

@@ -7,15 +7,14 @@
   "youtube": {
     "id": "wdfd7VSg6A8"
   },
-  "content": [
-    {
+  "duration": "5:52",
+  "content": [{
       "name": "Enabling the Social 3D Web",
       "links": ["https://blog.mozvr.com/enabling-the-social-3d-web/"],
       "tags": ["webvr"]
     },
     {
-      "name":
-        "Semver Proposal: Rename \"Major\" to Breaking and \"Minor\" to Feature",
+      "name": "Semver Proposal: Rename \"Major\" to Breaking and \"Minor\" to Feature",
       "links": ["https://github.com/semver/semver/issues/411"],
       "tags": ["semver"]
     },

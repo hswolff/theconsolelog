@@ -1,4 +1,5 @@
 const path = require('path');
+const { DateTime } = require('luxon');
 
 module.exports = {
   siteMetadata: {
@@ -117,9 +118,6 @@ module.exports = {
                     youtube {
                       id
                     }
-                    podcast {
-                      url
-                    }
                     duration
                     content {
                       name
@@ -141,54 +139,28 @@ module.exports = {
               },
             }) => {
               return allEpisodesJson.edges.map(({ node }) => {
-                const hasPodcast = node.podcast && node.podcast.url;
-
-                let rssResult = Object.assign({}, node, {
-                  description: `Episode ${node.fields.episodeNumber}.`,
+                return Object.assign({}, node, {
+                  description: createDescription(node),
                   url: siteMetadata.siteUrl + node.fields.slug,
                   guid: siteMetadata.siteUrl + node.fields.slug,
                   date: new Date(node.date.end),
-                });
-
-                if (hasPodcast) {
-                  rssResult = {
-                    ...rssResult,
-                    enclosure: {
-                      url: node.podcast.url,
-                    },
-                    custom_elements: [
-                      { 'itunes:author': 'The Console Log' },
-                      { 'itunes:subtitle': node.title },
-                      {
-                        'itunes:image': {
-                          _attr: {
-                            href: siteMetadata.iTunesLogo,
-                          },
+                  enclosure: {
+                    url: createPodcastUrl(node.fields.episodeNumber),
+                  },
+                  custom_elements: [
+                    { 'itunes:author': 'The Console Log' },
+                    { 'itunes:subtitle': node.title },
+                    {
+                      'itunes:image': {
+                        _attr: {
+                          href: siteMetadata.iTunesLogo,
                         },
                       },
-                      { 'itunes:duration': node.duration || '00:00:00' },
-                      {
-                        'itunes:summary': (function() {
-                          let summary = 'Show links!';
-
-                          node.content.forEach(({ name, links }) => {
-                            summary += `\n${name}`;
-
-                            links.forEach(link => {
-                              summary += `\n\t* ${link}`;
-                            });
-
-                            summary += '\n';
-                          });
-
-                          return summary;
-                        })(),
-                      },
-                    ],
-                  };
-                }
-
-                return rssResult;
+                    },
+                    { 'itunes:duration': node.duration || '00:00' },
+                    { 'itunes:summary': createDescription(node) },
+                  ],
+                });
               });
             },
             output: '/rss.xml',
@@ -200,4 +172,47 @@ module.exports = {
       resolve: 'gatsby-plugin-offline',
     },
   ],
+};
+
+const podcastUrlBase = 'https://s3.amazonaws.com/the-console-log-podcast';
+const createPodcastUrl = input => {
+  const episodeNumber = String(input).length === 1 ? `0${input}` : input;
+  return `${podcastUrlBase}/E${episodeNumber}.mp3`;
+};
+
+function formatDate(date) {
+  return DateTime.fromISO(date).toFormat('LLLL d');
+}
+
+function getYear(date) {
+  return DateTime.fromISO(date).toFormat('y');
+}
+
+const createDescription = node => {
+  let description = `
+Episode ${node.fields.episodeNumber}
+${formatDate(node.date.start)} - ${formatDate(node.date.end)}, ${getYear(
+  node.date.end
+)}
+
+FIND ALL LINKS ON THE WEBSITE
+http://theconsolelog.com/episode/${node.fields.episodeNumber}
+
+MORE LINKS
+https://twitter.com/hswolff
+https://twitter.com/_theconsolelog
+http://theconsolelog.com/
+https://github.com/hswolff/theconsolelog/projects/1
+
+SHOW NOTES
+`;
+  node.content.forEach(({ name, links }) => {
+    description += `\n# ${name}\n`;
+
+    description += links.join('\n');
+
+    description += '\n';
+  });
+
+  return description;
 };

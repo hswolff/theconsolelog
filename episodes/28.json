@@ -7,8 +7,8 @@
   "youtube": {
     "id": "SDJwfkB9EZI"
   },
-  "content": [
-    {
+  "duration": "6:42",
+  "content": [{
       "name": "webpack 4.0 final",
       "links": [
         "https://medium.com/webpack/webpack-4-released-today-6cdb994702d4",
@@ -42,8 +42,7 @@
       "tags": ["angular"]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "Release Notes for Safari Technology Preview 50",
       "links": [
         "https://webkit.org/blog/8121/release-notes-for-safari-technology-preview-50/"

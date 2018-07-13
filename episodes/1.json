@@ -5,10 +5,10 @@
     "end": "2017-07-23"
   },
   "youtube": {
-    "id": "ngFub1uO"
+    "id": "ngFub1uO-sc"
   },
-  "content": [
-    {
+  "duration": "8:18",
+  "content": [{
       "name": "Apollo Server reaches 1.0!",
       "links": [
         "https://dev-blog.apollodata.com/apollo-server-1-0-a-graphql-server-for-all-node-js-frameworks-2b37d3342f7c"

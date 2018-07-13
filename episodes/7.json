@@ -1,6 +1,5 @@
 {
-  "title":
-    "Upgrade All The Things! Editors, Babel, and WordPress Says Bye to React!",
+  "title": "Upgrade All The Things! Editors, Babel, and WordPress Says Bye to React!",
   "date": {
     "start": "2017-09-11",
     "end": "2017-09-17"
@@ -8,8 +7,8 @@
   "youtube": {
     "id": "JctUrhEF7eg"
   },
-  "content": [
-    {
+  "duration": "6:50",
+  "content": [{
       "name": "Sublime Text 3.0 Final",
       "links": [
         "https://www.sublimetext.com/blog/articles/sublime-text-3-point-0"
@@ -37,8 +36,7 @@
       "tags": ["funny"]
     },
     {
-      "name":
-        "Apple makes proposal to CSS about how to design for iPhone X's round corners and notch",
+      "name": "Apple makes proposal to CSS about how to design for iPhone X's round corners and notch",
       "links": ["https://github.com/w3c/csswg-drafts/issues/1693"],
       "tags": ["css", "apple"]
     },

@@ -7,8 +7,8 @@
   "youtube": {
     "id": "y9sVLcpSm8M"
   },
-  "content": [
-    {
+  "duration": "9:51",
+  "content": [{
       "name": "State of JavaScript 2017",
       "links": ["https://stateofjs.com/"],
       "tags": ["javascript"]

@@ -7,8 +7,8 @@
   "youtube": {
     "id": "0CvVfxOuvBI"
   },
-  "content": [
-    {
+  "duration": "10:04",
+  "content": [{
       "name": "Prettier adds support for Markdown",
       "links": ["https://github.com/prettier/prettier/pull/2943"],
       "tags": ["prettier"]

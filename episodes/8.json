@@ -7,8 +7,8 @@
   "youtube": {
     "id": "qvaU0Pg6fnE"
   },
-  "content": [
-    {
+  "duration": "5:47",
+  "content": [{
       "name": "CoffeeScript 2",
       "links": ["http://coffeescript.org/announcing-coffeescript-2/"],
       "tags": ["coffeescript"]
@@ -21,8 +21,7 @@
       "tags": ["safari"]
     },
     {
-      "name":
-        "Relicensing React, Jest, Flow, and Immutable.js to the MIT license",
+      "name": "Relicensing React, Jest, Flow, and Immutable.js to the MIT license",
       "links": [
         "https://code.facebook.com/posts/300798627056246",
         "https://github.com/facebook/react/issues/10191"

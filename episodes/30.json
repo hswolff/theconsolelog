@@ -7,8 +7,8 @@
   "youtube": {
     "id": "RRGCoGUnMfg"
   },
-  "content": [
-    {
+  "duration": "9:34",
+  "content": [{
       "name": "flatten renamed to smoosh?",
       "links": [
         "https://github.com/tc39/proposal-flatMap/pull/56",
@@ -25,8 +25,7 @@
       "tags": ["tc39"]
     },
     {
-      "name":
-        "Google Chrome: Flash Usage Declines from 80% in 2014 to Under 8% Today",
+      "name": "Google Chrome: Flash Usage Declines from 80% in 2014 to Under 8% Today",
       "links": [
         "https://www.bleepingcomputer.com/news/security/google-chrome-flash-usage-declines-from-80-percent-in-2014-to-under-8-percent-today/"
       ],
@@ -59,8 +58,7 @@
       "tags": ["react"]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "History of the browser user-agent string",
       "links": ["https://webaim.org/blog/user-agent-string-history/"],
       "tags": ["browser", "history"]
@@ -97,8 +95,7 @@
       "tags": ["web assembly"]
     },
     {
-      "name":
-        "Chrome 66: The Preview tab pretty-prints minified resources by default",
+      "name": "Chrome 66: The Preview tab pretty-prints minified resources by default",
       "links": ["https://twitter.com/ChromeDevTools/status/971054800900165634"],
       "tags": ["chrome"]
     },

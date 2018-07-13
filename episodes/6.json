@@ -7,8 +7,8 @@
   "youtube": {
     "id": "1-_q_MhQ3qY"
   },
-  "content": [
-    {
+  "duration": "6:24",
+  "content": [{
       "name": "Splitting of Node.js community with Ayo.js",
       "links": [
         "https://github.com/ayojs/ayo",
@@ -17,8 +17,7 @@
       "tags": ["node"]
     },
     {
-      "name":
-        "Exactly 10 years later and still the best Success Kid ever! #HappySuccessKidDay",
+      "name": "Exactly 10 years later and still the best Success Kid ever! #HappySuccessKidDay",
       "links": ["https://twitter.com/laneymg/status/901537082929143808"],
       "tags": ["meme"]
     },

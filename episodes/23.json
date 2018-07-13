@@ -7,8 +7,8 @@
   "youtube": {
     "id": "vcn4CqCeCfU"
   },
-  "content": [
-    {
+  "duration": "8:56",
+  "content": [{
       "name": "React Lifecyle Hooks Changing",
       "links": [
         "https://github.com/reactjs/rfcs/pull/6/files",
@@ -35,10 +35,8 @@
       "tags": ["javascript", "tc39"]
     }
   ],
-  "overflow": [
-    {
-      "name":
-        "Xray: an experimental next-generation Electron-based text editor",
+  "overflow": [{
+      "name": "Xray: an experimental next-generation Electron-based text editor",
       "links": ["https://github.com/atom/xray"],
       "tags": ["electron"]
     },

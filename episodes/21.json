@@ -7,8 +7,8 @@
   "youtube": {
     "id": "Ft166k1hAPU"
   },
-  "content": [
-    {
+  "duration": "9:12",
+  "content": [{
       "name": "The State of JavaScript Frameworks, 2017",
       "links": [
         "https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1"
@@ -34,8 +34,7 @@
       "tags": ["jest", "testing"]
     },
     {
-      "name":
-        "Stimulus: A modest JavaScript framework for the HTML you already have",
+      "name": "Stimulus: A modest JavaScript framework for the HTML you already have",
       "links": ["https://github.com/stimulusjs/stimulus/"],
       "tags": ["framework"]
     },
@@ -47,11 +46,9 @@
       "tags": ["framework"]
     }
   ],
-  "overflow": [
-    {
-      "name": "Compatibility data for Web technologies as displayed on MDN",
-      "links": ["https://github.com/mdn/browser-compat-data/"],
-      "tags": ["documentation"]
-    }
-  ]
+  "overflow": [{
+    "name": "Compatibility data for Web technologies as displayed on MDN",
+    "links": ["https://github.com/mdn/browser-compat-data/"],
+    "tags": ["documentation"]
+  }]
 }

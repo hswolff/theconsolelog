@@ -7,6 +7,7 @@
   "youtube": {
     "id": "NRY2mgFA5CM"
   },
+  "duration": "10:10",
   "content": [{
       "name": "React Suspense",
       "links": [

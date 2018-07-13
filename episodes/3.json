@@ -7,8 +7,8 @@
   "youtube": {
     "id": "1uFyIxkEu60"
   },
-  "content": [
-    {
+  "duration": "6:00",
+  "content": [{
       "name": "webpack awarded $125,000 from MOSS Program ",
       "links": [
         "https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15"

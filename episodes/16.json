@@ -7,8 +7,8 @@
   "youtube": {
     "id": "kh83Z0LtqlE"
   },
-  "content": [
-    {
+  "duration": "6:46",
+  "content": [{
       "name": "Firefox Quantum",
       "links": [
         "https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/",
