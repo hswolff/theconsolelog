@@ -4,6 +4,7 @@ import styled from 'react-emotion';
 import { layout } from '../utils/constants';
 import image from '../images/logo.png';
 import youtube from '../images/youtube-64.png';
+import podcast from '../images/podcast.svg';
 
 export default () => (
   <header
@@ -13,15 +14,15 @@ export default () => (
     `}
   >
     <HeaderInner>
-      <Left>
+      <LogoContainer>
         <Link to="/" css={{ boxShadow: 'none' }}>
           <Logo src={image} title="The Console Log" />
         </Link>
         <Title>
           <Link to="/">The Console Log</Link>
         </Title>
-      </Left>
-      <Right>
+      </LogoContainer>
+      <Nav>
         <Link to="/">Episodes</Link>
         <Bullet />
         <Link to="/episode/tags">Tags</Link>
@@ -32,6 +33,25 @@ export default () => (
           target="_blank"
         >
           Twitter
+        </a>
+        <Bullet />
+        <a
+          href="https://itunes.apple.com/us/podcast/the-console-log/id1411181947"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Podcast
+          <img
+            src={podcast}
+            css={`
+              max-width: inherit;
+              width: 24px;
+              height: 24px;
+              margin: 0;
+              margin-left: 5px;
+              margin-bottom: -5px;
+            `}
+          />
         </a>
         <Bullet />
         <a
@@ -52,7 +72,7 @@ export default () => (
             `}
           />
         </a>
-      </Right>
+      </Nav>
     </HeaderInner>
   </header>
 );
@@ -63,14 +83,11 @@ const HeaderInner = styled('div')`
   padding: 1.45rem ${layout.paddingY};
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
-  @media (min-width: 1000px) {
-    flex-direction: row;
-  }
 `;
 
-const Left = styled('div')`
+const LogoContainer = styled('div')`
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -97,7 +114,7 @@ const Title = styled('h1')`
   }
 `;
 
-const Right = styled('div')`
+const Nav = styled('nav')`
   a {
     color: #fff;
     box-shadow: none;
