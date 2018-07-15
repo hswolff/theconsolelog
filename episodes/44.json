@@ -1,0 +1,101 @@
+{
+  "title": "Can you hear me now? We're also a podcast!",
+  "date": {
+    "start": "2018-07-09",
+    "end": "2018-07-15"
+  },
+  "youtube": {
+    "id": "4cSJgZi4XZI"
+  },
+  "duration": "8:27",
+  "content": [{
+      "name": "ESLint-scope 3.7.2 has been hacked",
+      "links": [
+        "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes",
+        "https://github.com/npm/npm/issues/21202",
+        "https://twitter.com/feross/status/1017481175005257728"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Announcing TypeScript 3.0 RC",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Umbrella issue for releasing React Suspense to open source",
+      "links": [
+        "https://github.com/facebook/react/issues/13206",
+        "https://twitter.com/acdlite/status/1017861793627164672"
+      ],
+      "tags": ["react"]
+    }
+  ],
+  "overflow": [{
+      "name": "npm Joins ECMA International and TC39",
+      "links": [
+        "https://blog.npmjs.org/post/175722319045/npm-joins-ecma-international-and-tc39"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Guido van Rossum stepping down as Python BDFL",
+      "links": [
+        "https://www.mail-archive.com/python-committers@python.org/msg05628.html",
+        "https://lwn.net/Articles/757713/"
+      ],
+      "tags": ["python"]
+    },
+    {
+      "name": "Transparent Proxies",
+      "links": [
+        "https://github.com/littledan/proposal-proxy-transparent"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "The CSS Paint API",
+      "links": [
+        "https://css-tricks.com/the-css-paint-api/"
+      ],
+      "tags": ["css", "houdini"]
+    },
+    {
+      "name": "BuckleScript 4.0.0 (Part One)",
+      "links": [
+        "https://bucklescript.github.io/blog/2018/07/17/release-4-0-0"
+      ],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "10 years of the App Store: The design evolution of the earliest apps",
+      "links": [
+        "https://9to5mac.com/2018/07/10/app-store-10-years-design-evolution/"
+      ],
+      "tags": ["ios"]
+    },
+    {
+      "name": "fastpack",
+      "links": [
+        "https://github.com/fastpack/fastpack"
+      ],
+      "tags": ["ocaml", "webpack"]
+    },
+    {
+      "name": "Introducing Logpoints and auto-attach",
+      "links": [
+        "https://code.visualstudio.com/blogs/2018/07/12/introducing-logpoints-and-auto-attach"
+      ],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "A Documentary on Elixir",
+      "links": [
+        "http://doc.honeypot.io/elixir-documentary-2018/"
+      ],
+      "tags": ["elixir"]
+    }
+  ]
+}
