@@ -1,0 +1,119 @@
+{
+  "title": "Babel v7 Is Around The Corner...And Change Is Afoot!",
+  "date": {
+    "start": "2018-07-16",
+    "end": "2018-07-22"
+  },
+  "youtube": {
+    "id": "ZV5tSJQmFgw"
+  },
+  "duration": "10:23",
+  "content": [{
+      "name": "Babel: Remove Stage presets",
+      "links": [
+        "https://github.com/babel/babel/pull/8293"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "What's Happening With the Pipeline (|>) Proposal?",
+      "links": [
+        "https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal",
+        "https: //github.com/babel/babel/releases/tag/v7.0.0-beta.52"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Announcing Gatsby Preview",
+      "links": [
+        "https://www.gatsbyjs.org/blog/2018-07-17-announcing-gatsby-preview/"
+      ],
+      "tags": ["gatsby"]
+    },
+    {
+      "name": "Two-factor authentication protection for packages",
+      "links": [
+        "https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages"
+      ],
+      "tags": ["npm"]
+    }
+  ],
+  "overflow": [{
+      "name": "Operationalizing Node.js for Server Side Rendering",
+      "links": [
+        "https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Apple teases out over 70 new Emoji coming to iOS and Mac this fall",
+      "links": [
+        "https://9to5mac.com/2018/07/16/ios-mac-apple-watch-new-emoji-2018/"
+      ],
+      "tags": ["emoji"]
+    },
+    {
+      "name": "Themes for CodeSandbox",
+      "links": [
+        "https://medium.com/@compuives/introducing-themes-e6818088bfc2"
+      ],
+      "tags": ["codesandbox"]
+    },
+    {
+      "name": "Rogue - Server rendering for React",
+      "links": [
+        "https://github.com/alidcastano/rogue.js"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "cheat.sh  - The only cheat sheet you need",
+      "links": [
+        "https://cheat.sh/"
+      ],
+      "tags": ["cool"]
+    },
+    {
+      "name": "N-API: Next generation APIs for Node.js native addons available across all LTS release lines",
+      "links": [
+        "https://medium.com/the-node-js-collection/n-api-next-generation-apis-for-node-js-native-addons-available-across-all-lts-release-lines-4f35b781f00e"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Node v10.7.0 (Current)",
+      "links": [
+        "https://nodejs.org/en/blog/release/v10.7.0/"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "npm v6.2.0",
+      "links": [
+        "https://blog.npmjs.org/post/175871462900/v620"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Building the Google Photos Web UI",
+      "links": [
+        "https://medium.com/google-design/google-photos-45b714dfbed1"
+      ],
+      "tags": ["ui"]
+    },
+    {
+      "name": "Announcing Apollo Server 2",
+      "links": [
+        "https://blog.apollographql.com/announcing-apollo-server-2-2b69fb4702ce"
+      ],
+      "tags": ["graphql", "apollo"]
+    },
+    {
+      "name": "The future of WebAssembly - A look at upcoming features and proposals",
+      "links": [
+        "https://blog.scottlogic.com/2018/07/20/wasm-future.html"
+      ],
+      "tags": ["webassembly"]
+    }
+  ]
+}
