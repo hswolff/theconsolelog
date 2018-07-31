@@ -1,8 +1,9 @@
 import React, { Fragment } from 'react';
 import Helmet from 'react-helmet';
+import AudioPlayer from '../components/AudioPlayer';
 import EpisodeListItem from '../components/EpisodeListItem';
 
-export default function EpisodeTempalate({ data: { episodesJson } }) {
+export default function EpisodeTemplate({ data: { episodesJson } }) {
   const {
     title,
     fields: { episodeNumber },
@@ -42,6 +43,10 @@ export default function EpisodeTempalate({ data: { episodesJson } }) {
           </p>
         </Fragment>
       )}
+
+      <AudioPlayer
+        src={`https://s3.amazonaws.com/the-console-log-podcast/E${episodeNumber}.mp3`}
+      />
 
       <h2>Show Links</h2>
       <Links content={content} />
