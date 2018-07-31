@@ -3,7 +3,6 @@ import Link from 'gatsby-link';
 import styled from 'react-emotion';
 import { layout } from '../utils/constants';
 import image from '../images/logo.png';
-import youtube from '../images/youtube-64.png';
 import podcast from '../images/podcast.svg';
 
 export default () => (
@@ -43,25 +42,6 @@ export default () => (
           Podcast
           <img
             src={podcast}
-            css={`
-              max-width: inherit;
-              width: 24px;
-              height: 24px;
-              margin: 0;
-              margin-left: 5px;
-              margin-bottom: -5px;
-            `}
-          />
-        </a>
-        <Bullet />
-        <a
-          href="https://www.youtube.com/playlist?list=PL-W0H0WJomJSc1Oa1K0XlIHEKQ0rlVdbc"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          Watch the Show!
-          <img
-            src={youtube}
             css={`
               max-width: inherit;
               width: 24px;
