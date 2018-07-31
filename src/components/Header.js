@@ -34,12 +34,9 @@ export default () => (
           Twitter
         </a>
         <Bullet />
-        <a
-          href="https://itunes.apple.com/us/podcast/the-console-log/id1411181947"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
+        <NavItem>
           Podcast
+          {'  '}
           <img
             src={podcast}
             css={`
@@ -51,6 +48,22 @@ export default () => (
               margin-bottom: -5px;
             `}
           />
+        </NavItem>
+        {'  '}
+        <a
+          href="https://itunes.apple.com/us/podcast/the-console-log/id1411181947"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          iTunes
+        </a>
+        <Bullet />
+        <a
+          href="https://play.google.com/music/listen#/ps/Ioyfudzgzrcnfpwcrisw7la7jnu"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Google Play
         </a>
       </Nav>
     </HeaderInner>
@@ -102,6 +115,10 @@ const Nav = styled('nav')`
       text-decoration: underline;
     }
   }
+`;
+
+const NavItem = styled('span')`
+  color: #fff;
 `;
 
 const Bullet = () => (
