@@ -1,6 +1,6 @@
 # theconsolelog
 
-A weekly YouTube show about JavaScript.
+A weekly podcast about JavaScript.
 
 ## Ideas for upcoming episodes
 

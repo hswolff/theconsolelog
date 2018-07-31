@@ -15,9 +15,9 @@ export default ({ children }) => (
       meta={[
         {
           name: 'description',
-          content: 'A weekly YouTube show about JavaScript and the web.',
+          content: 'A weekly podcast about JavaScript and the web.',
         },
-        { name: 'keywords', content: 'youtube, show, javascript, news' },
+        { name: 'keywords', content: 'podcast, show, javascript, news' },
       ]}
     />
     <Header />

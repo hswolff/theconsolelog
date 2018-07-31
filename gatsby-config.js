@@ -4,7 +4,8 @@ const { DateTime } = require('luxon');
 module.exports = {
   siteMetadata: {
     title: 'The Console Log',
-    description: 'A weekly show about all the latest JavaScript and web news.',
+    description:
+      'A weekly podcast about all the latest JavaScript and web news.',
     siteUrl: 'http://theconsolelog.com',
     iTunesLogo: 'https://theconsolelog.com/itunes-logo.jpeg',
   },
