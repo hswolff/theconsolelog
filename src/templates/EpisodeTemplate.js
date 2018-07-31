@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import Helmet from 'react-helmet';
 import EpisodeListItem from '../components/EpisodeListItem';
 
@@ -15,26 +15,34 @@ export default function EpisodeTempalate({ data: { episodesJson } }) {
     <div>
       <Helmet title={`E${episodeNumber}: ${title}`} />
       <EpisodeListItem {...episodesJson} linked={false} />
-      <iframe
-        src={`https://www.youtube.com/embed/${youtube.id}?rel=0&amp;showinfo=0`}
-        frameBorder={0}
-        allow="autoplay; encrypted-media"
-        allowFullScreen
-        css={`
-          @media (min-width: 1000px) {
-            width: 800px;
-            height: 450px;
-          }
-        `}
-      />
-      <p>
-        <a
-          href={`https://www.youtube.com/watch?v=${youtube.id}`}
-          target="_blank"
-        >
-          Watch on YouTube
-        </a>
-      </p>
+      {youtube && (
+        <Fragment>
+          <iframe
+            src={`https://www.youtube.com/embed/${
+              youtube.id
+            }?rel=0&amp;showinfo=0`}
+            frameBorder={0}
+            allow="autoplay; encrypted-media"
+            allowFullScreen
+            css={`
+              @media (min-width: 1000px) {
+                width: 800px;
+                height: 450px;
+              }
+            `}
+          />
+          <p>
+            <a
+              href={`https://www.youtube.com/watch?v=${youtube.id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Watch on YouTube
+            </a>
+          </p>
+        </Fragment>
+      )}
+
       <h2>Show Links</h2>
       <Links content={content} />
       <h2>Overflow Links</h2>
@@ -51,7 +59,7 @@ const Links = ({ content }) => (
         <ul>
           {links.map(link => (
             <li key={link}>
-              <a href={link} target="_blank">
+              <a href={link} target="_blank" rel="noopener noreferrer">
                 {link}
               </a>
             </li>
