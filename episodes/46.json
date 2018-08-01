@@ -1,0 +1,104 @@
+{
+  "title": "Pushing the web forward",
+  "date": {
+    "start": "2018-07-23",
+    "end": "2018-07-31"
+  },
+  "duration": "10:23",
+  "content": [{
+      "name": "A milestone for Chrome security: marking HTTP as “not secure”",
+      "links": [
+        "https://www.blog.google/products/chrome/milestone-chrome-security-marking-http-not-secure/"
+      ],
+      "tags": ["chrome", "security"]
+    },
+    {
+      "name": "removing jQuery from http://GitHub.com  frontend.",
+      "links": [
+        "https://twitter.com/mislav/status/1022058279000842240"
+      ],
+      "tags": ["github", "github"]
+    },
+    {
+      "name": "Prepack LLVM Backend",
+      "links": [
+        "https://github.com/facebook/prepack/pull/2264"
+      ],
+      "tags": ["prepack", "javascript", "wasm"]
+    },
+    {
+      "name": "Build isomorphic web apps with Rust + WebAssembly",
+      "links": [
+        "https://github.com/chinedufn/percy"
+      ],
+      "tags": ["wasm", "rust"]
+    },
+    {
+      "name": "p6-react",
+      "links": [
+        "https://github.com/FCO/p6-react"
+      ],
+      "tags": ["perl", "react"]
+    },
+    {
+      "name": "React Suspense Roadmap",
+      "links": [
+        "https://github.com/facebook/react/issues/13206#issuecomment-407535077"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "immer 1.5.0",
+      "links": [
+        "https://mobile.twitter.com/mweststrate/status/1022140416836026369",
+        "https://github.com/mweststrate/immer#patches"
+      ],
+      "tags": ["immer"]
+    },
+    {
+      "name": "OneGraph",
+      "links": [
+        "https://www.onegraph.com/blog/2018/07/18/OneGraph.html"
+      ],
+      "tags": ["graphql"]
+    },
+    {
+      "name": "Introducing @defer in Apollo Server",
+      "links": [
+        "https://blog.apollographql.com/introducing-defer-in-apollo-server-f6797c4e9d6e"
+      ],
+      "tags": ["graphql", "apollo"]
+    }
+  ],
+  "overflow": [{
+      "name": "Why Discord is Sticking with React Native",
+      "links": [
+        "https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427"
+      ],
+      "tags": ["react native"]
+    },
+    {
+      "name": "Removing Babel's Stage Presets",
+      "links": [
+        "https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "react-window",
+      "links": [
+        "https://github.com/bvaughn/react-window",
+        "https://twitter.com/brian_d_vaughn/status/1006052935543820289?s=12",
+        "https://twitter.com/brian_d_vaughn/status/1021070861615259649?s=12"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "TypeScript 3.0",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/"
+      ],
+      "tags": ["typescript"]
+    }
+  ]
+}
