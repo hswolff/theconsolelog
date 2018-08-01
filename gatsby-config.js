@@ -144,7 +144,11 @@ module.exports = {
                   description: createDescription(node),
                   url: siteMetadata.siteUrl + node.fields.slug,
                   guid: siteMetadata.siteUrl + node.fields.slug,
-                  date: new Date(node.date.end),
+                  date: DateTime.fromISO(node.date.end)
+                    // Have it be the next day at 8am, when we typically release
+                    // the content.
+                    .plus({ days: 1, hours: 8 })
+                    .toISO(),
                   enclosure: {
                     url: createPodcastUrl(node.fields.episodeNumber),
                   },
