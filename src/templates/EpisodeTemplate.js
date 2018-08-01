@@ -2,6 +2,7 @@ import React, { Fragment } from 'react';
 import Helmet from 'react-helmet';
 import AudioPlayer from '../components/AudioPlayer';
 import EpisodeListItem from '../components/EpisodeListItem';
+import Disqus from '../components/Disqus';
 
 export default function EpisodeTemplate({ data: { episodesJson } }) {
   const {
@@ -52,6 +53,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
       <Links content={content} />
       <h2>Overflow Links</h2>
       <Links content={overflow} />
+      <Disqus />
     </div>
   );
 }
