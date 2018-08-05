@@ -20,7 +20,7 @@ export default function EpisodeTagsTemplate({ pathContext }) {
                 <ul>
                   {links.map(link => (
                     <li key={link}>
-                      <a href={link} target="_blank">
+                      <a href={link} target="_blank" rel="noopener noreferrer">
                         {link}
                       </a>
                     </li>
