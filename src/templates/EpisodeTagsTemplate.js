@@ -1,14 +1,15 @@
 import React from 'react';
-import GatsbyLink from 'gatsby-link';
+import { Link } from 'gatsby';
+import Layout from '../components/Layout';
 
-export default function EpisodeTagsTemplate({ pathContext }) {
-  const { tags, tag } = pathContext;
+export default function EpisodeTagsTemplate({ pageContext }) {
+  const { tags, tag } = pageContext;
 
   if (tag) {
     const { name, links } = tag;
 
     return (
-      <div>
+      <Layout>
         <h1>
           {links.length} link{links.length === 1 ? '' : 's'} tagged with {name}
         </h1>
@@ -30,24 +31,24 @@ export default function EpisodeTagsTemplate({ pathContext }) {
             );
           })}
         </ul>
-      </div>
+      </Layout>
     );
   }
   return (
-    <div>
+    <Layout>
       <h1>Tags</h1>
       <ul className="tags">
         {Object.keys(tags).map(tagName => {
           const tag = tags[tagName];
           return (
             <li key={tagName}>
-              <GatsbyLink to={tag.slug}>
+              <Link to={tag.slug}>
                 {tag.name} ({tag.links.length})
-              </GatsbyLink>
+              </Link>
             </li>
           );
         })}
       </ul>
-    </div>
+    </Layout>
   );
 }

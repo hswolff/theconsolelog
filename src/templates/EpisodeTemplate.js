@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react';
+import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
+import Layout from '../components/Layout';
 import AudioPlayer from '../components/AudioPlayer';
 import EpisodeListItem from '../components/EpisodeListItem';
 import Disqus from '../components/Disqus';
@@ -14,7 +16,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
   } = episodesJson;
 
   return (
-    <div>
+    <Layout>
       <Helmet title={`E${episodeNumber}: ${title}`} />
       <EpisodeListItem {...episodesJson} linked={false} />
       {youtube && (
@@ -54,7 +56,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
       <h2>Overflow Links</h2>
       <Links content={overflow} />
       <Disqus />
-    </div>
+    </Layout>
   );
 }
 

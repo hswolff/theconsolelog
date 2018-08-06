@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import { Link } from 'gatsby';
 import { DateTime } from 'luxon';
 import styled, { css } from 'react-emotion';
 

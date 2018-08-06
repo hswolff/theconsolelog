@@ -8,7 +8,7 @@ exports.onCreateNode = function() {
   );
 };
 
-exports.createPages = async function({ boundActionCreators, graphql }) {
+exports.createPages = async function({ actions, graphql }) {
   const result = await graphql(`
     {
       allEpisodesJson(sort: { fields: date___end, order: DESC }) {
@@ -39,7 +39,7 @@ exports.createPages = async function({ boundActionCreators, graphql }) {
     return Promise.reject(result.errors);
   }
 
-  const { createPage } = boundActionCreators;
+  const { createPage } = actions;
   const edges = result.data.allEpisodesJson.edges;
 
   createEpisodePage({
@@ -54,13 +54,13 @@ exports.createPages = async function({ boundActionCreators, graphql }) {
 
 // Implementations
 
-function addFileNameToEpisode({ node, boundActionCreators, getNode }) {
+function addFileNameToEpisode({ node, actions, getNode }) {
   if (node.internal.type !== 'EpisodesJson') {
     return;
   }
 
   const parentNode = getNode(node.parent);
-  const { createNodeField } = boundActionCreators;
+  const { createNodeField } = actions;
 
   const episodeNumber = parentNode.name;
 
