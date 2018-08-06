@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import { Link } from 'gatsby';
 import styled from 'react-emotion';
 import { layout } from '../utils/constants';
 import image from '../images/logo.png';

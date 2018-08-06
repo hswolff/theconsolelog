@@ -1,16 +1,18 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import { graphql } from 'gatsby';
+import Layout from '../components/Layout';
 import EpisodeListItem from '../components/EpisodeListItem';
 
 export default ({ data }) => {
   const { allEpisodesJson } = data;
   return (
-    <React.Fragment>
+    <Layout>
       <Helmet title="Home" />
       {allEpisodesJson.edges.map(({ node }) => (
         <EpisodeListItem key={node.fields.episodeNumber} {...node} />
       ))}
-    </React.Fragment>
+    </Layout>
   );
 };
 
