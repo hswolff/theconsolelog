@@ -1,0 +1,143 @@
+{
+  "title": "Small Steps for Big Wins",
+  "date": {
+    "start": "2018-08-01",
+    "end": "2018-08-07"
+  },
+  "duration": "24:19",
+  "content": [{
+      "name": "GitHub: Unselectable diff markers",
+      "links": [
+        "https://blog.github.com/changelog/2018-07-31-unselectable-diff-markers/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "roadmap for React-Redux",
+      "links": [
+        "https://github.com/reduxjs/react-redux/issues/950",
+        "https://twitter.com/acemarke/status/1024761710765334528"
+      ],
+      "tags": ["react", "redux"]
+    },
+    {
+      "name": "React v16.4.2: Server-side vulnerability fix",
+      "links": [
+        "https://reactjs.org/blog/2018/08/01/react-v-16-4-2.html"
+      ],
+      "tags": ["react", "vue"]
+    },
+    {
+      "name": "Chain React 2018: The State of React Native by Ram N",
+      "links": [
+        "https://youtu.be/83ffAY-CmL4",
+        "https://www.slideshare.net/axemclion/chain-react-2018-the-state-of-react-native"
+      ],
+      "tags": ["react native"]
+    },
+    {
+      "name": "Yarn is now responsible for almost half (48%) of all package downloads from the npm registry.",
+      "links": [
+        "https://twitter.com/cpojer/status/1025288816255545344"
+      ],
+      "tags": ["yarn", "npm"]
+    },
+    {
+      "name": "Promise.allSettled proposal added to TC39 process.",
+      "links": [
+        "https://twitter.com/malyw/status/1024610697756508160?s=12",
+        "https://github.com/jasonwilliams/proposal-promise-allSettled"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Chrome 69 Beta: CSS tricks, and more",
+      "links": [
+        "https://blog.chromium.org/2018/08/chrome-69-beta-av1-video-decoder-css.html",
+        "https://webkit.org/blog/7929/designing-websites-for-iphone-x/"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Well-Controlled Scrolling with CSS Scroll Snap",
+      "links": [
+        "https://developers.google.com/web/updates/2018/07/css-scroll-snap"
+      ],
+      "tags": ["chrome"]
+    }
+  ],
+  "overflow": [{
+      "name": "React Conf",
+      "links": [
+        "https://conf.reactjs.org/",
+        "https://twitter.com/reactjs/status/1024358806212366336"
+      ],
+      "tags": [
+        "react"
+      ]
+    },
+    {
+      "name": "FramerX",
+      "links": [
+        "https://framer.com/x"
+      ],
+      "tags": [
+        "design"
+      ]
+    },
+    {
+      "name": "Atom 1.29",
+      "links": [
+        "http://blog.atom.io/2018/07/31/atom-1-29.html"
+      ],
+      "tags": [
+        "atom"
+      ]
+    },
+    {
+      "name": "Introducing Fusion.js: A Plugin-based Universal Web Framework",
+      "links": [
+        "https://eng.uber.com/fusionjs/"
+      ],
+      "tags": [
+        "node"
+      ]
+    },
+    {
+      "name": "Release Notes for Safari Technology Preview 62",
+      "links": [
+        "https://webkit.org/blog/8384/release-notes-for-safari-technology-preview-62/"
+      ],
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "name": "The Cost Of JavaScript In 2018",
+      "links": [
+        "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4"
+      ],
+      "tags": [
+        "javascript"
+      ]
+    },
+    {
+      "name": "Node 10.8.0",
+      "links": [
+        "https://nodejs.org/en/blog/release/v10.8.0/"
+      ],
+      "tags": [
+        "node"
+      ]
+    },
+    {
+      "name": "Replace react-router with @reach/router",
+      "links": [
+        "https://github.com/gatsbyjs/gatsby/pull/6918"
+      ],
+      "tags": [
+        "react router", "gatsby"
+      ]
+    }
+  ]
+}
