@@ -1,4 +1,5 @@
 const path = require('path');
+const createPaginatedPages = require('gatsby-paginate');
 
 // Lifecycle methods
 
@@ -29,6 +30,10 @@ exports.createPages = async function({ actions, graphql }) {
               links
               tags
             }
+            date {
+              start
+              end
+            }
           }
         }
       }
@@ -49,6 +54,16 @@ exports.createPages = async function({ actions, graphql }) {
   createTagPages({
     createPage,
     edges,
+  });
+
+  createPaginatedPages({
+    edges: result.data.allEpisodesJson.edges,
+    createPage,
+    pageTemplate: 'src/templates/EpisodePaginatedTemplate.js',
+    pageLength: 10, // This is optional and defaults to 10 if not used
+    pathPrefix: '/page/', // This is optional and defaults to an empty string if not used
+    buildPath: (index, pathPrefix) =>
+      index > 1 ? `${pathPrefix}${index}` : '/',
   });
 };
 
