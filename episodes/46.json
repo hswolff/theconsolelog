@@ -4,7 +4,10 @@
     "start": "2018-07-23",
     "end": "2018-07-31"
   },
-  "duration": "10:23",
+  "youtube": {
+    "id": "2dDW3ZTVit0"
+  },
+  "duration": "29:33",
   "content": [{
       "name": "A milestone for Chrome security: marking HTTP as “not secure”",
       "links": [
