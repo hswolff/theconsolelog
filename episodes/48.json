@@ -1,0 +1,127 @@
+{
+  "title": "Two Hosts Is Better Than One",
+  "date": {
+    "start": "2018-08-08",
+    "end": "2018-08-14"
+  },
+  "youtube": {
+    "id": "3nQZLqVj00A"
+  },
+  "duration": "29:43",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "GitHub Implementing Refined GitHub",
+      "links": [
+        "https://github.com/sindresorhus/refined-github/issues/1469"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Preact 8.3.0 is out",
+      "links": [
+        "https://github.com/developit/preact/releases/tag/8.3.0"
+      ],
+      "tags": ["preact"]
+    },
+    {
+      "name": "Announcing Dart 2 Stable and the Dart Web Platform",
+      "links": [
+        "https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7"
+      ],
+      "tags": ["dart", "google", "flutter"]
+    },
+    {
+      "name": "How I gained commit access to Homebrew in 30 minutes",
+      "links": [
+        "https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab"
+      ],
+      "tags": ["security", "homebrew"]
+    },
+    {
+      "name": "Babel 7.0.0-rc.0",
+      "links": [
+        "https://github.com/babel/babel/releases/tag/v7.0.0-rc.0"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Introducing Electron Fiddle",
+      "links": [
+        "https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7"
+      ],
+      "tags": ["electron"]
+    },
+    {
+      "name": "Vue CLI 3.0 is here!",
+      "links": [
+        "https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb"
+      ],
+      "tags": ["vue"]
+    },
+    {
+      "name": "React’s render used to be named structure",
+      "links": [
+        "https://twitter.com/sophiebits/status/1026596721487269889?s=12"
+      ],
+      "tags": ["react"]
+    }
+  ],
+  "overflow": [{
+      "name": "Better React Component Stacks",
+      "links": [
+        "https://twitter.com/dan_abramov/status/1027383357011845120?s=12"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "back your stack",
+      "links": [
+        "https://backyourstack.com/",
+        "https://medium.com/open-collective/introducing-backyourstack-39747ccdf2a5"
+      ],
+      "tags": ["oss"]
+    },
+    {
+      "name": "ReasonML 3.3.2",
+      "links": [
+        "https://reasonml.github.io/blog/2018/08/06/reason-3.3.2",
+        "https://github.com/facebook/reason/blob/master/HISTORY.md#332",
+        "https://reasonml.github.io/reason-react/blog/2018/08/06/050"
+      ],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "bindings between Reason and Typescript",
+      "links": [
+        "https://github.com/cristianoc/genTypeScript"
+      ],
+      "tags": ["typescript", "reasonml"]
+    },
+    {
+      "name": "LintLens — ESLint rules made easier",
+      "links": [
+        "https://marketplace.visualstudio.com/items?itemName=ghmcadams.lintlens&WT.mc_id=twitternew-social-sdras",
+        "https://twitter.com/sarah_edo/status/1026502109951188992?s=12"
+      ],
+      "tags": ["eslint", "vscode"]
+    },
+    {
+      "name": "V8 release v6.9",
+      "links": [
+        "https://v8project.blogspot.com/2018/08/v8-release-69.html"
+      ],
+      "tags": ["v8"]
+    },
+    {
+      "name": "Angular 7 is coming",
+      "links": [
+        "https://itnext.io/angular-7-is-coming-766c2bf644f9",
+        "https://github.com/angular/angular/blob/master/CHANGELOG.md#700-beta0-2018-08-02"
+      ],
+      "tags": ["angular"]
+    }
+  ]
+}
