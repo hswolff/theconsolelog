@@ -8,7 +8,9 @@
     "id": "uKZGflqm8eE"
   },
   "duration": "8:43",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "New npmjs website",
       "links": [
         "https://www.npmjs.com/",
@@ -43,7 +45,8 @@
       "tags": ["graphql"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "JSX Adopt Babel Plugin",
       "links": [
         "https://github.com/Andarist/babel-plugin-jsx-adopt",

@@ -8,7 +8,9 @@
     "id": "1-_q_MhQ3qY"
   },
   "duration": "6:24",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Splitting of Node.js community with Ayo.js",
       "links": [
         "https://github.com/ayojs/ayo",

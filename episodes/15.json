@@ -8,7 +8,9 @@
     "id": "7JC7kWkqYvs"
   },
   "duration": "4:33",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "WebRTC is now Feature Complete",
       "links": [
         "https://www.w3.org/2017/11/media-advisory-webrtc10-cr.html.en"

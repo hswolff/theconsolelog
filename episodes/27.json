@@ -8,7 +8,9 @@
     "id": "FJaaL4gACWA"
   },
   "duration": "8:52",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React Native (including Fresco, Metro, and Yoga) relicensed under the MIT license to match React",
       "links": [
         "https://twitter.com/reactjs/status/964689022747475968",
@@ -41,7 +43,8 @@
       "tags": ["css", "houdini"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "MongoDB gets support for multi-document ACID transactions",
       "links": [
         "https://www.mongodb.com/transactions",

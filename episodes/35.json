@@ -8,7 +8,9 @@
     "id": "aTXLLyk-fNg"
   },
   "duration": "7:21",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React Suspense Merged into Master",
       "links": [
         "https://twitter.com/acdlite/status/994751858244665346",
@@ -47,11 +49,13 @@
       "tags": ["emoji"]
     }
   ],
-  "overflow": [{
-    "name": "Sublime Text 3.1",
-    "links": [
-      "https://www.sublimetext.com/blog/articles/sublime-text-3-point-1"
-    ],
-    "tags": ["editor"]
-  }]
+  "overflow": [
+    {
+      "name": "Sublime Text 3.1",
+      "links": [
+        "https://www.sublimetext.com/blog/articles/sublime-text-3-point-1"
+      ],
+      "tags": ["editor"]
+    }
+  ]
 }

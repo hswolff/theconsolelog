@@ -8,7 +8,9 @@
     "id": "XmuLCYGsTUc"
   },
   "duration": "7:58",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "npm archive",
       "links": [
         "https://twitter.com/maybekatz/status/1014992401998311425?s=12",
@@ -32,13 +34,12 @@
     },
     {
       "name": "CSS Grid Level 2: Here Comes Subgrid",
-      "links": [
-        "https://www.smashingmagazine.com/2018/07/css-grid-2/"
-      ],
+      "links": ["https://www.smashingmagazine.com/2018/07/css-grid-2/"],
       "tags": ["css"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Announcing CodeSandbox Dashboard & Teams",
       "links": [
         "https://medium.com/@compuives/announcing-codesandbox-dashboard-teams-876f5933160b"
@@ -47,16 +48,12 @@
     },
     {
       "name": "Zero Setup VSCode Intelligence",
-      "links": [
-        "https://repl.it/site/blog/intel"
-      ],
+      "links": ["https://repl.it/site/blog/intel"],
       "tags": ["repl"]
     },
     {
       "name": "Node v10.6.0 (Current)",
-      "links": [
-        "https://nodejs.org/en/blog/release/v10.6.0/"
-      ],
+      "links": ["https://nodejs.org/en/blog/release/v10.6.0/"],
       "tags": ["node"]
     },
     {

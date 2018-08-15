@@ -8,7 +8,9 @@
     "id": "ErYhEGtjajo"
   },
   "duration": "4:09",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Atom and Code Updates!",
       "links": [
         "http://blog.atom.io/2017/08/08/atom-1-19.html",

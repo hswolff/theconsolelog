@@ -8,7 +8,9 @@
     "id": "NRY2mgFA5CM"
   },
   "duration": "10:10",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React Suspense",
       "links": [
         "https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html",
@@ -46,7 +48,8 @@
       "tags": ["chrome"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Glimmer Components in Ember",
       "links": ["https://github.com/emberjs/ember.js/issues/16301"],
       "tags": ["ember"]

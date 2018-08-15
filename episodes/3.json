@@ -8,7 +8,9 @@
     "id": "1uFyIxkEu60"
   },
   "duration": "6:00",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "webpack awarded $125,000 from MOSS Program ",
       "links": [
         "https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15"

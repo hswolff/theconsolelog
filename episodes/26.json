@@ -8,7 +8,9 @@
     "id": "G4ngqjMuDFg"
   },
   "duration": "7:49",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Node.js 10.0.0 will contain first class support for fully promisified fs functions",
       "links": [
         "https://twitter.com/jasnell/status/960733696461438976",
@@ -44,7 +46,8 @@
       "tags": ["vscode"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Umbrella Issue for React's 16.3 and 16.4 releases",
       "links": ["https://github.com/facebook/react/issues/12152"],
       "tags": ["react"]

@@ -8,7 +8,9 @@
     "id": "6KMToownK4c"
   },
   "duration": "6:33",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React 15.6.2 as MIT",
       "links": ["https://twitter.com/aweary/status/912504764545376261"],
       "tags": ["react"]

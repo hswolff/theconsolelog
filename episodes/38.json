@@ -8,18 +8,16 @@
     "id": "k2m0Txczxv8"
   },
   "duration": "7:44",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Node v10.3.0",
-      "links": [
-        "https://nodejs.org/en/blog/release/v10.3.0/"
-      ],
+      "links": ["https://nodejs.org/en/blog/release/v10.3.0/"],
       "tags": ["node", "npm"]
     },
     {
       "name": "2018 Node.js User Survey Report",
-      "links": [
-        "https://nodejs.org/en/user-survey-report/"
-      ],
+      "links": ["https://nodejs.org/en/user-survey-report/"],
       "tags": ["node"]
     },
     {
@@ -31,9 +29,7 @@
     },
     {
       "name": "Initial PR for Decorators proposal (Stage 2) for Babel",
-      "links": [
-        "https://twitter.com/left_pad/status/1002527220919947264?s=12"
-      ],
+      "links": ["https://twitter.com/left_pad/status/1002527220919947264?s=12"],
       "tags": ["tc39"]
     },
     {
@@ -45,13 +41,12 @@
     },
     {
       "name": "New Settings Editor for VSCode",
-      "links": [
-        "https://twitter.com/MrAhmadAwais/status/1002000099130642432"
-      ],
+      "links": ["https://twitter.com/MrAhmadAwais/status/1002000099130642432"],
       "tags": ["vscode"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Jest 23",
       "links": [
         "https://facebook.github.io/jest/blog/2018/05/29/jest-23-blazing-fast-delightful-testing.html"
@@ -68,16 +63,12 @@
     },
     {
       "name": "maid: Markdown driven task runner",
-      "links": [
-        "https://github.com/egoist/maid"
-      ],
+      "links": ["https://github.com/egoist/maid"],
       "tags": ["markdown"]
     },
     {
       "name": "How well do you know your npm trivia?",
-      "links": [
-        "https://jaxenter.com/npm-trivia-144846.html"
-      ],
+      "links": ["https://jaxenter.com/npm-trivia-144846.html"],
       "tags": ["npm"]
     },
     {

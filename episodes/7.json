@@ -8,7 +8,9 @@
     "id": "JctUrhEF7eg"
   },
   "duration": "6:50",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Sublime Text 3.0 Final",
       "links": [
         "https://www.sublimetext.com/blog/articles/sublime-text-3-point-0"

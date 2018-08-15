@@ -8,7 +8,9 @@
     "id": "wdfd7VSg6A8"
   },
   "duration": "5:52",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Enabling the Social 3D Web",
       "links": ["https://blog.mozvr.com/enabling-the-social-3d-web/"],
       "tags": ["webvr"]

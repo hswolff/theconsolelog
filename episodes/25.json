@@ -8,7 +8,9 @@
     "id": "BKAnagoQz4k"
   },
   "duration": "7:26",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Stable AngularJS and Long Term Support",
       "links": [
         "https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c"
@@ -36,7 +38,8 @@
       "tags": ["javascript"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Indexed Database API 2.0",
       "links": ["https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/"],
       "tags": ["dom"]

@@ -8,7 +8,9 @@
     "id": "aBM3xbltms4"
   },
   "duration": "3:30",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React's Patent Clause",
       "links": [
         "https://code.facebook.com/posts/112130496157735/explaining-react-s-license/"

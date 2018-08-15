@@ -8,11 +8,11 @@
     "id": "KexPeILd61I"
   },
   "duration": "7:09",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "JavaScript \"blöcks\" proposal",
-      "links": [
-        "https://github.com/domenic/proposal-blocks"
-      ],
+      "links": ["https://github.com/domenic/proposal-blocks"],
       "tags": ["tc39"]
     },
     {
@@ -24,9 +24,7 @@
     },
     {
       "name": "Now in Canary: Function argument hints in the Console. As you type out a function, the Console shows you the expected arguments for that function.",
-      "links": [
-        "https://twitter.com/ChromeDevTools/status/996804231200849920"
-      ],
+      "links": ["https://twitter.com/ChromeDevTools/status/996804231200849920"],
       "tags": ["chrome"]
     },
     {
@@ -37,39 +35,30 @@
       "tags": ["chrome"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "react-native-dom: An experimental, comprehensive port of React Native to the web.",
-      "links": [
-        "https://github.com/vincentriemer/react-native-dom"
-      ],
+      "links": ["https://github.com/vincentriemer/react-native-dom"],
       "tags": ["react"]
     },
     {
       "name": "Consolidated React 16.3+ compatibility and roadmap discussion ",
-      "links": [
-        "https://github.com/reduxjs/react-redux/issues/950"
-      ],
+      "links": ["https://github.com/reduxjs/react-redux/issues/950"],
       "tags": ["react", "redux"]
     },
     {
       "name": "JavaScript modules now work in all major browsers, and Node.js has experimental support!",
-      "links": [
-        "https://twitter.com/mathias/status/996133744917409792"
-      ],
+      "links": ["https://twitter.com/mathias/status/996133744917409792"],
       "tags": ["javascript"]
     },
     {
       "name": "Atom 1.27",
-      "links": [
-        "http://blog.atom.io/2018/05/15/atom-1-27.html"
-      ],
+      "links": ["http://blog.atom.io/2018/05/15/atom-1-27.html"],
       "tags": ["atom"]
     },
     {
       "name": "isomorphic-git",
-      "links": [
-        "https://github.com/isomorphic-git/isomorphic-git"
-      ],
+      "links": ["https://github.com/isomorphic-git/isomorphic-git"],
       "tags": ["git"]
     },
     {

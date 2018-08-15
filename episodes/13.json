@@ -8,7 +8,9 @@
     "id": "CSQwY5tD-RQ"
   },
   "duration": "8:07",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Saying Goodbye to Firebug",
       "links": ["https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/"],
       "tags": ["firefox"]

@@ -8,6 +8,7 @@
     "id": "0CvVfxOuvBI"
   },
   "duration": "10:04",
+  "hosts": ["hswolff"],
   "content": [{
       "name": "Prettier adds support for Markdown",
       "links": ["https://github.com/prettier/prettier/pull/2943"],

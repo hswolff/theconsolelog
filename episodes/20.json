@@ -8,7 +8,9 @@
     "id": "y9sVLcpSm8M"
   },
   "duration": "9:51",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "State of JavaScript 2017",
       "links": ["https://stateofjs.com/"],
       "tags": ["javascript"]

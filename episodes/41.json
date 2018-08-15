@@ -8,7 +8,9 @@
     "id": "EzZ25AfE_i4"
   },
   "duration": "8:51",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React Native at Airbnb",
       "links": [
         "https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c",
@@ -33,19 +35,19 @@
     },
     {
       "name": "brand-new demo: A constraints-based layout with Houdini’s Custom Layout API.",
-      "links": [
-        "https://twitter.com/dassurma/status/1008285828915843074?s=12"
-      ],
+      "links": ["https://twitter.com/dassurma/status/1008285828915843074?s=12"],
       "tags": ["houdini", "css"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Announcing Flutter Release Preview 1",
       "links": [
         "https://medium.com/flutter-io/flutter-release-preview-1-943a9b6ee65a?linkId=53249457"
       ],
       "tags": ["flutter"]
-    }, {
+    },
+    {
       "name": "Layered APIs",
       "links": [
         "https://twitter.com/mathias/status/1009088415504240640",
@@ -55,9 +57,7 @@
     },
     {
       "name": "Web Animations in WebKit",
-      "links": [
-        "https://webkit.org/blog/8343/web-animations-in-webkit/"
-      ],
+      "links": ["https://webkit.org/blog/8343/web-animations-in-webkit/"],
       "tags": ["safari"]
     },
     {
@@ -69,30 +69,22 @@
     },
     {
       "name": "V8 release v6.8",
-      "links": [
-        "https://v8project.blogspot.com/2018/06/v8-release-68.html"
-      ],
+      "links": ["https://v8project.blogspot.com/2018/06/v8-release-68.html"],
       "tags": ["v8"]
     },
     {
       "name": "Electron 3.0.0-beta.1, Chrome 66 and Node 10 ",
-      "links": [
-        "https://electronjs.org/releases#3.0.0-beta.1"
-      ],
+      "links": ["https://electronjs.org/releases#3.0.0-beta.1"],
       "tags": ["electron"]
     },
     {
       "name": "React Redux 5.1.0-test.1",
-      "links": [
-        "https://twitter.com/timdorr/status/1009894656157601798?s=12"
-      ],
+      "links": ["https://twitter.com/timdorr/status/1009894656157601798?s=12"],
       "tags": ["react", "redux"]
     },
     {
       "name": "Atom 1.28",
-      "links": [
-        "http://blog.atom.io/2018/06/21/atom-1-28.html"
-      ],
+      "links": ["http://blog.atom.io/2018/06/21/atom-1-28.html"],
       "tags": ["atom"]
     },
     {

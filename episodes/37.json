@@ -8,7 +8,9 @@
     "id": "osGYlfm35fA"
   },
   "duration": "9:52",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "TC39 May Meeting",
       "links": [
         "https://github.com/tc39/agendas/blob/master/2018/05.md",
@@ -26,9 +28,7 @@
     },
     {
       "name": "Move optional catch binding to stage 4, per 2018.05.22 TC39",
-      "links": [
-        "https://github.com/tc39/proposal-optional-catch-binding"
-      ],
+      "links": ["https://github.com/tc39/proposal-optional-catch-binding"],
       "tags": ["tc39"]
     },
     {
@@ -41,9 +41,7 @@
     },
     {
       "name": "Pattern Matching to stage 1, per 2018.05.24 TC39",
-      "links": [
-        "https://github.com/tc39/proposal-pattern-matching"
-      ],
+      "links": ["https://github.com/tc39/proposal-pattern-matching"],
       "tags": ["tc39"]
     },
     {
@@ -67,16 +65,12 @@
     },
     {
       "name": "React v16.4.0: Pointer Events",
-      "links": [
-        "https://reactjs.org/blog/2018/05/23/react-v-16-4.html"
-      ],
+      "links": ["https://reactjs.org/blog/2018/05/23/react-v-16-4.html"],
       "tags": ["react"]
     },
     {
       "name": "Profiler RFC #51",
-      "links": [
-        "https://github.com/reactjs/rfcs/pull/51"
-      ],
+      "links": ["https://github.com/reactjs/rfcs/pull/51"],
       "tags": ["react"]
     },
     {
@@ -88,110 +82,68 @@
       "tags": ["react"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "node.js worker implementation",
-      "links": [
-        "https://github.com/nodejs/node/pull/20876"
-      ],
+      "links": ["https://github.com/nodejs/node/pull/20876"],
       "tags": ["node"]
-    }, {
+    },
+    {
       "name": "We published @babeljs notes from this week's meeting",
-      "links": [
-        "https://twitter.com/left_pad/status/999242529894731776?s=12"
-      ],
-      "tags": [
-        "babel"
-      ]
+      "links": ["https://twitter.com/left_pad/status/999242529894731776?s=12"],
+      "tags": ["babel"]
     },
     {
       "name": "Prettier 1.13",
-      "links": [
-        "https://prettier.io/blog/2018/05/23/1.13.0.html"
-      ],
-      "tags": [
-        "prettier"
-      ]
+      "links": ["https://prettier.io/blog/2018/05/23/1.13.0.html"],
+      "tags": ["prettier"]
     },
     {
       "name": "What's New In DevTools (Chrome 68)",
-      "links": [
-        "https://developers.google.com/web/updates/2018/05/devtools"
-      ],
-      "tags": [
-        "chrome"
-      ]
+      "links": ["https://developers.google.com/web/updates/2018/05/devtools"],
+      "tags": ["chrome"]
     },
     {
       "name": "What's New In DevTools (Chrome 68)",
-      "links": [
-        "https://developers.google.com/web/updates/2018/05/devtools"
-      ],
-      "tags": [
-        "chrome"
-      ]
+      "links": ["https://developers.google.com/web/updates/2018/05/devtools"],
+      "tags": ["chrome"]
     },
     {
       "name": "Ease the Transition to a Monorepo with Focused Workspaces",
-      "links": [
-        "https://yarnpkg.com/blog/2018/05/18/focused-workspaces/"
-      ],
-      "tags": [
-        "yarn", "npm"
-      ]
+      "links": ["https://yarnpkg.com/blog/2018/05/18/focused-workspaces/"],
+      "tags": ["yarn", "npm"]
     },
     {
       "name": "jest 23.0.0",
-      "links": [
-        "https://twitter.com/fbjest/status/999730393543856131"
-      ],
-      "tags": [
-        "jest"
-      ]
+      "links": ["https://twitter.com/fbjest/status/999730393543856131"],
+      "tags": ["jest"]
     },
     {
       "name": "@fbOpenSource and @fbjest are now on @opencollect",
-      "links": [
-        "https://twitter.com/cpojer/status/999717442132807680"
-      ],
-      "tags": [
-        "jest"
-      ]
+      "links": ["https://twitter.com/cpojer/status/999717442132807680"],
+      "tags": ["jest"]
     },
     {
       "name": "npm v6.1.0-next.0",
-      "links": [
-        "https://blog.npmjs.org/post/174001864165/v610-next0"
-      ],
-      "tags": [
-        "npm"
-      ]
+      "links": ["https://blog.npmjs.org/post/174001864165/v610-next0"],
+      "tags": ["npm"]
     },
     {
       "name": "Brave New World: Moving on to ES 201X",
       "links": [
         "https://docs.google.com/presentation/d/1rx-aolWfz_E4DGpbw67hCPAxUMIpcrMWVoHOclnAJT8/edit#slide=id.p"
       ],
-      "tags": [
-        "tc39"
-      ]
+      "tags": ["tc39"]
     },
     {
       "name": "TSDoc",
-      "links": [
-        "https://github.com/Microsoft/tsdoc"
-      ],
-      "tags": [
-        "typescript"
-      ]
+      "links": ["https://github.com/Microsoft/tsdoc"],
+      "tags": ["typescript"]
     },
     {
       "name": "Super simple web app built by metro",
-      "links": [
-        "https://github.com/rafeca/metro-sample-app"
-      ],
-      "tags": [
-        "react-native"
-      ]
+      "links": ["https://github.com/rafeca/metro-sample-app"],
+      "tags": ["react-native"]
     }
   ]
 }

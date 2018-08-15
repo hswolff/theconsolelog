@@ -8,7 +8,9 @@
     "id": "qvaU0Pg6fnE"
   },
   "duration": "5:47",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "CoffeeScript 2",
       "links": ["http://coffeescript.org/announcing-coffeescript-2/"],
       "tags": ["coffeescript"]

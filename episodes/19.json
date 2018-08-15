@@ -8,7 +8,9 @@
     "id": "aQ0pKiwYK6E"
   },
   "duration": "8:57",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Introducing the React RFC Process",
       "links": [
         "https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html",

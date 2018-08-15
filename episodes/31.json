@@ -8,7 +8,9 @@
     "id": "5WgKT3NBPVI"
   },
   "duration": "9:57",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Stack Overflow Developer Survey Results 2018",
       "links": [
         "https://insights.stackoverflow.com/survey/2018/",
@@ -46,7 +48,8 @@
       "tags": ["tc39"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "EmberConf 2018 Keynote",
       "links": ["https://speakerdeck.com/tomdale/emberconf-2018-keynote"],
       "tags": ["ember"]

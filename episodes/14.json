@@ -8,7 +8,9 @@
     "id": "5wNps11wZIo"
   },
   "duration": "7:47",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "HTML Template Instantiation Proposal by Apple",
       "links": [
         "https://www.reddit.com/r/javascript/comments/7affoq/apples_proposal_for_html_template_interpolation/",

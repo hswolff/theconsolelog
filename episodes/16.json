@@ -8,7 +8,9 @@
     "id": "kh83Z0LtqlE"
   },
   "duration": "6:46",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Firefox Quantum",
       "links": [
         "https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/",

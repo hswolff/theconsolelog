@@ -8,7 +8,9 @@
     "id": "CQ7xIA98mmg"
   },
   "duration": "6:48",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React 16.2.0 Released",
       "links": [
         "https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html",

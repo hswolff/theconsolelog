@@ -8,7 +8,9 @@
     "id": "RRGCoGUnMfg"
   },
   "duration": "9:34",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "flatten renamed to smoosh?",
       "links": [
         "https://github.com/tc39/proposal-flatMap/pull/56",
@@ -58,7 +60,8 @@
       "tags": ["react"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "History of the browser user-agent string",
       "links": ["https://webaim.org/blog/user-agent-string-history/"],
       "tags": ["browser", "history"]

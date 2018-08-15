@@ -8,7 +8,9 @@
     "id": "03bFTBzvKAA"
   },
   "duration": "6:55",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "React v16.3.0: New lifecycles and context API",
       "links": ["https://reactjs.org/blog/2018/03/29/react-v-16-3.html"],
       "tags": ["react"]
@@ -41,7 +43,8 @@
       "tags": ["machine learning"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "CodeSandbox Live",
       "links": [
         "https://medium.com/@compuives/introducing-codesandbox-live-real-time-code-collaboration-in-the-browser-6d508cfc70c9",

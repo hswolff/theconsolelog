@@ -8,7 +8,9 @@
     "id": "qibp8xLLCJs"
   },
   "duration": "8:59",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "ESM modules in node: npm edition",
       "links": [
         "https://gist.github.com/ceejbot/b49f8789b2ab6b09548ccb72813a1054",
@@ -34,7 +36,8 @@
       "tags": ["atom"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Add wasm2c, a new tool that reads a .wasm file and generates a C source file",
       "links": ["https://github.com/WebAssembly/wabt/pull/710"],
       "tags": ["webassembly"]

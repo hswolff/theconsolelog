@@ -8,23 +8,19 @@
     "id": "frCo0cx6-uQ"
   },
   "duration": "22:33",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "npm CLI: a year in review",
       "links": [
         "https://blog.npmjs.org/post/173240511455/the-new-npm-cli-a-year-in-review-or-what-you/"
       ],
-      "tags": [
-        "npm"
-      ]
+      "tags": ["npm"]
     },
     {
       "name": "npm 5.10.0",
-      "links": [
-        "https://blog.npmjs.org/post/173012543745/v5100/"
-      ],
-      "tags": [
-        "npm"
-      ]
+      "links": ["https://blog.npmjs.org/post/173012543745/v5100/"],
+      "tags": ["npm"]
     },
     {
       "name": "Announcing npm@6",
@@ -32,18 +28,14 @@
         "https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905",
         "https://blog.npmjs.org/post/173148872290/v600-next2"
       ],
-      "tags": [
-        "npm"
-      ]
+      "tags": ["npm"]
     },
     {
       "name": "Beyond npm@6: The future of the npm cli",
       "links": [
         "https://blog.npmjs.org/post/173239798780/beyond-npm6-the-future-of-the-npm-cli/"
       ],
-      "tags": [
-        "npm"
-      ]
+      "tags": ["npm"]
     },
     {
       "name": "Node.js 10.0.0",
@@ -53,18 +45,12 @@
         "https://twitter.com/sindresorhus/status/989231068871036930",
         "https://medium.com/the-node-js-collection/april-2018-release-updates-from-the-node-js-project-71687e1f7742"
       ],
-      "tags": [
-        "node"
-      ]
+      "tags": ["node"]
     },
     {
       "name": "Redux 4",
-      "links": [
-        "https://github.com/reactjs/redux/releases/tag/v4.0.0"
-      ],
-      "tags": [
-        "redux"
-      ]
+      "links": ["https://github.com/reactjs/redux/releases/tag/v4.0.0"],
+      "tags": ["redux"]
     },
     {
       "name": "Underscore.js 1.9.0",
@@ -72,9 +58,7 @@
         "https://twitter.com/jashkenas/status/986678387325321216",
         "http://underscorejs.org/#changelog"
       ],
-      "tags": [
-        "underscore"
-      ]
+      "tags": ["underscore"]
     },
     {
       "name": "Dart Sass Goes 1.0.0",
@@ -82,9 +66,7 @@
         "http://sass.logdown.com/posts/7045860-dart-sass-100-is-released",
         "https://css-tricks.com/ruby-sass-to-be-put-to-pasture-on-march-26-2019/"
       ],
-      "tags": [
-        "sass"
-      ]
+      "tags": ["sass"]
     },
     {
       "name": "CSS Blocks",
@@ -92,20 +74,17 @@
         "https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh",
         "http://css-blocks.com/"
       ],
-      "tags": [
-        "css"
-      ]
+      "tags": ["css"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Webpack 4.6.0",
       "links": [
         "https://github.com/webpack/webpack/releases/tag/v4.6.0",
         "https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c"
       ],
-      "tags": [
-        "webpack"
-      ]
+      "tags": ["webpack"]
     },
     {
       "name": "Angular 6.0",
@@ -114,9 +93,7 @@
         "https://github.com/angular/angular/blob/61265b4/CHANGELOG.md",
         "https://github.com/angular/angular/releases/tag/6.0.0"
       ],
-      "tags": [
-        "angular"
-      ]
+      "tags": ["angular"]
     },
     {
       "name": "#RxJS 6.0.0",
@@ -124,9 +101,7 @@
         "https://twitter.com/benlesh/status/988922021705756672?s=12",
         "https://github.com/ReactiveX/rxjs/blob/master/MIGRATION.md"
       ],
-      "tags": [
-        "rxjs"
-      ]
+      "tags": ["rxjs"]
     },
     {
       "name": "Opt-in Sass support without ejecting coming to Create React App",
@@ -134,36 +109,24 @@
         "https://twitter.com/dan_abramov/status/985249038181289985?s=12",
         "https://github.com/facebook/create-react-app/pull/4195"
       ],
-      "tags": [
-        "sass", "react"
-      ]
+      "tags": ["sass", "react"]
     },
     {
       "name": "npm RFCs",
-      "links": [
-        "https://github.com/npm/rfcs"
-      ],
-      "tags": [
-        "npm"
-      ]
+      "links": ["https://github.com/npm/rfcs"],
+      "tags": ["npm"]
     },
     {
       "name": "Pure CSS Francine",
-      "links": [
-        "https://github.com/cyanharlow/purecss-francine"
-      ],
-      "tags": [
-        "css"
-      ]
+      "links": ["https://github.com/cyanharlow/purecss-francine"],
+      "tags": ["css"]
     },
     {
       "name": "Spectrum goes Open Source",
       "links": [
         "https://spectrum.chat/thread/556b4915-7269-46a7-96e6-f38446d14146"
       ],
-      "tags": [
-        "oss"
-      ]
+      "tags": ["oss"]
     },
     {
       "name": "Edge Adds Service Workers Support",
@@ -172,153 +135,101 @@
         "https://jakearchibald.github.io/isserviceworkerready/",
         "https://blogs.windows.com/msedgedev/2018/04/30/edgehtml-17-april-2018-update/"
       ],
-      "tags": [
-        "serviceworkers", "edge"
-      ]
+      "tags": ["serviceworkers", "edge"]
     },
     {
       "name": "Preview of Houdini’s Custom Layout is in Google Canary",
-      "links": [
-        "https://twitter.com/DasSurma/status/981929267222253568"
-      ],
-      "tags": [
-        "houdini", "css"
-      ]
+      "links": ["https://twitter.com/DasSurma/status/981929267222253568"],
+      "tags": ["houdini", "css"]
     },
     {
       "name": "new pgp machinery",
-      "links": [
-        "https://blog.npmjs.org/post/172999548390/new-pgp-machinery/"
-      ],
-      "tags": [
-        "npm"
-      ]
+      "links": ["https://blog.npmjs.org/post/172999548390/new-pgp-machinery/"],
+      "tags": ["npm"]
     },
     {
       "name": "React 16.3.2",
       "links": [
         "https://twitter.com/dan_abramov/status/985906436659204098?s=12"
       ],
-      "tags": [
-        "react"
-      ]
+      "tags": ["react"]
     },
     {
       "name": "Apollo Server 2.0 beta",
       "links": [
         "https://dev-blog.apollodata.com/apollo-server-2-0-30c9bbb4ab5e"
       ],
-      "tags": [
-        "apollo", "graphql"
-      ]
+      "tags": ["apollo", "graphql"]
     },
     {
       "name": "graphql-tools 3.0",
       "links": [
         "https://dev-blog.apollodata.com/the-next-generation-of-schema-stitching-2716b3b259c0"
       ],
-      "tags": [
-        "apollo", "graphql"
-      ]
+      "tags": ["apollo", "graphql"]
     },
     {
       "name": "Hyper 2",
-      "links": [
-        "https://zeit.co/blog/hyper2"
-      ],
-      "tags": [
-        "terminal"
-      ]
+      "links": ["https://zeit.co/blog/hyper2"],
+      "tags": ["terminal"]
     },
     {
       "name": "Prettier 1.12",
-      "links": [
-        "https://prettier.io/blog/2018/04/11/1.12.0.html"
-      ],
-      "tags": [
-        "prettier"
-      ]
+      "links": ["https://prettier.io/blog/2018/04/11/1.12.0.html"],
+      "tags": ["prettier"]
     },
     {
       "name": "Bootstrap 4.1",
-      "links": [
-        "https://blog.getbootstrap.com/2018/04/09/bootstrap-4-1/"
-      ],
-      "tags": [
-        "css"
-      ]
+      "links": ["https://blog.getbootstrap.com/2018/04/09/bootstrap-4-1/"],
+      "tags": ["css"]
     },
     {
       "name": "VSCode 1.23",
-      "links": [
-        "https://code.visualstudio.com/updates/v1_23"
-      ],
-      "tags": [
-        "vscode"
-      ]
+      "links": ["https://code.visualstudio.com/updates/v1_23"],
+      "tags": ["vscode"]
     },
     {
       "name": "Introducing Dojo 2.0",
       "links": [
         "https://dojo.io/blog/2018/05/02/2018-05-02-Dojo2-0-0-release/"
       ],
-      "tags": [
-        "javascript"
-      ]
+      "tags": ["javascript"]
     },
     {
       "name": "BuckleScript 3",
       "links": [
         "https://bucklescript.github.io/blog/2018/04/16/release-3-0-0.html"
       ],
-      "tags": [
-        "reasonml"
-      ]
+      "tags": ["reasonml"]
     },
     {
       "name": "Diagram of modern React lifecycle methods",
-      "links": [
-        "https://twitter.com/dan_abramov/status/981712092611989509"
-      ],
-      "tags": [
-        "react"
-      ]
+      "links": ["https://twitter.com/dan_abramov/status/981712092611989509"],
+      "tags": ["react"]
     },
     {
       "name": "Webpack’s New CLI",
       "links": [
         "https://medium.com/webpack/webpacks-new-cli-hotness-d6a2063168a8"
       ],
-      "tags": [
-        "webpack"
-      ]
+      "tags": ["webpack"]
     },
     {
       "name": "VuePress",
-      "links": [
-        "https://vuepress.vuejs.org/"
-      ],
-      "tags": [
-        "vue"
-      ]
+      "links": ["https://vuepress.vuejs.org/"],
+      "tags": ["vue"]
     },
     {
       "name": "Announcing Storybook 3.4",
       "links": [
         "https://medium.com/storybookjs/announcing-storybook-3-4-db4d1341dedd"
       ],
-      "tags": [
-        "storybook"
-      ]
+      "tags": ["storybook"]
     },
     {
       "name": "Firefox Dev Tools Debugger just got first class support for @babeljs, @webpack, and @reactjs!",
-      "links": [
-        "https://twitter.com/jasonlaster11/status/984124865027420160"
-      ],
-      "tags": [
-        "firefox"
-      ]
+      "links": ["https://twitter.com/jasonlaster11/status/984124865027420160"],
+      "tags": ["firefox"]
     },
     {
       "name": "Chrome and Firefox will support a new standard for password-free logins",
@@ -326,108 +237,76 @@
         "https://www.theverge.com/2018/4/10/17215406/webauthn-support-chrome-firefox-edge-fido-password-free",
         "https://www.w3.org/TR/webauthn/"
       ],
-      "tags": [
-        "chrome", "firefox"
-      ]
+      "tags": ["chrome", "firefox"]
     },
     {
       "name": "Mozilla Brings Firefox to Augmented and Virtual Reality",
       "links": [
         "https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtual-reality/"
       ],
-      "tags": [
-        "firefox", "vr"
-      ]
+      "tags": ["firefox", "vr"]
     },
     {
       "name": "Chrome 67 New Dev Features",
-      "links": [
-        "https://developers.google.com/web/updates/2018/04/devtools"
-      ],
-      "tags": [
-        "chrome"
-      ]
+      "links": ["https://developers.google.com/web/updates/2018/04/devtools"],
+      "tags": ["chrome"]
     },
     {
       "name": "Chrome 66 for Mac rolling out with saved password export & media autoplay restrictions",
       "links": [
         "https://9to5mac.com/2018/04/17/google-chrome-66-stable-mac-features/amp/"
       ],
-      "tags": [
-        "chrome"
-      ]
+      "tags": ["chrome"]
     },
     {
       "name": "Sneak Peek at WebAssembly Studio",
       "links": [
         "https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/"
       ],
-      "tags": [
-        "wasm"
-      ]
+      "tags": ["wasm"]
     },
     {
       "name": "wasm-pack",
-      "links": [
-        "https://hacks.mozilla.org/2018/04/hello-wasm-pack/"
-      ],
-      "tags": [
-        "wasm"
-      ]
+      "links": ["https://hacks.mozilla.org/2018/04/hello-wasm-pack/"],
+      "tags": ["wasm"]
     },
     {
       "name": "Library Manager: Client-side content manager for web apps",
       "links": [
         "https://blogs.msdn.microsoft.com/webdev/2018/04/17/library-manager-client-side-content-manager-for-web-apps/"
       ],
-      "tags": [
-        "npm"
-      ]
+      "tags": ["npm"]
     },
     {
       "name": "Introducing sonarwhal v1: The linting tool for the web",
       "links": [
         "https://blogs.windows.com/msedgedev/2018/04/19/sonarwhal-v1-linting-tool-for-web/"
       ],
-      "tags": [
-        "tool"
-      ]
+      "tags": ["tool"]
     },
     {
       "name": "Pattern matching syntax for ECMAScript",
-      "links": [
-        "https://github.com/tc39/proposal-pattern-matching"
-      ],
-      "tags": [
-        "tc39"
-      ]
+      "links": ["https://github.com/tc39/proposal-pattern-matching"],
+      "tags": ["tc39"]
     },
     {
       "name": "Consider JSX-like syntax inside dart code",
       "links": [
         "https://github.com/flutter/flutter/issues/11609#issuecomment-385010431"
       ],
-      "tags": [
-        "dart"
-      ]
+      "tags": ["dart"]
     },
     {
       "name": "HTMLx",
-      "links": [
-        "https://github.com/Rich-Harris/HTMLX"
-      ],
-      "tags": [
-        "html"
-      ]
+      "links": ["https://github.com/Rich-Harris/HTMLX"],
+      "tags": ["html"]
     },
     {
       "name": "React 360 Replaces React VR",
       "links": [
         "https://developer.oculus.com/blog/react-360-replaces-react-vr-for-streamlined-development-focus/"
       ],
-      "tags": [
-        "react", "vr"
-      ]
+      "tags": ["react", "vr"]
     }
   ]
 }

@@ -8,7 +8,9 @@
     "id": "4cSJgZi4XZI"
   },
   "duration": "8:27",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "ESLint-scope 3.7.2 has been hacked",
       "links": [
         "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes",
@@ -33,7 +35,8 @@
       "tags": ["react"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "npm Joins ECMA International and TC39",
       "links": [
         "https://blog.npmjs.org/post/175722319045/npm-joins-ecma-international-and-tc39"
@@ -50,23 +53,17 @@
     },
     {
       "name": "Transparent Proxies",
-      "links": [
-        "https://github.com/littledan/proposal-proxy-transparent"
-      ],
+      "links": ["https://github.com/littledan/proposal-proxy-transparent"],
       "tags": ["tc39"]
     },
     {
       "name": "The CSS Paint API",
-      "links": [
-        "https://css-tricks.com/the-css-paint-api/"
-      ],
+      "links": ["https://css-tricks.com/the-css-paint-api/"],
       "tags": ["css", "houdini"]
     },
     {
       "name": "BuckleScript 4.0.0 (Part One)",
-      "links": [
-        "https://bucklescript.github.io/blog/2018/07/17/release-4-0-0"
-      ],
+      "links": ["https://bucklescript.github.io/blog/2018/07/17/release-4-0-0"],
       "tags": ["reasonml"]
     },
     {
@@ -78,9 +75,7 @@
     },
     {
       "name": "fastpack",
-      "links": [
-        "https://github.com/fastpack/fastpack"
-      ],
+      "links": ["https://github.com/fastpack/fastpack"],
       "tags": ["ocaml", "webpack"]
     },
     {
@@ -92,9 +87,7 @@
     },
     {
       "name": "A Documentary on Elixir",
-      "links": [
-        "http://doc.honeypot.io/elixir-documentary-2018/"
-      ],
+      "links": ["http://doc.honeypot.io/elixir-documentary-2018/"],
       "tags": ["elixir"]
     }
   ]

@@ -11,7 +11,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
   const {
     title,
     fields: { episodeNumber },
-    hosts = [],
+    hosts,
     content,
     overflow,
     youtube,
@@ -58,7 +58,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
           flex-direction: row;
         `}
       >
-        {['hswolff'].concat(hosts).map(name => (
+        {hosts.map(name => (
           <Host key={name} name={name} />
         ))}
       </div>

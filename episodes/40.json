@@ -8,13 +8,14 @@
     "id": "otmMul8s20w"
   },
   "duration": "9:00",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Has Vue passed React yet?",
-      "links": [
-        "https://hasvuepassedreactyet.surge.sh/"
-      ],
+      "links": ["https://hasvuepassedreactyet.surge.sh/"],
       "tags": ["vue"]
-    }, {
+    },
+    {
       "name": "Vue Native",
       "links": [
         "https://vue-native.io/",
@@ -24,9 +25,7 @@
     },
     {
       "name": "Vue.js to be rewritten with TypeScript",
-      "links": [
-        "https://github.com/vuejs/roadmap"
-      ],
+      "links": ["https://github.com/vuejs/roadmap"],
       "tags": ["vue"]
     },
     {
@@ -52,7 +51,8 @@
       "tags": ["react", "react native"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Parcel v1.9.0 does tree shaking on both ES6 and CommonJS modules! This is a HUGE deal since most of the code on npm is still CommonJS.",
       "links": [
         "https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79",
@@ -74,32 +74,25 @@
         "https://cloudplatform.googleblog.com/2018/06/Now-you-can-deploy-your-Node-js-app-to-App-Engine-standard-environment.html"
       ],
       "tags": ["node"]
-    }, {
+    },
+    {
       "name": "New Static Deployments with Now",
-      "links": [
-        "https://zeit.co/blog/new-static-deployments"
-      ],
+      "links": ["https://zeit.co/blog/new-static-deployments"],
       "tags": ["static site"]
     },
     {
       "name": "Origin of the Zen of Python",
-      "links": [
-        "https://twitter.com/gvanrossum/status/1006275582227767297"
-      ],
+      "links": ["https://twitter.com/gvanrossum/status/1006275582227767297"],
       "tags": ["python"]
     },
     {
       "name": "Sonar",
-      "links": [
-        "https://github.com/facebook/Sonar"
-      ],
+      "links": ["https://github.com/facebook/Sonar"],
       "tags": ["android"]
     },
     {
       "name": "docz",
-      "links": [
-        "https://www.docz.site/"
-      ],
+      "links": ["https://www.docz.site/"],
       "tags": ["react", "markdown", "docs"]
     },
     {
@@ -126,9 +119,7 @@
     },
     {
       "name": "React Recomponent",
-      "links": [
-        "https://github.com/philipp-spiess/react-recomponent"
-      ],
+      "links": ["https://github.com/philipp-spiess/react-recomponent"],
       "tags": ["react"]
     },
     {
@@ -148,9 +139,7 @@
     },
     {
       "name": "VS Code Extension for Managing GitHub Pull Requests",
-      "links": [
-        "https://github.com/Microsoft/vscode-pull-request-github"
-      ],
+      "links": ["https://github.com/Microsoft/vscode-pull-request-github"],
       "tags": ["vscode"]
     },
     {

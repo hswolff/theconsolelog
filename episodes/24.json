@@ -8,7 +8,9 @@
     "id": "CjPs6cGnoIQ"
   },
   "duration": "10:02",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "TC39 now has an official logo",
       "links": [
         "https://github.com/tc39/logo",
@@ -76,7 +78,8 @@
       "tags": ["service workers", "safari"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "create-react-app graduates from open source incubator program",
       "links": ["https://twitter.com/fbOpenSource/status/955513652261482496"],
       "tags": ["react"]

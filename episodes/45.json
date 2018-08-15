@@ -8,11 +8,11 @@
     "id": "ZV5tSJQmFgw"
   },
   "duration": "10:23",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "Babel: Remove Stage presets",
-      "links": [
-        "https://github.com/babel/babel/pull/8293"
-      ],
+      "links": ["https://github.com/babel/babel/pull/8293"],
       "tags": ["babel"]
     },
     {
@@ -38,7 +38,8 @@
       "tags": ["npm"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "Operationalizing Node.js for Server Side Rendering",
       "links": [
         "https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9"
@@ -61,16 +62,12 @@
     },
     {
       "name": "Rogue - Server rendering for React",
-      "links": [
-        "https://github.com/alidcastano/rogue.js"
-      ],
+      "links": ["https://github.com/alidcastano/rogue.js"],
       "tags": ["react"]
     },
     {
       "name": "cheat.sh  - The only cheat sheet you need",
-      "links": [
-        "https://cheat.sh/"
-      ],
+      "links": ["https://cheat.sh/"],
       "tags": ["cool"]
     },
     {
@@ -82,23 +79,17 @@
     },
     {
       "name": "Node v10.7.0 (Current)",
-      "links": [
-        "https://nodejs.org/en/blog/release/v10.7.0/"
-      ],
+      "links": ["https://nodejs.org/en/blog/release/v10.7.0/"],
       "tags": ["node"]
     },
     {
       "name": "npm v6.2.0",
-      "links": [
-        "https://blog.npmjs.org/post/175871462900/v620"
-      ],
+      "links": ["https://blog.npmjs.org/post/175871462900/v620"],
       "tags": ["npm"]
     },
     {
       "name": "Building the Google Photos Web UI",
-      "links": [
-        "https://medium.com/google-design/google-photos-45b714dfbed1"
-      ],
+      "links": ["https://medium.com/google-design/google-photos-45b714dfbed1"],
       "tags": ["ui"]
     },
     {
@@ -110,9 +101,7 @@
     },
     {
       "name": "The future of WebAssembly - A look at upcoming features and proposals",
-      "links": [
-        "https://blog.scottlogic.com/2018/07/20/wasm-future.html"
-      ],
+      "links": ["https://blog.scottlogic.com/2018/07/20/wasm-future.html"],
       "tags": ["webassembly"]
     }
   ]

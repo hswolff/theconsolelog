@@ -8,7 +8,9 @@
     "id": "0ACLqjdEFIs"
   },
   "duration": "24:19",
-  "content": [{
+  "hosts": ["hswolff"],
+  "content": [
+    {
       "name": "GitHub: Unselectable diff markers",
       "links": [
         "https://blog.github.com/changelog/2018-07-31-unselectable-diff-markers/"
@@ -25,9 +27,7 @@
     },
     {
       "name": "React v16.4.2: Server-side vulnerability fix",
-      "links": [
-        "https://reactjs.org/blog/2018/08/01/react-v-16-4-2.html"
-      ],
+      "links": ["https://reactjs.org/blog/2018/08/01/react-v-16-4-2.html"],
       "tags": ["react", "vue"]
     },
     {
@@ -40,9 +40,7 @@
     },
     {
       "name": "Yarn is now responsible for almost half (48%) of all package downloads from the npm registry.",
-      "links": [
-        "https://twitter.com/cpojer/status/1025288816255545344"
-      ],
+      "links": ["https://twitter.com/cpojer/status/1025288816255545344"],
       "tags": ["yarn", "npm"]
     },
     {
@@ -69,78 +67,53 @@
       "tags": ["chrome"]
     }
   ],
-  "overflow": [{
+  "overflow": [
+    {
       "name": "React Conf",
       "links": [
         "https://conf.reactjs.org/",
         "https://twitter.com/reactjs/status/1024358806212366336"
       ],
-      "tags": [
-        "react"
-      ]
+      "tags": ["react"]
     },
     {
       "name": "FramerX",
-      "links": [
-        "https://framer.com/x"
-      ],
-      "tags": [
-        "design"
-      ]
+      "links": ["https://framer.com/x"],
+      "tags": ["design"]
     },
     {
       "name": "Atom 1.29",
-      "links": [
-        "http://blog.atom.io/2018/07/31/atom-1-29.html"
-      ],
-      "tags": [
-        "atom"
-      ]
+      "links": ["http://blog.atom.io/2018/07/31/atom-1-29.html"],
+      "tags": ["atom"]
     },
     {
       "name": "Introducing Fusion.js: A Plugin-based Universal Web Framework",
-      "links": [
-        "https://eng.uber.com/fusionjs/"
-      ],
-      "tags": [
-        "node"
-      ]
+      "links": ["https://eng.uber.com/fusionjs/"],
+      "tags": ["node"]
     },
     {
       "name": "Release Notes for Safari Technology Preview 62",
       "links": [
         "https://webkit.org/blog/8384/release-notes-for-safari-technology-preview-62/"
       ],
-      "tags": [
-        "safari"
-      ]
+      "tags": ["safari"]
     },
     {
       "name": "The Cost Of JavaScript In 2018",
       "links": [
         "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4"
       ],
-      "tags": [
-        "javascript"
-      ]
+      "tags": ["javascript"]
     },
     {
       "name": "Node 10.8.0",
-      "links": [
-        "https://nodejs.org/en/blog/release/v10.8.0/"
-      ],
-      "tags": [
-        "node"
-      ]
+      "links": ["https://nodejs.org/en/blog/release/v10.8.0/"],
+      "tags": ["node"]
     },
     {
       "name": "Replace react-router with @reach/router",
-      "links": [
-        "https://github.com/gatsbyjs/gatsby/pull/6918"
-      ],
-      "tags": [
-        "react router", "gatsby"
-      ]
+      "links": ["https://github.com/gatsbyjs/gatsby/pull/6918"],
+      "tags": ["react router", "gatsby"]
     }
   ]
 }
