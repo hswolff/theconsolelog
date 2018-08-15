@@ -4,12 +4,14 @@ import Helmet from 'react-helmet';
 import Layout from '../components/Layout';
 import AudioPlayer from '../components/AudioPlayer';
 import EpisodeListItem from '../components/EpisodeListItem';
+import Host from '../components/Host';
 import Disqus from '../components/Disqus';
 
 export default function EpisodeTemplate({ data: { episodesJson } }) {
   const {
     title,
     fields: { episodeNumber },
+    hosts = [],
     content,
     overflow,
     youtube,
@@ -46,11 +48,20 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
           </p>
         </Fragment>
       )}
-
       <AudioPlayer
         src={`https://s3.amazonaws.com/the-console-log-podcast/E${episodeNumber}.mp3`}
       />
-
+      <h2>Hosts</h2>
+      <div
+        css={`
+          display: flex;
+          flex-direction: row;
+        `}
+      >
+        {['hswolff'].concat(hosts).map(name => (
+          <Host key={name} name={name} />
+        ))}
+      </div>
       <h2>Show Links</h2>
       <Links content={content} />
       <h2>Overflow Links</h2>
@@ -93,6 +104,7 @@ export const pageQuery = graphql`
         start
         end
       }
+      hosts
       content {
         name
         links

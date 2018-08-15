@@ -20,6 +20,7 @@ exports.createPages = async function({ actions, graphql }) {
               episodeNumber
               slug
             }
+            hosts
             content {
               name
               links
