@@ -77,7 +77,7 @@ module.exports = {
                   { 'itunes:email': 'hello@hswolff.com' },
                 ],
               },
-              { 'itunes:explicit': 'yes' },
+              { 'itunes:explicit': 'no' },
               {
                 'itunes:image': {
                   _attr: {
@@ -197,8 +197,8 @@ const createDescription = node => {
   let description = `
 Episode ${node.fields.episodeNumber}
 ${formatDate(node.date.start)} - ${formatDate(node.date.end)}, ${getYear(
-  node.date.end
-)}
+    node.date.end
+  )}
 
 FIND ALL LINKS ON THE WEBSITE
 http://theconsolelog.com/episode/${node.fields.episodeNumber}
