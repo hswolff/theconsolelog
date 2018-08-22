@@ -1,0 +1,123 @@
+{
+  "title": "Put On Your React Rally Hats!",
+  "date": {
+    "start": "2018-08-15",
+    "end": "2018-08-21"
+  },
+  "youtube": {
+    "id": "0yEKR5IKfGM"
+  },
+  "duration": "21:25",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "React Rally 2018",
+      "links": [
+        "https://www.reactrally.com/"
+      ],
+      "tags": ["react", "conference"]
+    },
+    {
+      "name": "React PR: Accept promise as element type",
+      "links": [
+        "https://github.com/facebook/react/pull/13397"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "PR: React.lazy",
+      "links": [
+        "https://github.com/facebook/react/pull/13398"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "React Async Elements",
+      "links": [
+        "https://github.com/palmerhq/react-async-elements"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Lazy-loading images and iframes are coming to the web platform",
+      "links": [
+        "https://github.com/whatwg/html/issues/2806",
+        "https://twitter.com/feross/status/1029134817135353856",
+        "https://caniuse.com/#feat=lazyload",
+        "https://msdn.microsoft.com/en-us/ie/dn369270(v=vs.94)"
+      ],
+      "tags": ["dom"]
+    },
+    {
+      "name": "WebAssembly is here for Unity",
+      "links": [
+        "https://blogs.unity3d.com/2018/08/15/webassembly-is-here/"
+      ],
+      "tags": ["webassembly"]
+    },
+    {
+      "name": "Prettier: support MDX",
+      "links": [
+        "https://github.com/prettier/prettier/pull/4975"
+      ],
+      "tags": ["prettier"]
+    }
+  ],
+  "overflow": [{
+      "name": "Release: npm@6.4.0",
+      "links": [
+        "https://npm.community/t/release-npm-6-4-0/1417"
+      ],
+      "tags": [
+        "npm"
+      ]
+    },
+    {
+      "name": "VSCode 1.26",
+      "links": [
+        "https://code.visualstudio.com/updates/v1_26"
+      ],
+      "tags": [
+        "vscode"
+      ]
+    },
+    {
+      "name": "http://sketch.sh   - An interactive @reasonml sketchbook",
+      "links": [
+        "https://twitter.com/thangngoc89/status/1029120001607749632?s=12"
+      ],
+      "tags": [
+        "reasonml"
+      ]
+    },
+    {
+      "name": "Serverless Docker Beta",
+      "links": [
+        "https://zeit.co/blog/serverless-docker"
+      ],
+      "tags": [
+        "docker"
+      ]
+    },
+    {
+      "name": "The State of Reason Survey",
+      "links": [
+        "https://mobile.twitter.com/ReasonTownFM/status/1030122158469525504"
+      ],
+      "tags": [
+        "reasonml"
+      ]
+    },
+    {
+      "name": "JavaScript engine fundamentals: optimizing prototypes",
+      "links": [
+        "https://mathiasbynens.be/notes/prototypes"
+      ],
+      "tags": [
+        "javascript"
+      ]
+    }
+  ]
+}
