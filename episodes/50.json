@@ -1,0 +1,139 @@
+{
+  "title": "We're halfway there! Oooh! Already 50 Episodes!",
+  "date": {
+    "start": "2018-08-22",
+    "end": "2018-08-28"
+  },
+  "youtube": {
+    "id": "u0BLRM21Si8"
+  },
+  "duration": "27:52",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "New Spectrum Community",
+      "links": [
+        "https://spectrum.chat/the-console-log"
+      ],
+      "tags": ["spectrum"]
+    },
+    {
+      "name": "More Than A Billion Downloads of Node.js 🎉",
+      "links": [
+        "https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Ghost 2.0",
+      "links": [
+        "https://blog.ghost.org/2-0/"
+      ],
+      "tags": ["ghost", "blog"]
+    },
+    {
+      "name": "The first RC is out for Gatsby v2!",
+      "links": [
+        "https://twitter.com/gatsbyjs/status/1031707866330103808?s=12",
+        "https://github.com/gatsbyjs/gatsby/releases/tag/gatsby%402.0.0-rc.0"
+      ],
+      "tags": ["gatsby"]
+    },
+    {
+      "name": "Bugzilla is 20 years old",
+      "links": [
+        "https://twitter.com/BugzillaUX/status/1033700996856262656"
+      ],
+      "tags": ["bugzilla"]
+    },
+    {
+      "name": "First commit to WebKit was 17 years ago on August 24th",
+      "links": [
+        "https://twitter.com/mathias/status/1033022371354107904"
+      ],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "VSCode itself directly running in the browser",
+      "links": [
+        "https://twitter.com/CompuIves/status/1031930891122049024"
+      ],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "OffscreenCanvas — Speed up Your Canvas Operations with a Web Worker",
+      "links": [
+        "https://developers.google.com/web/updates/2018/08/offscreen-canvas"
+      ],
+      "tags": ["dom"]
+    },
+    {
+      "name": "WorkerDOM: implementation of the DOM API intended to run within a Web Worker",
+      "links": [
+        "https://github.com/ampproject/worker-dom",
+        "https://twitter.com/cramforce/status/1032054636838932481?s=12"
+      ],
+      "tags": ["amp"]
+    },
+    {
+      "name": "Article on Vue in Wired",
+      "links": [
+        "https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook"
+      ],
+      "tags": ["vue"]
+    },
+    {
+      "name": "Windows 95 in Electron",
+      "links": [
+        "https://github.com/felixrieseberg/windows95"
+      ],
+      "tags": ["fun", "electron"]
+    },
+    {
+      "name": "MagicPiano",
+      "links": [
+        "https://github.com/SaraVieira/magic-piano"
+      ],
+      "tags": ["fun"]
+    }
+  ],
+  "overflow": [{
+      "name": "Elm 0.19",
+      "links": [
+        "https://elm-lang.org/blog/small-assets-without-the-headache",
+        "https://dev.to/skinney/elm-019-brings-better-collections-3320"
+      ],
+      "tags": ["elm"]
+    },
+    {
+      "name": "Improved npm security features",
+      "links": [
+        "https://blog.npmjs.org/post/177279385225/three-new-features-to-help-our-users-protect"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Practical CSS Scroll Snapping",
+      "links": [
+        "https://css-tricks.com/practical-css-scroll-snapping/"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "name": "Custom site performance reports with the CrUX Dashboard",
+      "links": [
+        "https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "enzyme v3.5.0",
+      "links": [
+        "https://twitter.com/ljharb/status/1033267583372292098?s=12"
+      ],
+      "tags": ["react"]
+    }
+  ]
+}
