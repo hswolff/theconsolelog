@@ -1,0 +1,77 @@
+{
+  "title": "Babbling About Babel 7",
+  "date": {
+    "start": "2018-08-29",
+    "end": "2018-09-04"
+  },
+  "youtube": {
+    "id": "PMP29Y1exFY"
+  },
+  "duration": "26:32",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "Babel 7 Released",
+      "links": [
+        "https://babeljs.io/blog/2018/08/27/7.0.0",
+        "https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "React Fire: Modernizing React DOM",
+      "links": [
+        "https://github.com/facebook/react/issues/13525",
+        "https://github.com/facebook/react/issues/13525#issuecomment-417818906"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "GraphQL JS 14.0.0 Release",
+      "links": [
+        "https://github.com/graphql/graphql-js/releases/tag/v14.0.0"
+      ],
+      "tags": ["graphql"]
+    },
+    {
+      "name": "Lerna License Drama",
+      "links": [
+        "https://github.com/lerna/lerna/pull/1616",
+        "https://github.com/lerna/lerna/pull/1633"
+      ],
+      "tags": ["lerna"]
+    }
+  ],
+  "overflow": [{
+      "name": "CodeMirror 6",
+      "links": [
+        "https://codemirror.net/6/"
+      ],
+      "tags": ["javascript"]
+    },
+    {
+      "name": "Announcing Reach UI",
+      "links": [
+        "https://twitter.com/ryanflorence/status/1034475836596875264?s=12",
+        "https://ui.reach.tech/"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Introducing the New AWS Amplify CLI Toolchain",
+      "links": [
+        "https://hackernoon.com/introducing-the-new-aws-amplify-cli-toolchain-238157905c00"
+      ],
+      "tags": ["aws"]
+    },
+    {
+      "name": "Atom 1.30",
+      "links": [
+        "http://blog.atom.io/2018/08/28/atom-1-30.html"
+      ],
+      "tags": ["atom"]
+    }
+  ]
+}
