@@ -1,0 +1,126 @@
+{
+  "title": "We’re Back! (with Bagels…and Schmear)",
+  "date": {
+    "start": "2018-10-17",
+    "end": "2018-10-23"
+  },
+  "youtube": {
+    "id": "R-ORfue3c04"
+  },
+  "duration": "34:04",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "State of JS ran their yearly survey, excited for results:",
+      "links": ["https://stateofjs.com"],
+      "tags": ["javascript"]
+    },
+    {
+      "name": "`Array.prototype.sort` is now stable in Chrome 70 / v8 7.0 ",
+      "links": ["https://twitter.com/mathias/status/1036626116654637057"],
+      "tags": ["javascript", "chrome"]
+    },
+    {
+      "name": "V8 release v7.0",
+      "links": ["https://v8.dev/blog/v8-release-70"],
+      "tags": ["javascript", "v8"]
+    },
+    {
+      "name": "Edge is implementing Web Components",
+      "links": ["https://twitter.com/justinfagnani/status/1049412742124167168"],
+      "tags": ["edge", "web components"]
+    },
+    {
+      "name": "Flow: On the Roadmap: Exact Objects by Default",
+      "links": ["https://medium.com/flow-type/on-the-roadmap-exact-objects-by-default-16b72933c5cf"],
+      "tags": ["flow"]
+    },
+    {
+      "name": "Create React App 2.0",
+      "links": ["https://reactjs.org/blog/2018/10/01/create-react-app-v2.html"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Create React App Typescript support merged in:",
+      "links": ["https://twitter.com/brunolemos/status/1054069326574206976"],
+      "tags": ["react", "typescript"]
+    },
+    {
+      "name": "Web Locks API",
+      "links": ["https://wicg.github.io/web-locks/"],
+      "tags": ["mozilla", "web locks"]
+    },
+    {
+      "name": "Calls between JavaScript and WebAssembly are finally fast 🎉",
+      "links": ["https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-🎉"],
+      "tags": ["wasm"]
+    },
+    {
+      "name": "Github PR Suggestions",
+      "links": ["https://twitter.com/notdetails/status/1052276198473007104"],
+      "tags": ["github"]
+    },
+    {
+      "name": "GitHub Actions",
+      "links": ["https://github.com/features/actions"],
+      "tags": ["github"]
+    },
+    {
+      "name": "The Node.js Foundation and JS Foundation Announce an Intent to Merge (A Message from the Boards and a FAQ around the Announcement)",
+      "links": ["https://medium.com/@nodejs/the-node-js-foundation-and-js-foundation-announce-an-intent-to-merge-a-message-from-the-boards-8a2e4a5cbd2b"],
+      "tags": ["nodejs"]
+    },
+    {
+      "name": "VSCode in CodeSandbox",
+      "links": ["https://twitter.com/compuives/status/1052594462768148480"],
+      "tags": ["vscode", "codesandbox"]
+    },
+    {
+      "name": "Angular 7 Released",
+      "links": ["https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c"],
+      "tags": ["angular"]
+    },
+    {
+      "name": "styled-components v4",
+      "links": ["https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77"],
+      "tags": ["styled-components"]
+    },
+    {
+      "name": "Meteor 1.8 erases the debts of 1.7",
+      "links": ["https://blog.meteor.com/meteor-1-8-erases-the-debts-of-1-7-77af4c931fe3"],
+      "tags": ["meteor"]
+    },
+    {
+      "name": "webpack 5.0.0-alpha",
+      "links": ["https://twitter.com/thelarkinn/status/1049747367782625280"],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "Fun: Apple Fixes Bagel Emoji",
+      "links": ["https://blog.emojipedia.org/apple-fixes-bagel-emoji/"],
+      "tags": ["bagel", "schmear", "emoji", "salmon", "apple", "life-goals"]
+    },
+    {
+      "name": "React: Document class contextType",
+      "links": ["https://github.com/reactjs/reactjs.org/pull/1265"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React getDerivedStateFromError",
+      "links": ["https://github.com/facebook/react/pull/13746"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Dan: React.memo (React.pure)",
+      "links": ["https://github.com/reactjs/rfcs/pull/63"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Dan: React.lazy",
+      "links": ["https://github.com/reactjs/rfcs/pull/64"],
+      "tags": ["react"]
+    }
+  ]
+}
