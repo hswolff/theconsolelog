@@ -1,0 +1,108 @@
+{
+  "title": "Halloween Hooks",
+  "date": {
+    "start": "2018-10-24",
+    "end": "2018-10-30"
+  },
+  "youtube": {
+    "id": "4ii0yfV46Sk"
+  },
+  "duration": "26:15",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers",
+      "links": [
+        "https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/"
+      ],
+      "tags": ["browser"]
+    },
+    {
+      "name": "Node v11.0.0",
+      "links": [
+        "https://nodejs.org/en/blog/release/v11.0.0/"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Microsoft acquisition of GitHub is complete",
+      "links": [
+        "https://blog.github.com/2018-10-26-github-and-microsoft/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Safari Makes security improvements to target=“_blank”",
+      "links": [
+        "https://twitter.com/chris_dumez/status/1055308539042816002"
+      ],
+      "tags": ["safari"]
+    },
+    {
+      "name": "React v16.6.0: lazy, memo and contextType",
+      "links": [
+        "https://reactjs.org/blog/2018/10/23/react-v-16-6.html"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "React-Redux 5.1.0",
+      "links": [
+        "https://github.com/reduxjs/react-redux/releases/tag/v5.1.0"
+      ],
+      "tags": ["react", "redux"]
+    },
+    {
+      "name": "React Hooks",
+      "links": [
+        "https://reactjs.org/docs/hooks-intro.html",
+        "https://twitter.com/brian_d_vaughn/status/1055499136529625088",
+        "https://github.com/facebook/react/pull/13968",
+        "https://github.com/reactjs/rfcs/pull/68",
+        "https://codesandbox.io/s/kmm79lzm3v",
+        "https://github.com/palmerhq/the-platform",
+        "https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4",
+        "https://rehooks.com/"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "List of Mistakes in the Design of CSS",
+      "links": [
+        "https://wiki.csswg.org/ideas/mistakes"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "name": "Hooks are the new Mixin",
+      "links": [
+        "https://twitter.com/dan_abramov/status/1055535774823825408"
+      ],
+      "tags": ["react"]
+    }
+  ],
+  "overflow": [{
+      "name": "PostgreSQL 11 Released",
+      "links": [
+        "https://www.postgresql.org/about/news/1894/"
+      ],
+      "tags": ["postgresql"]
+    },
+    {
+      "name": "Atom 1.32",
+      "links": [
+        "http://blog.atom.io/2018/10/23/atom-1-32.html"
+      ],
+      "tags": ["atom"]
+    },
+    {
+      "name": "Expo for Professionals",
+      "links": [
+        "https://blog.expo.io/expo-for-professionals-218b7937fafb"
+      ],
+      "tags": ["expo"]
+    }
+  ]
+}
