@@ -1,0 +1,124 @@
+{
+  "title": "Breaking Global Updates",
+  "date": {
+    "start": "2018-10-31",
+    "end": "2018-11-06"
+  },
+  "youtube": {
+    "id": "DnHQGh1_0lE"
+  },
+  "duration": "22:53",
+  "hosts": [
+    "hswolff",
+    "MatthewGerstman"
+  ],
+  "content": [{
+      "name": "Prettier: support HTML/Vue/Angular",
+      "links": [
+        "https://github.com/prettier/prettier/pull/5259"
+      ],
+      "tags": ["prettier"]
+    },
+    {
+      "name": "Storybook 4.0",
+      "links": [
+        "https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de"
+      ],
+      "tags": ["storybook"]
+    },
+    {
+      "name": "TC39: global renaming to globalThis",
+      "links": [
+        "https://github.com/tc39/proposal-global",
+        "https://twitter.com/rauschma/status/1057708780853624832?s=12"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "A year after tweets doubled in size, brevity still rules",
+      "links": [
+        "https://www.axios.com/a-year-after-tweets-doubled-in-size--brevity-still-rules-610efb0f-7799-4874-8d65-a0f3e807b310.html"
+      ],
+      "tags": ["twitter"]
+    },
+    {
+      "name": "WebAssembly Threads ready to try in Chrome 70",
+      "links": [
+        "https://developers.google.com/web/updates/2018/10/wasm-threads"
+      ],
+      "tags": ["webassembly", "chrome"]
+    },
+    {
+      "name": "GitHub: Bookmark Notifications",
+      "links": [
+        "https://twitter.com/natfriedman/status/1058390820879982592"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Yarn: Getting Started With Plug'n'Play",
+      "links": [
+        "https://gist.github.com/arcanis/02b49752c385908479734d8027d7a6c7"
+      ],
+      "tags": ["yarn"]
+    },
+    {
+      "name": "Create React App 2.1 Out w/ TypeScript Support",
+      "links": [
+        "https://github.com/facebook/create-react-app/releases/tag/v2.1.0"
+      ],
+      "tags": ["react", "typescript"]
+    },
+    {
+      "name": "21,052 sandboxes created with React Hook",
+      "links": [
+        "https://twitter.com/codesandboxapp/status/1058020516580220930"
+      ],
+      "tags": ["codesandbox"]
+    },
+    {
+      "name": "Array destructuring for multi-value returns (in light of React hooks)",
+      "links": [
+        "https://docs.google.com/document/d/1hWb-lQW4NSG9yRpyyiAA_9Ktytd5lypLnVLhPX9vamE/edit#heading=h.e6lcalo0cl47",
+        "https://twitter.com/mathias/status/1057611461999112192"
+      ],
+      "tags": ["v8"]
+    },
+    {
+      "name": "React Native Open Source Roadmap",
+      "links": [
+        "http://facebook.github.io/react-native/blog/2018/11/01/oss-roadmap"
+      ],
+      "tags": ["react native"]
+    }
+  ],
+  "overflow": [{
+      "name": "SvelteJS: Reactive assignments",
+      "links": [
+        "https://github.com/sveltejs/rfcs/blob/reactive-assignments/text/0001-reactive-assignments.md"
+      ],
+      "tags": ["svelte"]
+    },
+    {
+      "name": "iPhones are Allergic to Helium",
+      "links": [
+        "https://ifixit.org/blog/11986/iphones-are-allergic-to-helium/"
+      ],
+      "tags": ["iphone"]
+    },
+    {
+      "name": "iOS 12.1 Emoji Changelog",
+      "links": [
+        "https://blog.emojipedia.org/ios-12-1-emoji-changelog/"
+      ],
+      "tags": ["ios"]
+    },
+    {
+      "name": "The CSS Working Group At TPAC: What’s New In CSS?",
+      "links": [
+        "https://www.smashingmagazine.com/2018/10/tpac-css-working-group-new/"
+      ],
+      "tags": ["css"]
+    }
+  ]
+}
