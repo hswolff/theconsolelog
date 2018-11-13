@@ -1,0 +1,127 @@
+{
+  "title": "The Dead Caterpillar Foundation",
+  "date": {
+    "start": "2018-11-07",
+    "end": "2018-11-13"
+  },
+  "youtube": {
+    "id": "TODO: Fill In"
+  },
+  "duration": "27:13",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "25 years ago today the first major web browser was released: Mosaic 1.0",
+      "tags": ["mosaic", "history"],
+      "links": ["https://twitter.com/MIT_CSAIL/status/1061637673536770048"]
+    },
+    {
+      "name": "Introducing the GraphQL Foundation",
+      "tags": ["graphql"],
+      "links": [
+        "https://medium.com/@leeb/introducing-the-graphql-foundation-3235d8186d6d",
+        "https://twitter.com/GraphQL/status/1059854016937549824"
+      ]
+    },
+    {
+      "name": "Introducing the Apollo GraphQL Platform",
+      "tags": ["graphql", "apollo"],
+      "links": [
+        "https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5"
+      ]
+    },
+    {
+      "name": "react-redux v6.0.0-beta.1",
+      "tags": ["react", "redux", "react-redux"],
+      "links": [
+        "https://github.com/reduxjs/react-redux/releases/tag/v6.0.0-beta.1",
+        "https://twitter.com/timdorr/status/1059926619622662148"
+      ]
+    },
+    {
+      "name": "MDN is starting to document the Stage 3 class fields proposal",
+      "tags": ["mdn"],
+      "links": ["https://twitter.com/littledan/status/1059923814858059776"]
+    },
+    {
+      "name": "Prettier 1.15: HTML, Vue, Angular and MDX Support",
+      "tags": ["prettier"],
+      "links": ["https://prettier.io/blog/2018/11/07/1.15.0.html"]
+    },
+    {
+      "name": "UglifyES Has Bugs!",
+      "tags": ["uglify", "webpack"],
+      "links": ["https://twitter.com/dan_abramov/status/1060216917493981184"]
+    },
+    {
+      "name": "Test262 Report",
+      "tags": ["tc39", "ecma", "test262"],
+      "links": ["https://bocoup.com/blog/announcing-test262-report"]
+    },
+    {
+      "name": "Goodbye Electron, Hello Desktop PWAs",
+      "tags": ["pwa", "electron"],
+      "links": [
+        "https://medium.com/@novicki_david/goodbye-electron-hello-desktop-pwas-f316b8f39882"
+      ]
+    },
+    {
+      "name": "Cloud Computing without Containers",
+      "tags": ["cloud", "containers", "lambda"],
+      "links": [
+        "https://blog.cloudflare.com/cloud-computing-without-containers/",
+        "https://mobile.twitter.com/seldo/status/1061461318765555713"
+      ]
+    },
+    {
+      "name": "The how and why on React’s usage of linked list in Fiber to walk the component’s tree",
+      "tags": ["react"],
+      "links": [
+        "https://medium.com/dailyjs/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7"
+      ]
+    },
+    {
+      "name": "A Netflix Web Performance Case Study",
+      "tags": ["performance", "netflix"],
+      "links": [
+        "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9"
+      ]
+    },
+    {
+      "name": "Matthew's Jokes",
+      "tags": ["jokes"],
+      "links": [
+        "https://www.buzzfeed.com/andrewziegler/literal-sense-of-humor-technically-true"
+      ]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Add type definitions for the proposed React Hooks API",
+      "tags": ["react"],
+      "links": ["https://github.com/DefinitelyTyped/DefinitelyTyped/pull/30057"]
+    },
+    {
+      "name": "Now 2.0",
+      "tags": ["now"],
+      "links": ["https://zeit.co/blog/now-2"]
+    },
+    {
+      "name": "Phoenix 1.4.0 released",
+      "tags": ["phoenix"],
+      "links": ["https://phoenixframework.org/blog/phoenix-1-4-0-released"]
+    },
+    {
+      "name": "Getafix: How Facebook tools learn to fix bugs automatically",
+      "tags": ["facebook"],
+      "links": [
+        "https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/"
+      ]
+    },
+    {
+      "name": "moving tslint-config-prettier to Prettier org",
+      "tags": ["typescript", "tslint", "prettier"],
+      "links": ["https://twitter.com/alexjoverm/status/1060096277252399104"]
+    }
+  ]
+}
