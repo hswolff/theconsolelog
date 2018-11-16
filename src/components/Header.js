@@ -65,6 +65,14 @@ export default () => (
         >
           Google Play
         </a>
+        <Bullet />
+        <a
+          href="https://open.spotify.com/show/2SlPOIWzAphYdO5MkFFaKu"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Spotify
+        </a>
       </Nav>
     </HeaderInner>
   </header>
