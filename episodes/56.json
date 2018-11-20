@@ -1,0 +1,108 @@
+{
+  "title": "Tinkerbell Tweets",
+  "date": {
+    "start": "2018-11-14",
+    "end": "2018-11-21"
+  },
+  "youtube": {
+    "id": "TODO: Fill In"
+  },
+  "duration": "31:49",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "HTTP/3",
+      "links": [
+        "https://daniel.haxx.se/blog/2018/11/11/http-3/",
+        "https://blog.cloudflare.com/the-road-to-quic/"
+      ],
+      "tags": ["http"]
+    },
+    {
+      "name": "Async is getting fast",
+      "links": ["https://v8.dev/blog/fast-async"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "Tink",
+      "links": [
+        "https://npm.community/t/tink-faq-a-package-unwinder-for-javascript/3191"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Announcing TypeScript 3.2 RC",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/11/15/announcing-typescript-3-2-rc/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Evan You Previews Vue.js 3.0 🔥 – Vue Mastery – Medium",
+      "links": [
+        "https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547"
+      ],
+      "tags": ["vue"]
+    },
+    {
+      "name": "React Hooks RFC Update",
+      "links": [
+        "https://www.reddit.com/r/reactjs/comments/9xs2r6/sebmarkbages_response_to_hooks_rfc_feedback/"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Markup in Rust",
+      "links": ["https://twitter.com/bodil/status/1063929911331696640"],
+      "tags": ["rust"]
+    },
+    {
+      "name": "The State of JavaScript 2018: Awards 🏆",
+      "links": ["https://2018.stateofjs.com/awards/"],
+      "tags": ["state-of-js"]
+    },
+    {
+      "name": "Github State of the Octoverse",
+      "links": [
+        "https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Why Facebook’s API starts with a for loop",
+      "links": [
+        "https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob"
+      ],
+      "tags": ["facebook", "security"]
+    },
+    {
+      "name": "Twitter is thinking about an edit button to fix typos in tweets",
+      "links": [
+        "https://thenextweb.com/twitter/2018/11/12/dorsey-says-twitter-is-thinking-about-an-edit-button-to-fix-typos-in-tweets/"
+      ],
+      "tags": ["twitter"]
+    },
+    {
+      "name": "Let’s talk about “Soft” Skills",
+      "links": ["https://twitter.com/sophiebits/status/1064655494797643776"],
+      "tags": ["soft-skills"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/chrisk5000/status/1063120885505236992",
+        "https://twitter.com/sundhaug92/status/1060172942871588865"
+      ],
+      "tags": ["matthew", "jokes", "hilarious"]
+    }
+  ],
+  "overflow": [
+    "https://webkit.org/blog/8482/web-high-level-shading-language/",
+    "https://mobile.twitter.com/brian_d_vaughn/status/1062429831583809537",
+    "https://hacks.mozilla.org/2018/11/the-power-of-web-components/",
+    "https://moritzgiessmann.de/accessibility-cheatsheet/",
+    "https://twitter.com/shubhie/status/1062580684995215360",
+    "http://https://mobile.twitter.com/ZackArgyle/status/1064312674685607936",
+    "https://dev.to/anaulin/things-nobody-told-me-about-being-a-software-engineer-3pa5"
+  ]
+}
