@@ -12,52 +12,56 @@
   "content": [
     {
       "name": "BuckleScript development plans for next half",
-      "links": "https://bucklescript.github.io/blog/2018/11/19/next-half",
+      "links": ["https://bucklescript.github.io/blog/2018/11/19/next-half"],
       "tags": ["buckescript"]
     },
     {
       "name": "Demoboard: The Simplest Editor Alive",
-      "links": "https://twitter.com/james_k_nelson/status/1065441692185124864",
+      "links": [
+        "https://twitter.com/james_k_nelson/status/1065441692185124864"
+      ],
       "tags": ["demoboard"]
     },
     {
       "name": "Overview of Jest’s architecture.",
-      "links": "https://twitter.com/fbjest/status/1064819452150276098",
+      "links": ["https://twitter.com/fbjest/status/1064819452150276098"],
       "tags": ["jest"]
     },
     {
       "name": "Context.write RFC",
-      "links": "https://github.com/reactjs/rfcs/pull/89",
+      "links": ["https://github.com/reactjs/rfcs/pull/89"],
       "tags": ["react"]
     },
     {
       "name": "Hooks RFC Merged",
-      "links": "https://twitter.com/brunolemos/status/1065336745565270023",
+      "links": ["https://twitter.com/brunolemos/status/1065336745565270023"],
       "tags": ["react"]
     },
     {
       "name": "Highlights from Chrome Dev Summit 2018",
-      "links": "https://bitsofco.de/chrome-dev-summit-2018/",
+      "links": ["https://bitsofco.de/chrome-dev-summit-2018/"],
       "tags": ["chrome"]
     },
     {
       "name": "Announcing native support for the css prop in styled-components",
-      "links": "https://medium.com/styled-components/announcing-native-support-for-the-css-prop-in-styled-components-245ca5252feb",
+      "links": [
+        "https://medium.com/styled-components/announcing-native-support-for-the-css-prop-in-styled-components-245ca5252feb"
+      ],
       "tags": ["css-in-js"]
     },
     {
       "name": "Quote from Dan",
-      "links": "https://twitter.com/dan_abramov/status/1065663012541992963",
+      "links": ["https://twitter.com/dan_abramov/status/1065663012541992963"],
       "tags": ["testing"]
     },
     {
       "name": "Cards Against Humanity Built a Cool Website",
-      "links": "https://www.99percentoffsale.com/",
+      "links": ["https://www.99percentoffsale.com/"],
       "tags": ["website"]
     },
     {
       "name": "Service Worker Jokes",
-      "links": "https://twitter.com/ZackArgyle/status/1065645040515465216",
+      "links": ["https://twitter.com/ZackArgyle/status/1065645040515465216"],
       "tags": ["matthews-jokes"]
     }
   ],
