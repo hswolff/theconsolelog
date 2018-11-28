@@ -5,12 +5,11 @@
     "end": "2018-11-28"
   },
   "youtube": {
-    "id": "TODO: Fill In"
+    "id": "PBrnaobs0kw"
   },
-  "duration": "31:49",
+  "duration": "19:52",
   "hosts": ["hswolff", "MatthewGerstman"],
-  "content": [
-    {
+  "content": [{
       "name": "BuckleScript development plans for next half",
       "links": ["https://bucklescript.github.io/blog/2018/11/19/next-half"],
       "tags": ["buckescript"]
