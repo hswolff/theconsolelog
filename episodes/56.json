@@ -9,8 +9,7 @@
   },
   "duration": "31:49",
   "hosts": ["hswolff", "MatthewGerstman"],
-  "content": [
-    {
+  "content": [{
       "name": "HTTP/3",
       "links": [
         "https://daniel.haxx.se/blog/2018/11/11/http-3/",
@@ -96,8 +95,7 @@
       "tags": ["jokes"]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "Web High Level Shading Language",
       "links": [
         "https://webkit.org/blog/8482/web-high-level-shading-language/"

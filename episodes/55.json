@@ -9,8 +9,7 @@
   },
   "duration": "27:13",
   "hosts": ["hswolff", "MatthewGerstman"],
-  "content": [
-    {
+  "content": [{
       "name": "25 years ago today the first major web browser was released: Mosaic 1.0",
       "tags": ["mosaic", "history"],
       "links": ["https://twitter.com/MIT_CSAIL/status/1061637673536770048"]
@@ -95,8 +94,7 @@
       ]
     }
   ],
-  "overflow": [
-    {
+  "overflow": [{
       "name": "Add type definitions for the proposed React Hooks API",
       "tags": ["react"],
       "links": ["https://github.com/DefinitelyTyped/DefinitelyTyped/pull/30057"]
