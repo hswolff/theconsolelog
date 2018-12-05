@@ -1,0 +1,128 @@
+{
+  "title": "Emotional Vulnerabilities",
+  "date": {
+    "start": "2018-11-29",
+    "end": "2018-12-05"
+  },
+  "youtube": {
+    "id": "azw2pDiBS4s"
+  },
+  "duration": "28:54",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "event-stream vulnerability explained",
+      "links": [
+        "https://schneid.io/blog/event-stream-vulnerability-explained/",
+        "https://github.com/dominictarr/event-stream/issues/116"
+      ],
+      "tags": ["event-stream", "npm", "exploit"]
+    },
+    {
+      "name": "React 16.x Roadmap",
+      "links": ["https://reactjs.org/blog/2018/11/27/react-16-roadmap.html"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Announcing Emotion 10!",
+      "links": [
+        "https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd"
+      ],
+      "tags": ["emotion"]
+    },
+    {
+      "name": "Announcing TypeScript 3.2",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Transpilers not so fast",
+      "links": ["https://youtu.be/L3JJ8qSIg2k"],
+      "tags": ["transpilers"]
+    },
+    {
+      "name": "Private class methods support has been merged into Babel's master branch",
+      "links": [
+        "https://www.reddit.com/r/javascript/comments/a1c53y/private_class_methods_support_has_been_merged/?st=JP2K42MF&sh=66c88f79"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "CSS History Lesson",
+      "links": ["https://twitter.com/csswizardry/status/1068154542192242688"],
+      "tags": ["css", "history"]
+    },
+    {
+      "name": "Brass Bar Debugging",
+      "links": [
+        "https://mobile.twitter.com/EleanorClarinet/status/1065405720256901120"
+      ],
+      "tags": ["twitter"]
+    },
+    {
+      "name": "Writeable files",
+      "links": [
+        "https://wicg.github.io/writable-files/",
+        "https://github.com/WICG/writable-files"
+      ],
+      "tags": ["proposal"]
+    },
+    {
+      "name": "Proposal for a pluggable type system for JavaScript",
+      "links": ["https://github.com/samuelgoto/proposal-pluggable-types"],
+      "tags": ["proposal", "types"]
+    },
+    {
+      "name": "Salary Negotiation",
+      "links": ["https://www.kalzumeus.com/2012/01/23/salary-negotiation/"],
+      "tags": ["career"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "How conditional Types work",
+      "links": [
+        "http://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Release: npm@6.5.0-next.0",
+      "links": ["https://npm.community/t/release-npm-6-5-0-next-0/3711"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Twitter PWA vs Legacy CSS Analysis",
+      "links": ["https://twitter.com/necolas/status/1058949372837122048"],
+      "tags": ["css"]
+    },
+    {
+      "name": "Call to Action: Accelerating Node.js Growth",
+      "links": [
+        "https://medium.com/@nodejs/call-to-action-accelerating-node-js-growth-e4862bee2919"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Node.js Foundation and JS Foundation Intent to Merge Update — November 2018",
+      "links": [
+        "https://medium.com/@nodejs/node-js-foundation-and-js-foundation-intent-to-merge-update-november-2018-5551a72412bc"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "ncc: Node.js Compiler Collection",
+      "links": ["https://zeit.co/blog/ncc"],
+      "tags": ["node"]
+    },
+    {
+      "name": "Spectrum is joining GitHub!",
+      "links": [
+        "https://spectrum.chat/spectrum/general/spectrum-is-joining-github~1d3eb8ee-4c99-46c0-8daf-ca35a96be6ce"
+      ],
+      "tags": ["github"]
+    }
+  ]
+}
