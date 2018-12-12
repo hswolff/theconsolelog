@@ -1,0 +1,106 @@
+{
+  "title": "Microsoft Loses Its Edge",
+  "date": {
+    "start": "2018-12-06",
+    "end": "2018-12-12"
+  },
+  "youtube": {
+    "id": "Kuz4vJUUq7I"
+  },
+  "duration": "23:45",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "npm's 2018 JavaScript Ecosystem Survey",
+      "links": ["https://www.npmjs.com/2018-javascript-ecosystem-survey"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Move 8.x into maintenance mode in January 2019",
+      "links": ["https://github.com/nodejs/Release/issues/376"],
+      "tags": ["node"]
+    },
+    {
+      "name": "Dan Abramov Started a Blog",
+      "links": [
+        "https://overreacted.io/how-does-setstate-know-what-to-do/",
+        "https://overreacted.io/my-wishlist-for-hot-reloading/",
+        "https://overreacted.io/why-do-react-elements-have-typeof-property/",
+        "https://overreacted.io/how-does-react-tell-a-class-from-a-function/"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Flutter 1.0: Google’s Portable UI Toolkit",
+      "links": [
+        "https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html"
+      ],
+      "tags": ["google"]
+    },
+    {
+      "name": "WordPress 5.0 “Bebo”",
+      "links": [
+        "https://wordpress.org/news/2018/12/bebo/",
+        "https://wordpress.org/gutenberg/",
+        "https://github.com/WordPress/gutenberg"
+      ],
+      "tags": ["wordpress"]
+    },
+    {
+      "name": "React-redux 6",
+      "links": [
+        "https://github.com/reduxjs/react-redux/releases/tag/v6.0.0",
+        "https://twitter.com/dan_abramov/status/1070124390086516736"
+      ],
+      "tags": ["react", "redux"]
+    },
+    {
+      "name": "What do you dislike about React Native?",
+      "links": [
+        "https://github.com/react-native-community/discussions-and-proposals/issues/64"
+      ],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "IntelliCode for TypeScript/JavaScript",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/"
+      ],
+      "tags": ["typescript", "vscode"]
+    },
+    {
+      "name": "Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10",
+      "links": [
+        "https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10",
+        "https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/",
+        "https://github.com/MicrosoftEdge/MSEdge",
+        "https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/"
+      ],
+      "tags": ["microsfot"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://www.businessinsider.com/dad-jokes-obama-2018-8#for-the-past-seven-years-ive-established-another-tradition-embarrassing-my-daughters-with-a-corny-copia-of-dad-jokes-about-turkeys-1"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "7.2.0 Released: Private Instance Methods",
+      "links": ["https://babeljs.io/blog/2018/12/03/7.2.0"],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Repl.it Multiplayer",
+      "links": ["https://repl.it/site/blog/multi"],
+      "tags": ["repl"]
+    },
+    {
+      "name": "Prisma Now Supports MongoDB (Preview)",
+      "links": ["https://www.prisma.io/blog/mongodb-preview-ow4wahkekaep/"],
+      "tags": ["mongodb"]
+    }
+  ]
+}
