@@ -1,0 +1,75 @@
+{
+  "title": "Goodbye 2018, We Hardly Knew Ye",
+  "date": {
+    "start": "2018-12-13",
+    "end": "2018-12-19"
+  },
+  "youtube": {
+    "id": "-ayn29FR8A4"
+  },
+  "duration": "28:44",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [{
+      "name": "Bootstrap 3.4.0",
+      "links": [
+        "https://blog.getbootstrap.com/2018/12/13/bootstrap-3-4-0/"
+      ],
+      "tags": ["bootstrap"]
+    },
+    {
+      "name": "Public and private class fields",
+      "links": [
+        "https://developers.google.com/web/updates/2018/12/class-fields"
+      ],
+      "tags": ["tc39", "chrome"]
+    },
+    {
+      "name": "Hummingbird: Building Flutter for the Web",
+      "links": [
+        "https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8"
+      ],
+      "tags": ["react native"]
+    },
+    {
+      "name": "Phoenix.LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript.",
+      "links": [
+        "https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript"
+      ],
+      "tags": ["web"]
+    },
+    {
+      "name": "React DevTools update",
+      "links": [
+        "https://twitter.com/brian_d_vaughn/status/1073359260459782145"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "CSS in JS Essay",
+      "links": [
+        "https://gist.github.com/threepointone/731b0c47e78d8350ae4e105c1a83867d"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "name": "Year in Review",
+      "links": [
+        "https://webkit.org/blog/8084/release-notes-for-safari-technology-preview-48/",
+        "https://twitter.com/isntitvacant/status/976567455890976769?s=12",
+        "https://medium.com/@leeb/introducing-the-graphql-foundation-3235d8186d6d",
+        "https://twitter.com/jashkenas/status/986678387325321216",
+        "https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/",
+        "https://babeljs.io/blog/2018/08/27/7.0.0"
+      ],
+      "tags": ["ok"]
+    },
+    {
+      "name": "Matthew at Frank Turner Concert",
+      "links": [
+        "https://www.youtube.com/watch?v=HlLkJ_YDFkU&"
+      ],
+      "tags": ["ok"]
+    }
+  ],
+  "overflow": []
+}
