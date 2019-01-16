@@ -1,0 +1,134 @@
+{
+  "title": "Happy News Year!",
+  "date": {
+    "start": "2018-12-20",
+    "end": "2019-16-19"
+  },
+  "duration": "24:10",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew is speaking in Norway!",
+      "links": ["https://reactnorway.com/"],
+      "tags": ["react", "conference", "norway"]
+    },
+    {
+      "name": "New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering",
+      "links": ["https://blog.github.com/2019-01-07-new-year-new-github/"],
+      "tags": ["github"]
+    },
+    {
+      "name": "User profile status | The GitHub Blog",
+      "links": ["https://blog.github.com/changelog/2019-01-09-set-your-status/"],
+      "tags": ["github"]
+    },
+    {
+      "name": "TypeScript Roadmap: January - June 2019 · Issue 29288 · Microsoft/TypeScript",
+      "links": ["https://github.com/Microsoft/TypeScript/issues/29288"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Ghost on the JAMstack – Future-proof Professional Publishing",
+      "links": ["https://blog.ghost.org/jamstack/"],
+      "tags": ["ghost"]
+    },
+    {
+      "name": "tc39/proposal-javascript-standard-library",
+      "links": ["https://github.com/tc39/proposal-javascript-standard-library"],
+      "tags": ["tc39", "javascript"]
+    },
+    {
+      "name": "ECMAScript modules in Node.js: the new plan",
+      "links": ["http://2ality.com/2018/12/nodejs-esm-phases.html"],
+      "tags": ["node"]
+    },
+    {
+      "name": "webpack 5 alpha feedback · Issue 8537 · webpack/webpack",
+      "links": ["https://github.com/webpack/webpack/issues/8537"],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "Rollup on Twitter: It's done: Rollup 1.0.0 is out NOW 🎉🎇 This is our slightly belated Christmas present to you all! This has been nearly one year in the making, ever since our work on code-splitting started in January (cont.)",
+      "links": ["https://twitter.com/rollupjs/status/1078762367532654592"],
+      "tags": ["rollup"]
+    },
+    {
+      "name": "swc-project/swc: Super-fast alternative for babel written in rust",
+      "links": ["https://github.com/swc-project/swc"],
+      "tags": ["babel", "rust"]
+    },
+    {
+      "name": "State of Demographics for Call for Speakers",
+      "links": [
+        "https://2019.jsconf.eu/news/the-state-of-demographics-for-call-for-speakers-in-tech-in-2019/"
+      ],
+      "tags": ["jsconfeu", "conference"]
+    },
+    {
+      "name": "Dan Abramov on Twitter: Heads up: react@16.8.0-alpha.0 and react-dom@16.8.0-alpha.0 are out — for people who ,want the latest build with Hooks enabled. (🚧The warnings about using alphas apply.) We’re back from vacations and are focused on getting Hooks into a stable release as our biggest priority.",
+      "links": ["https://twitter.com/dan_abramov/status/1083139151720001543"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Sophie Alpert on Twitter: Today's my last day at Facebook. I'm gonna miss working on React full time, but I'm ,excited to try something smaller and new: I'm joining @humuinc next week as an engineer.",
+      "links": ["https://twitter.com/sophiebits/status/1083871975355834368"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://www.reddit.com/r/programmingpuns/comments/1al8g2/why_did_the_programmer_quit_his_job/",
+        "https://twitter.com/setemiojo/status/1084621758014124038",
+        "https://twitter.com/Mr_DrinksOnMe/status/1084078793919209479"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+
+  "overflow": [
+    {
+      "name": "Storybook 4.1: Need for Speed – Storybook – Medium",
+      "links": ["https://medium.com/storybookjs/storybook-4-1-need-for-speed-b05fd5f1e83d"],
+      "tags": ["storybook"]
+    },
+    {
+      "name": "AVA 1.0 🚀 – 🦄 Sindre Sorhus’ blog",
+      "links": ["https://blog.sindresorhus.com/ava-1-0-861d780b2d81"],
+      "tags": ["ava"]
+    },
+    {
+      "name": "Announcing Gluegun 2.0 — A delightful way to build command line apps in Node",
+      "links": [
+        "https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d"
+      ],
+      "tags": ["gluegun"]
+    },
+    {
+      "name": "Electron 4.0.0 | Electron Blog",
+      "links": ["https://electronjs.org/blog/electron-4-0"],
+      "tags": ["electron"]
+    },
+    {
+      "name": "An update on Python's governance",
+      "links": ["https://snarky.ca/an-update-on-pythons-governance/"],
+      "tags": ["python"]
+    },
+    {
+      "name": "emotion vs @emotion/core vs styled-components vs glamor | npm trends",
+      "links": [
+        "https://www.npmtrends.com/emotion-vs-@emotion/core-vs-styled-components-vs-glamor"
+      ],
+      "tags": ["css", "css-in-js"]
+    },
+    {
+      "name": "Allow useReducer to bail out of rendering by returning previous state by acdlite · Pull Request #14569 · ,facebook/react",
+      "links": ["https://github.com/facebook/react/pull/14569"],
+      "tags": ["react", "hooks"]
+    },
+    {
+      "name": "FBT · An internationalization framework",
+      "links": ["https://facebookincubator.github.io/fbt/"],
+      "tags": ["i18n"]
+    }
+  ]
+}

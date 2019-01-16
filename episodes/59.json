@@ -56,9 +56,7 @@
     },
     {
       "name": "What do you dislike about React Native?",
-      "links": [
-        "https://github.com/react-native-community/discussions-and-proposals/issues/64"
-      ],
+      "links": ["https://github.com/react-native-community/discussions-and-proposals/issues/64"],
       "tags": ["react", "react-native"]
     },
     {
@@ -76,7 +74,7 @@
         "https://github.com/MicrosoftEdge/MSEdge",
         "https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/"
       ],
-      "tags": ["microsfot"]
+      "tags": ["microsoft"]
     },
     {
       "name": "Matthew’s Jokes",
