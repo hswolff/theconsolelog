@@ -2,7 +2,7 @@
   "title": "Happy News Year!",
   "date": {
     "start": "2018-12-20",
-    "end": "2019-16-19"
+    "end": "2019-01-16"
   },
   "duration": "24:10",
   "hosts": ["hswolff", "MatthewGerstman"],
@@ -19,7 +19,9 @@
     },
     {
       "name": "User profile status | The GitHub Blog",
-      "links": ["https://blog.github.com/changelog/2019-01-09-set-your-status/"],
+      "links": [
+        "https://blog.github.com/changelog/2019-01-09-set-your-status/"
+      ],
       "tags": ["github"]
     },
     {
@@ -88,7 +90,9 @@
   "overflow": [
     {
       "name": "Storybook 4.1: Need for Speed – Storybook – Medium",
-      "links": ["https://medium.com/storybookjs/storybook-4-1-need-for-speed-b05fd5f1e83d"],
+      "links": [
+        "https://medium.com/storybookjs/storybook-4-1-need-for-speed-b05fd5f1e83d"
+      ],
       "tags": ["storybook"]
     },
     {
