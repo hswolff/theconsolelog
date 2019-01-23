@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import Typed from 'typed.js';
 import styled from 'react-emotion';
-import { layout } from '../utils/constants';
+import {layout} from '../utils/constants';
 
 export default () => (
   <Container>
@@ -11,6 +11,8 @@ export default () => (
           ' is a weekly podcast about JavaScript and the web.' +
           '\n\n' +
           'New Episodes every Wednesday.' +
+          '\n\n' +
+          'Hosted by <a href="https://twitter.com/hswolff">@hswolff</a> and <a href="https://twitter.com/MatthewGerstman">@MatthewGerstman</a>' +
           '\n\n' +
           'Follow on <a href="https://twitter.com/_theconsolelog">Twitter.</a> <i />',
       ]}
@@ -47,6 +49,6 @@ class TypedText extends Component {
   }
 
   render() {
-    return <span css={{ whiteSpace: 'pre-wrap' }} ref={r => (this.el = r)} />;
+    return <span css={{whiteSpace: 'pre-wrap'}} ref={r => (this.el = r)} />;
   }
 }
