@@ -1,0 +1,111 @@
+{
+  "title": "A Sick Episode",
+  "date": {
+    "start": "2019-01-17",
+    "end": "2019-01-23"
+  },
+  "duration": "24:16",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew has a blog!",
+      "links": ["https://www.matthewgerstman.com"],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "Updates to PR Needs Review Icon",
+      "links": ["https://twitter.com/natfriedman/status/1084888939112980480"],
+      "tags": ["github"]
+    },
+    {
+      "name": "Let's talk about open source sustainability",
+      "links": [
+        "https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "tink: State of the Unwinder",
+      "links": [
+        "https://npm.community/t/tink-state-of-the-unwinder-2019-01-15/4676"
+      ],
+      "tags": ["npm", "tink"]
+    },
+    {
+      "name": "Intent to Implement: HTML Modules",
+      "links": [
+        "https://groups.google.com/a/chromium.org/forum/m/#!msg/blink-dev/ewfRSdqcOd8/w_Fr6rJ3DQAJ"
+      ],
+      "tags": ["html-modules"]
+    },
+    {
+      "name": "The future of TypeScript on ESLint",
+      "links": ["https://eslint.org/blog/2019/01/future-typescript-eslint"],
+      "tags": ["typescript", "eslint"]
+    },
+    {
+      "name": "RFC Migrate Jest to TypeScript",
+      "links": ["https://github.com/facebook/jest/pull/7554"],
+      "tags": ["typescript", "jest"]
+    },
+    {
+      "name": "New Hooks Alpha Published – 16.8.0-alpha.1",
+      "links": [
+        "https://twitter.com/brian_d_vaughn/status/1085316927231164416"
+      ],
+      "tags": ["react", "hooks"]
+    },
+    {
+      "name": "DevTools support for Hooks just landed in v3.6",
+      "links": [
+        "https://twitter.com/brian_d_vaughn/status/1084944848434524160"
+      ],
+      "tags": ["react", "hooks"]
+    },
+    {
+      "name": "React Native Updates RedBox Screen",
+      "links": ["https://github.com/facebook/react-native/pull/22242"],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "React Native's new architecture - Glossary of terms",
+      "links": [
+        "http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html"
+      ],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "Upgrading Bash on macOS – ITNEXT",
+      "links": ["https://itnext.io/upgrading-bash-on-macos-7138bd1066ba"],
+      "tags": ["bash", "mac-os"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/horse_js/status/1071617103793393666",
+        "https://twitter.com/horse_js/status/1057279482447515650",
+        "https://twitter.com/horse_js/status/1047957189913141248"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Open source Fabric android",
+      "links": [
+        "https://github.com/facebook/react-native/commit/b421b5f4bd856f8a79f887c6a9197663316ffdbf"
+      ],
+      "tags": ["android"]
+    },
+    {
+      "name": "New Babel plugin babel-plugin-optimize-react for create-react-app",
+      "links": ["https://github.com/facebook/create-react-app/pull/6219"],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Prettier 1.16: HTML improvements and better CRLF handling",
+      "links": ["https://prettier.io/blog/2019/01/20/1.16.0.html"],
+      "tags": ["prettier"]
+    }
+  ]
+}
