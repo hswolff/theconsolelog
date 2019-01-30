@@ -195,7 +195,7 @@ function getYear(date) {
 
 const createDescription = node => {
   let description = `
-Episode ${node.fields.episodeNumber}
+Episode ${node.fields.episodeNumber}.
 ${formatDate(node.date.start)} - ${formatDate(node.date.end)}, ${getYear(
     node.date.end,
   )}
