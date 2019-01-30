@@ -49,7 +49,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
         </Fragment>
       )}
       <AudioPlayer
-        src={`https://s3.amazonaws.com/the-console-log-podcast/E${episodeNumber}.mp3`}
+        src={`https://chtbl.com/track/E72DG/https://s3.amazonaws.com/the-console-log-podcast/E${episodeNumber}.mp3`}
       />
       <h2>Hosts</h2>
       <div
