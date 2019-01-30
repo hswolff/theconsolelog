@@ -1,0 +1,96 @@
+{
+  "title": "What's Old Is New",
+  "date": {
+    "start": "2019-01-24",
+    "end": "2019-01-31"
+  },
+  "duration": "24:16",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew's Updates",
+      "links": [
+        "https://www.matthewgerstman.com/ts-tricks-type-guards/",
+        "https://frontendhappyhour.com",
+        "https://www.youtube.com/watch?v=m1XdasrstCc"
+      ],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "The Great Divide",
+      "links": ["https://css-tricks.com/the-great-divide/"],
+      "tags": ["javascript", "css"]
+    },
+    {
+      "name": "The Travis CI Blog: Travis CI joins the Idera family",
+      "links": ["https://blog.travis-ci.com/2019-01-23-travis-ci-joins-idera-inc"],
+      "tags": ["travis-ci"]
+    },
+    {
+      "name": "Introducing Browser Preview for @code",
+      "links": ["https://twitter.com/auchenberg/status/1087508399732883456"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Extensions: Implement Manifest V3",
+      "links": ["https://bugs.chromium.org/p/chromium/issues/detail?id=896897&desc=2#c23"],
+      "tags": ["chromium"]
+    },
+    {
+      "name": "iOS 12.2. beta comes with some big PWA updates!",
+      "links": ["https://twitter.com/mhartington/status/1089292031548145666"],
+      "tags": ["ios", "service-workers", "pwa"]
+    },
+    {
+      "name": "Node v11.7.0 - Workers exposed by default",
+      "links": ["https://nodejs.org/en/blog/release/v11.7.0/"],
+      "tags": ["node", "workers"]
+    },
+    {
+      "name": "Deep dive into React Native's Native Module and Native Component system",
+      "links": ["https://twitter.com/Eli_White/status/1087813565870796800"],
+      "tags": ["react-native", "react"]
+    },
+    {
+      "name": "React PR: Enable hooks!",
+      "links": ["https://github.com/facebook/react/pull/14679"],
+      "tags": ["react", "hooks"]
+    },
+    {
+      "name": "What the Flow team has been up to",
+      "links": ["https://medium.com/flow-type/what-the-flow-team-has-been-up-to-54239c62004f"],
+      "tags": ["flow"]
+    },
+    {
+      "name": "Jest 24: 💅 Refreshing, Polished, TypeScript-friendly",
+      "links": [
+        "https://jestjs.io/blog/2019/01/25/jest-24-refreshing-polished-typescript-friendly"
+      ],
+      "tags": ["jest", "typescript"]
+    },
+    {
+      "name": "Yarn's Future - v2 and beyond",
+      "links": ["https://github.com/yarnpkg/yarn/issues/6953"],
+      "tags": ["yarn"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "7.3.0 Released: Named capturing groups, private instance accessors and smart pipelines",
+      "links": ["https://babeljs.io/blog/2019/01/21/7.3.0"],
+      "tags": ["babel"]
+    },
+    {
+      "name": "What's New In DevTools (Chrome 73)",
+      "links": ["https://developers.google.com/web/updates/2019/01/devtools"],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Announcing TypeScript 3.3 RC",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2019/01/23/announcing-typescript-3-3-rc/"
+      ],
+      "tags": ["typescript"]
+    }
+  ]
+}
