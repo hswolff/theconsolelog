@@ -179,7 +179,8 @@ module.exports = {
   ],
 };
 
-const podcastUrlBase = 'https://s3.amazonaws.com/the-console-log-podcast';
+const podcastUrlBase =
+  'https://chtbl.com/track/E72DG/https://s3.amazonaws.com/the-console-log-podcast';
 const createPodcastUrl = input => {
   const episodeNumber = String(input).length === 1 ? `0${input}` : input;
   return `${podcastUrlBase}/E${episodeNumber}.mp3`;
@@ -195,7 +196,7 @@ function getYear(date) {
 
 const createDescription = node => {
   let description = `
-Episode ${node.fields.episodeNumber}
+Episode ${node.fields.episodeNumber}.
 ${formatDate(node.date.start)} - ${formatDate(node.date.end)}, ${getYear(
     node.date.end
   )}
