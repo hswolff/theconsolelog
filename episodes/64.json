@@ -1,0 +1,109 @@
+{
+  "title": "Triple the Hosts, Triple the Fun ",
+  "date": {
+    "start": "2019-01-31",
+    "end": "2019-02-06"
+  },
+  "duration": "FILL IN",
+  "hosts": ["hswolff", "MatthewGerstman", "jetpacmonkey"],
+  "content": [
+    {
+      "name": "Matthew's Updates",
+      "links": [
+        "https://www.matthewgerstman.com/ts-tricks-type-guards/",
+        "https://frontendhappyhour.com",
+        "https://www.youtube.com/watch?v=m1XdasrstCc"
+      ],
+      "tags": ["matthew"]
+    },
+
+    {
+      "name": "New in Chrome 72",
+      "links": ["https://developers.google.com/web/updates/2019/01/nic72"],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Microsoft decides Internet Explorer 10 has had its fun: Termination set for January 2020",
+      "links": [
+        "https://www.theregister.co.uk/2019/01/29/microsoft_internet_explorer_10/"
+      ],
+      "tags": ["ie", "microsoft"]
+    },
+    {
+      "name": "Can’t Unsee",
+      "links": ["https://cantunsee.space/"],
+      "tags": ["fun", "design"]
+    },
+    {
+      "name": "#immer 2.0.0: Support for async producers",
+      "links": ["https://twitter.com/mweststrate/status/1091793985897721856"],
+      "tags": ["immer"]
+    },
+    {
+      "name": "Announcing TypeScript 3.3",
+      "links": [
+        "https://blogs.msdn.microsoft.com/typescript/2019/01/31/announcing-typescript-3-3/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "React as a UI Runtime",
+      "links": ["https://overreacted.io/react-as-a-ui-runtime/"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React-Redux Roadmap: v6, Context, Subscriptions, and Hooks",
+      "links": ["https://github.com/reduxjs/react-redux/issues/1177"],
+      "tags": ["react", "redux", "react-redux"]
+    },
+    {
+      "name": "React Hook for accessing state and dispatch from a Redux store",
+      "links": ["https://github.com/facebookincubator/redux-react-hook"],
+      "tags": ["react", "redux", "hooks"]
+    },
+    {
+      "name": "Many big React Native internal projects are underway! Fabric, TurboModules, Codegen, JSI",
+      "links": ["https://twitter.com/vjeux/status/1091844963929939970"],
+      "tags": ["react-native"]
+    },
+    {
+      "name": "NPM Uninstall Facebook",
+      "links": ["https://npm-uninstall-facebook.com/"],
+      "tags": ["facebook"]
+    },
+    {
+      "name": "'Fork me on GitHub' SVG ribbons",
+      "links": ["https://tqdev.com/2019-fork-me-on-github-svg-ribbons"],
+      "tags": ["github"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "React DOM Partial Hydration by sebmarkbage",
+      "links": ["https://github.com/facebook/react/pull/14717"],
+      "tags": ["react-dom"]
+    },
+    {
+      "name": "New JavaScript features in ES2019",
+      "links": ["https://twitter.com/mathias/status/1090380500739506176"],
+      "tags": ["javascript", "es2019"]
+    },
+    {
+      "name": "Relay v2.0.0",
+      "links": ["https://github.com/facebook/relay/releases/tag/v2.0.0"],
+      "tags": ["relay"]
+    },
+    {
+      "name": "The Importance of One-on-Ones",
+      "links": ["https://css-tricks.com/the-importance-of-one-on-ones/"],
+      "tags": ["one-on-ones", "career-advice"]
+    },
+    {
+      "name": "Google Play Store now open for Progressive Web Apps 😱",
+      "links": [
+        "https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc"
+      ],
+      "tags": ["pwa"]
+    }
+  ]
+}
