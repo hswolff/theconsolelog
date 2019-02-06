@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import hswolff from './hswolff.jpg';
 import MatthewGerstman from './MatthewGerstman.jpg';
+import jetpacmonkey from './jetpacmonkey.jpg';
 
 const hosts = {
   hswolff,
   MatthewGerstman,
+  jetpacmonkey,
 };
 
 export default class Host extends Component {

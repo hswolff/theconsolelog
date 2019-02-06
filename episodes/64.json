@@ -4,7 +4,7 @@
     "start": "2019-01-31",
     "end": "2019-02-06"
   },
-  "duration": "FILL IN",
+  "duration": "21:10",
   "hosts": ["hswolff", "MatthewGerstman", "jetpacmonkey"],
   "content": [
     {
@@ -16,7 +16,11 @@
       ],
       "tags": ["matthew"]
     },
-
+    {
+      "name": "Harry's Video: Preview of the Javascript Ecosystem in 2019",
+      "links": ["https://www.youtube.com/watch?v=et_1NoEvVww"],
+      "tags": ["harry", "hswolff"]
+    },
     {
       "name": "New in Chrome 72",
       "links": ["https://developers.google.com/web/updates/2019/01/nic72"],
