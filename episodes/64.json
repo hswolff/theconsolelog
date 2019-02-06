@@ -39,7 +39,7 @@
       "tags": ["fun", "design"]
     },
     {
-      "name": "#immer 2.0.0: Support for async producers",
+      "name": "immer 2.0.0: Support for async producers",
       "links": ["https://twitter.com/mweststrate/status/1091793985897721856"],
       "tags": ["immer"]
     },
@@ -76,7 +76,7 @@
       "tags": ["facebook"]
     },
     {
-      "name": "'Fork me on GitHub' SVG ribbons",
+      "name": "Fork me on GitHub: SVG ribbons",
       "links": ["https://tqdev.com/2019-fork-me-on-github-svg-ribbons"],
       "tags": ["github"]
     }
