@@ -8,6 +8,14 @@
   "hosts": ["hswolff", "MatthewGerstman"],
   "content": [
     {
+      "name": "Matthew blogs about Broadway",
+      "links": [
+        "http://matthewgerstman.com/to-kill-a-mockingbird/",
+        "http://matthewgerstman.com/superhero/"
+      ],
+      "tags": ["matthew", "broadway", "theater"]
+    },
+    {
       "name": "React v16.8: The One With Hooks – React Blog",
       "links": ["https://reactjs.org/blog/2019/02/06/react-v16.8.0.html"],
       "tags": ["react", "hooks"]
@@ -78,6 +86,13 @@
         "https://libertycruise.nyc/packages/every-pizza-the-teenage-mutant-ninja-turtles-ordered"
       ],
       "tags": ["pizza"]
+    },
+    {
+      "name": "Matthew's Jokes",
+      "links": [
+        "https://thoughtcatalog.com/juliet-lanka/2018/03/60-corny-music-puns-that-are-completely-hilarious/"
+      ],
+      "tags": ["matthews-jokes"]
     }
   ],
   "overflow": [
