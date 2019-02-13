@@ -1,0 +1,107 @@
+{
+  "title": "The One Where We Almost Lost The Recording",
+  "date": {
+    "start": "2019-02-07",
+    "end": "2019-02-13"
+  },
+  "duration": "25:13",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "React v16.8: The One With Hooks – React Blog",
+      "links": ["https://reactjs.org/blog/2019/02/06/react-v16.8.0.html"],
+      "tags": ["react", "hooks"]
+    },
+    {
+      "name": "Landed Hooks in React Native at Facebook. Will be part of the 0.59 release.",
+      "links": [
+        "https://mobile.twitter.com/reactnative/status/1093889810006200326"
+      ],
+      "tags": ["react", "hooks", "react-native"]
+    },
+    {
+      "name": "Is React Translated Yet?",
+      "links": ["https://www.isreacttranslatedyet.com/"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Ember.js: The Documentary",
+      "links": ["https://www.youtube.com/watch?v=Cvz-9ccflKQ&"],
+      "tags": ["ember"]
+    },
+    {
+      "name": "A more responsive Flow",
+      "links": [
+        "https://medium.com/flow-type/a-more-responsive-flow-1a8cb01aec11"
+      ],
+      "tags": ["flow"]
+    },
+    {
+      "name": "230 New Emojis in Final List for 2019",
+      "links": [
+        "https://blog.emojipedia.org/230-new-emojis-in-final-list-for-2019/"
+      ],
+      "tags": ["emoji", "unicode"]
+    },
+    {
+      "name": "V8 release v7.3",
+      "links": ["https://v8.dev/blog/v8-release-73"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "Notion",
+      "links": ["https://www.notionjs.com/"],
+      "tags": ["notion"]
+    },
+    {
+      "name": "Lightning-fast templates & Web Components: lit-html & LitElement",
+      "links": [
+        "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"
+      ],
+      "tags": ["web-components"]
+    },
+    {
+      "name": "The Do Not Track Setting Doesn't Stop You from Being Tracked",
+      "links": ["https://spreadprivacy.com/do-not-track/"],
+      "tags": ["privacy"]
+    },
+    {
+      "name": "Apple removing 'Do Not Track' from Safari as focus shifts to Intelligent Tracking Prevention",
+      "links": [
+        "https://9to5mac.com/2019/02/06/safari-drops-support-for-do-not-track/"
+      ],
+      "tags": ["privacy"]
+    },
+    {
+      "name": "Every Pizza The Teenage Mutant Ninja Turtles Ordered",
+      "links": [
+        "https://libertycruise.nyc/packages/every-pizza-the-teenage-mutant-ninja-turtles-ordered"
+      ],
+      "tags": ["pizza"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "react-native-community/react-native-hooks: React Native APIs turned into React Hooks for use in functional React components",
+      "links": ["https://github.com/react-native-community/react-native-hooks"],
+      "tags": ["react-native"]
+    },
+    {
+      "name": "Mercury Goes Open Source",
+      "links": ["https://postlight.com/trackchanges/mercury-goes-open-source"],
+      "tags": ["mercury"]
+    },
+    {
+      "name": "iOS 12.2 will remove access to mobile device sensors for Web apps — orientation, etc.",
+      "links": ["https://twitter.com/robhawkes/status/1092783322655277056"],
+      "tags": ["ios"]
+    },
+    {
+      "name": "Best Package Manager Reddit Thread",
+      "links": [
+        "https://www.reddit.com/r/npm/comments/aounfi/best_package_manager/eg4r6oo/"
+      ],
+      "tags": ["package-manager"]
+    }
+  ]
+}
