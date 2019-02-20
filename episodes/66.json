@@ -4,7 +4,7 @@
     "start": "2019-02-14",
     "end": "2019-02-20"
   },
-  "duration": "25:13",
+  "duration": "25:08",
   "hosts": ["hswolff", "MatthewGerstman"],
   "content": [
     {
@@ -40,7 +40,7 @@
         "https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/qYeQFqgFOyA/rXJapjMaEAAJ",
         "https://twitter.com/robpalmer2/status/1095443613658550278"
       ],
-      "tags": ["chromium"]
+      "tags": ["blink", "chrome"]
     },
     {
       "name": "Constructable Stylesheets: seamless reusable styles",
@@ -59,6 +59,7 @@
     {
       "name": "Announcing the State of CSS 2019 Survey",
       "links": [
+        "https://stateofcss.com/?source=theconsolelog",
         "https://medium.freecodecamp.org/announcing-the-state-of-css-2019-survey-e1e4268df64d"
       ],
       "tags": ["css", "state-of-css"]
