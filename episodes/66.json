@@ -1,0 +1,89 @@
+{
+  "title": "IE Is Not A Browser",
+  "date": {
+    "start": "2019-02-14",
+    "end": "2019-02-20"
+  },
+  "duration": "25:08",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Everything I Wish I Knew Before My First Internship",
+      "links": [
+        "https://www.matthewgerstman.com/everything-i-wish-i-knew-before-my-first-bay-area-internship/"
+      ],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "Bootstrap 5 will remove jQuery as a dependency",
+      "links": [
+        "https://github.com/twbs/bootstrap/pull/23586",
+        "https://news.ycombinator.com/item?id=19147466"
+      ],
+      "tags": ["bootstrap"]
+    },
+    {
+      "name": "Microsoft security chief: IE is not a browser, so stop using it as your default",
+      "links": [
+        "https://www.zdnet.com/article/microsoft-security-chief-ie-is-not-a-browser-so-stop-using-it-as-your-default/"
+      ],
+      "tags": ["microsoft", "ie"]
+    },
+    {
+      "name": "Funding ESLint's Future",
+      "links": ["https://eslint.org/blog/2019/02/funding-eslint-future"],
+      "tags": ["eslint"]
+    },
+    {
+      "name": "Blink: Intent to Implement: Import maps, basic support",
+      "links": [
+        "https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/qYeQFqgFOyA/rXJapjMaEAAJ",
+        "https://twitter.com/robpalmer2/status/1095443613658550278"
+      ],
+      "tags": ["blink", "chrome"]
+    },
+    {
+      "name": "Constructable Stylesheets: seamless reusable styles",
+      "links": [
+        "https://developers.google.com/web/updates/2019/02/constructable-stylesheets"
+      ],
+      "tags": ["css", "stylesheets"]
+    },
+    {
+      "name": "Announcing Linaria 1.0",
+      "links": [
+        "https://blog.callstack.io/announcing-linaria-1-0-d5c7756ff511"
+      ],
+      "tags": ["linaria"]
+    },
+    {
+      "name": "Announcing the State of CSS 2019 Survey",
+      "links": [
+        "https://stateofcss.com/?source=theconsolelog",
+        "https://medium.freecodecamp.org/announcing-the-state-of-css-2019-survey-e1e4268df64d"
+      ],
+      "tags": ["css", "state-of-css"]
+    },
+    {
+      "name": "GitHub now has a Delete fork button in merged PRs",
+      "links": ["https://twitter.com/sindresorhus/status/1096308127618592769"],
+      "tags": ["github"]
+    },
+    {
+      "name": "React Hooks: useEffect/useCallback/useMemo dependency rule",
+      "links": ["https://github.com/facebook/react/pull/14636"],
+      "tags": []
+    },
+    {
+      "name": "React Rally Dates Announced",
+      "links": ["https://twitter.com/ReactRally/status/1086068660400152576"],
+      "tags": []
+    },
+    {
+      "name": "Matthew's Jokes",
+      "links": ["https://imgur.com/a/TlsePPs"],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": []
+}
