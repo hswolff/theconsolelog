@@ -1,0 +1,196 @@
+{
+  "title": "",
+  "date": {
+    "start": "2019-02-21",
+    "end": "2019-03-06"
+  },
+  "duration": "25:08",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew's Blog Posts",
+      "links": [
+        "https://www.matthewgerstman.com/throttle-and-debounce/",
+        "https://www.matthewgerstman.com/map-filter-reduce/"
+      ],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "Harry’s typescript video",
+      "links": ["https://www.youtube.com/watch?v=sVYlv78IY8o"],
+      "tags": ["harry"]
+    },
+    {
+      "name": "Highlights from Git 2.21",
+      "links": ["https://github.blog/2019-02-24-highlights-from-git-2-21/"],
+      "tags": ["git"]
+    },
+    {
+      "name": "GitHub - Request Re-reviews",
+      "links": ["https://twitter.com/github/status/1098688981598842880"],
+      "tags": ["github"]
+    },
+    {
+      "name": "Backbone 1.4.0 is out",
+      "links": ["https://twitter.com/jashkenas/status/1097929487423922176"],
+      "tags": ["backbone"]
+    },
+    {
+      "name": "Vue.js Class API proposal",
+      "links": ["https://github.com/vuejs/rfcs/pull/17"],
+      "tags": ["vue-js"]
+    },
+    {
+      "name": "TSLint in 2019 – Palantir Blog – Medium",
+      "links": ["https://medium.com/palantir/tslint-in-2019-1a144c2317a9"],
+      "tags": ["tslint"]
+    },
+    {
+      "name": "RFC: createElement changes and surrounding deprecations",
+      "links": ["https://github.com/reactjs/rfcs/pull/107"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Announcing Apollo Client 2.5",
+      "links": [
+        "https://blog.apollographql.com/announcing-apollo-client-2-5-c12230cabbb7"
+      ],
+      "tags": ["apollo"]
+    },
+    {
+      "name": "React Native Open Source Update March 2019",
+      "links": [
+        "https://facebook.github.io/react-native/blog/2019/03/01/react-native-open-source-update"
+      ],
+      "tags": ["react-native", "react"]
+    },
+    {
+      "name": "Reduce the number of ticks in async/await",
+      "links": ["https://github.com/tc39/ecma262/pull/1250"],
+      "tags": ["async-await", "tc39"]
+    },
+    {
+      "name": "Exploring a back/forward cache for Chrome",
+      "links": [
+        "https://developers.google.com/web/updates/2019/02/back-forward-cache"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "pikapkg",
+      "links": ["https://github.com/pikapkg/web/blob/master/README.md"],
+      "tags": ["pikachu", "packaging"]
+    },
+    {
+      "name": "Best .dev Domains",
+      "links": [
+        "http://w3schools.dev",
+        "http://emacs.dev",
+        "http://kenwheeler.dev",
+        "http://slytherin.dev"
+      ],
+      "tags": [".dev"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/HackerNewsOnion/status/1051889140202115073",
+        "https://twitter.com/HackerNewsOnion/status/981609242221318145",
+        "https://twitter.com/HackerNewsOnion/status/918546894359539712"
+      ],
+      "tags": ["matthew", "matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Ember 3.8 Released",
+      "links": [
+        "https://www.emberjs.com/blog/2019/02/27/ember-3-8-released.html"
+      ],
+      "tags": ["ember"]
+    },
+    {
+      "name": "React RFC: Focus Management API",
+      "links": ["https://github.com/reactjs/rfcs/pull/109"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Announcing a New Management Structure for Ecma TC39",
+      "links": [
+        "https://hacks.mozilla.org/2019/02/announcing-a-new-management-structure-for-ecma-tc39/"
+      ],
+      "tags": []
+    },
+    {
+      "name": "What's the longest keyword sequence in Javascript?",
+      "links": [
+        "https://gist.github.com/lhorie/c0d9fd9b2aa215f4984f3ce1c8fd01bf"
+      ],
+      "tags": ["wat"]
+    },
+    {
+      "name": "Google wants to make it harder to detect that you're Incognito",
+      "links": [
+        "https://9to5google.com/2019/02/15/google-chrome-detect-incognito/"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Trust is Good, Observation is Better—Intersection Observer v2",
+      "links": [
+        "https://developers.google.com/web/updates/2019/02/intersectionobserver-v2"
+      ],
+      "tags": ["intersection-observer"]
+    },
+    {
+      "name": "React Release v16.8.3",
+      "links": ["https://github.com/facebook/react/releases/tag/v16.8.3"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Release v7.0.0 · h5bp/html5-boilerplate",
+      "links": [
+        "https://github.com/h5bp/html5-boilerplate/releases/tag/v7.0.0"
+      ],
+      "tags": ["h5bp"]
+    },
+    {
+      "name": "Private class fields shipped in Chrome 74",
+      "links": ["https://twitter.com/_gsathya/status/1100845457876541442"],
+      "tags": ["chrome", "private-classes"]
+    },
+    {
+      "name": "You can now use Expo APIs in any React Native app",
+      "links": [
+        "https://blog.expo.io/you-can-now-use-expo-apis-in-any-react-native-app-7c3a93041331"
+      ],
+      "tags": ["react-native", "expo"]
+    },
+    {
+      "name": "React Spike: Rewrite the MDN page header",
+      "links": ["https://github.com/mdn/sprints/issues/967"],
+      "tags": ["mdn", "react"]
+    },
+    {
+      "name": "React Native: improve upgrade to use rn-diff-purge",
+      "links": [
+        "https://github.com/react-native-community/react-native-cli/pull/176"
+      ],
+      "tags": ["react-native"]
+    },
+    {
+      "name": "Announcing the Ionic React Beta",
+      "links": [
+        "https://blog.ionicframework.com/announcing-the-ionic-react-beta/"
+      ],
+      "tags": ["ionic", "react"]
+    },
+    {
+      "name": "Follow-up on React Native Feedback",
+      "links": [
+        "https://github.com/react-native-community/discussions-and-proposals/issues/104"
+      ],
+      "tags": ["react", "react-native"]
+    }
+  ]
+}
