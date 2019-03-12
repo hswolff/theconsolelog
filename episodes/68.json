@@ -1,0 +1,82 @@
+{
+  "title": "Our Most Styleish Episode",
+  "date": {
+    "start": "2019-03-07",
+    "end": "2019-03-13"
+  },
+  "duration": "37:13",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "title": "CSS Reference selectors",
+      "links": [
+        "https://github.com/w3c/csswg-drafts/issues/3714",
+        "https://gist.github.com/threepointone/61e990b450712cfd7dd0bb87ed0c2982"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "title": "CSS Nesting is now Stage 1",
+      "links": ["https://twitter.com/jon_neal/status/1103792222342991872"],
+      "tags": ["css"]
+    },
+    {
+      "title": "Preact X Alpha 0 is here",
+      "links": [
+        "https://github.com/developit/preact/releases/tag/10.0.0-alpha.0",
+        "https://github.com/developit/preact/pull/1302"
+      ],
+      "tags": ["preact"]
+    },
+    {
+      "title": "Jest has completed its migration to TypeScript",
+      "links": [
+        "https://twitter.com/sbekkhus/status/1102949661411815424",
+        "https://twitter.com/sbekkhus/status/1102949661411815424)"
+      ],
+      "tags": ["jest", "typescript"]
+    },
+    {
+      "title": "TypeScript PR: Higher order function type inference",
+      "links": ["https://github.com/Microsoft/TypeScript/pull/30215"],
+      "tags": ["typescript"]
+    },
+    {
+      "title": "Storybook 5.0",
+      "links": [
+        "https://twitter.com/shahar_taite/status/1103799424357203968",
+        "https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8"
+      ],
+      "tags": ["storybook"]
+    },
+    {
+      "title": "GitHub added Spectrum Integration",
+      "links": ["https://twitter.com/hdjirdeh/status/1102994984695787520"],
+      "tags": ["github", "spectrum"]
+    },
+    {
+      "title": "eslint-plugin-react-hooks adds support for exhaustive-deps rulelinks",
+      "links": ["https://twitter.com/dan_abramov/status/1103744582074990594"],
+      "tags": ["eslint", "hooks"]
+    },
+    {
+      "title": "Dan Abramov's thoughts on function allocations vs dynamic dispatch",
+      "links": ["https://twitter.com/dan_abramov/status/1104557648165457921"],
+      "tags": ["dabramov", "react"]
+    },
+    {
+      "title": "Matthew's Jokes",
+      "links": ["https://www.buzzfeed.com/kasiagalazka/nerdy-jokes"],
+      "tags": ["matthew", "matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "title": "New schema customization API in Gatsby",
+      "links": [
+        "https://www.gatsbyjs.org/blog/2019-03-04-new-schema-customization/"
+      ],
+      "tags": ["gatsby"]
+    }
+  ]
+}
