@@ -30,10 +30,7 @@
     },
     {
       "name": "Jest has completed its migration to TypeScript",
-      "links": [
-        "https://twitter.com/sbekkhus/status/1102949661411815424",
-        "https://twitter.com/sbekkhus/status/1102949661411815424)"
-      ],
+      "links": ["https://twitter.com/sbekkhus/status/1102949661411815424"],
       "tags": ["jest", "typescript"]
     },
     {
