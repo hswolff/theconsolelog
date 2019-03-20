@@ -1,0 +1,105 @@
+{
+  "title": "The Web Is Older Than One Of Us",
+  "date": {
+    "start": "2019-03-14",
+    "end": "2019-03-20"
+  },
+  "duration": "26:59",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Sponsored: React Week CFP",
+      "links": ["https://fht.nyc/RW19CFP"],
+      "tags": ["sponsored", "react-week"]
+    },
+    {
+      "name": "Matthew's Blog Post",
+      "links": ["https://www.matthewgerstman.com/tech/reduce-reduce-reduce/"],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "Harry's Typescript Video",
+      "links": ["https://www.youtube.com/watch?v=UIXcspECBJs"],
+      "tags": ["harry"]
+    },
+    {
+      "name": "The World Wide Web turns 30: our favorite memories from A to Z - The Verge",
+      "links": [
+        "https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites"
+      ],
+      "tags": ["world-wide-web"]
+    },
+    {
+      "name": "Introducing the OpenJS Foundation: The Next Phase of JavaScript Ecosystem Growth",
+      "links": [
+        "https://medium.com/@nodejs/introducing-the-openjs-foundation-the-next-phase-of-javascript-ecosystem-growth-d4911b42664f"
+      ],
+      "tags": ["open-js"]
+    },
+    {
+      "name": "The GraphQL Foundation Announces Collaboration with the Joint Development Foundation to Drive Open Source and Open Standards - The Linux Foundation",
+      "links": [
+        "https://www.linuxfoundation.org/press-release/2019/03/the-graphql-foundation-announces-collaboration-with-the-joint-development-foundation-to-drive-open-source-and-open-standards/"
+      ],
+      "tags": ["graph-ql"]
+    },
+    {
+      "name": "One-third of the web! — WordPress",
+      "links": ["https://wordpress.org/news/2019/03/one-third-of-the-web/"],
+      "tags": ["wordpress"]
+    },
+    {
+      "name": "New in Chrome 73",
+      "links": ["https://developers.google.com/web/updates/2019/03/nic73"],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Releasing React Native 0.59 · React Native",
+      "links": [
+        "https://facebook.github.io/react-native/blog/2019/03/12/releasing-react-native-059"
+      ],
+      "tags": ["react-native"]
+    },
+    {
+      "name": "Announcing TypeScript 3.4 RC",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4-rc/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "JIT-less V8 · V8",
+      "links": ["https://v8.dev/blog/jitless"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "KV Storage: the Web's First Built-in Module",
+      "links": ["https://developers.google.com/web/updates/2019/03/kv-storage"],
+      "tags": ["chrome"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "A Complete Guide to useEffect",
+      "links": ["https://overreacted.io/a-complete-guide-to-useeffect/"],
+      "tags": ["hooks", "react"]
+    },
+    {
+      "name": "Roadmap for version 3.0 of create-react-app",
+      "links": ["https://github.com/facebook/create-react-app/issues/6475"],
+      "tags": ["react", "create-react-app"]
+    },
+    {
+      "name": "The Diff · A Podcast from Facebook Open Source",
+      "links": ["https://thediffpodcast.com/"],
+      "tags": ["podcast"]
+    },
+    {
+      "name": "Sketch raises $20m in Series A funding from Benchmark",
+      "links": [
+        "https://blog.sketchapp.com/sketch-raises-20m-in-series-a-funding-from-benchmark-ea298764d7d1"
+      ],
+      "tags": []
+    }
+  ]
+}
