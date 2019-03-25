@@ -29,7 +29,7 @@ export default function SEO({
       render={({ site: { siteMetadata } }) => {
         const title = titleProp || siteMetadata.title;
         const description = descriptionProp || siteMetadata.description;
-        const image = imageProp || logoImage;
+        const image = imageProp || `${siteMetadata.siteUrl}${logoImage}`;
         let url = siteMetadata.siteUrl;
         if (postSlug) {
           url += postSlug;
