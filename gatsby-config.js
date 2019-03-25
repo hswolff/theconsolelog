@@ -164,6 +164,7 @@ module.exports = {
                     },
                     { 'itunes:duration': node.duration || '00:00' },
                     { 'itunes:summary': createDescription(node) },
+                    { 'itunes:episode': node.fields.episodeNumber },
                   ],
                 });
               });
@@ -198,8 +199,8 @@ const createDescription = node => {
   let description = `
 Episode ${node.fields.episodeNumber}.
 ${formatDate(node.date.start)} - ${formatDate(node.date.end)}, ${getYear(
-    node.date.end
-  )}
+  node.date.end
+)}
 
 FIND ALL LINKS ON THE WEBSITE
 http://theconsolelog.com/episode/${node.fields.episodeNumber}
