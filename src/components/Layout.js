@@ -6,12 +6,12 @@ import { layout } from '../utils/constants';
 import Header from './Header';
 import Footer from './Footer';
 import AboutInfoBox from './AboutInfoBox';
+import SEO from './SEO';
 
 export default ({ children }) => (
   <Fragment>
     <Helmet
       title="The Console Log"
-      titleTemplate="%s | The Console Log"
       meta={[
         {
           name: 'description',
@@ -20,6 +20,7 @@ export default ({ children }) => (
         { name: 'keywords', content: 'podcast, show, javascript, news' },
       ]}
     />
+    <SEO />
     <Header />
     <main
       className={css({

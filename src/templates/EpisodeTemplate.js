@@ -6,11 +6,12 @@ import AudioPlayer from '../components/AudioPlayer';
 import EpisodeListItem from '../components/EpisodeListItem';
 import Host from '../components/Host';
 import Disqus from '../components/Disqus';
+import SEO from '../components/SEO';
 
 export default function EpisodeTemplate({ data: { episodesJson } }) {
   const {
     title,
-    fields: { episodeNumber },
+    fields: { episodeNumber, slug },
     hosts,
     content,
     overflow,
@@ -20,6 +21,12 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
   return (
     <Layout>
       <Helmet title={`E${episodeNumber}: ${title}`} />
+      <SEO
+        title={title}
+        description={`Epside: ${episodeNumber}`}
+        postSlug={'http://theconsolelog.com' + slug}
+        isBlogPost
+      />
       <EpisodeListItem {...episodesJson} linked={false} />
       {youtube && (
         <Fragment>
@@ -96,6 +103,7 @@ export const pageQuery = graphql`
       title
       fields {
         episodeNumber
+        slug
       }
       youtube {
         id
