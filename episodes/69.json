@@ -8,9 +8,11 @@
   "hosts": ["hswolff", "MatthewGerstman"],
   "content": [
     {
-      "name": "Sponsored: React Week CFP",
-      "links": ["https://fht.nyc/RW19CFP"],
-      "tags": ["sponsored", "react-week"]
+      "name": "We apologize for promoting the ReactWeek CFP in this episode.",
+      "links": [
+        "https://twitter.com/_theconsolelog/status/1110270706732933121"
+      ],
+      "tags": [""]
     },
     {
       "name": "Matthew's Blog Post",
