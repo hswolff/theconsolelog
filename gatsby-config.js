@@ -8,6 +8,7 @@ module.exports = {
       'A weekly podcast about all the latest JavaScript and web news.',
     siteUrl: 'http://theconsolelog.com',
     iTunesLogo: 'https://theconsolelog.com/itunes-logo.jpeg',
+    keywords: 'podcast, javascript, news',
   },
   plugins: [
     'gatsby-plugin-react-next',
