@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react';
-import Helmet from 'react-helmet';
 import { css } from 'emotion';
 import { layout } from '../utils/constants';
 
@@ -10,16 +9,6 @@ import SEO from './SEO';
 
 export default ({ children }) => (
   <Fragment>
-    <Helmet
-      title="The Console Log"
-      meta={[
-        {
-          name: 'description',
-          content: 'A weekly podcast about JavaScript and the web.',
-        },
-        { name: 'keywords', content: 'podcast, show, javascript, news' },
-      ]}
-    />
     <SEO />
     <Header />
     <main

@@ -23,8 +23,8 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
       <Helmet title={`E${episodeNumber}: ${title}`} />
       <SEO
         title={title}
-        description={`Epside: ${episodeNumber}`}
-        postSlug={'http://theconsolelog.com' + slug}
+        description={`Episode: ${episodeNumber}`}
+        postSlug={slug}
         isBlogPost
       />
       <EpisodeListItem {...episodesJson} linked={false} />

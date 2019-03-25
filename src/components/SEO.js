@@ -35,7 +35,10 @@ export default function SEO({
           url += postSlug;
         }
         return (
-          <Helmet titleTemplate={`%s | ${siteMetadata.title}`}>
+          <Helmet
+            title={siteMetadata.title}
+            titleTemplate={`%s | ${siteMetadata.title}`}
+          >
             <meta charSet="utf-8" />
             <meta
               name="viewport"
