@@ -1,0 +1,120 @@
+{
+  "title": "History Lessons and New Releases",
+  "date": {
+    "start": "2019-03-21",
+    "end": "2019-03-27"
+  },
+  "duration": "32:32",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "We are no longer affiliated with ReactWeek",
+      "links": [
+        "https://twitter.com/_theconsolelog/status/1110270706732933121"
+      ],
+      "tags": ["ugh"]
+    },
+    {
+      "name": "We gave out stickers!",
+      "links": [
+        "https://twitter.com/_theconsolelog/status/1109584253485019145"
+      ],
+      "tags": ["stickers"]
+    },
+    {
+      "name": "The RedMonk Programming Language Rankings: January 2019",
+      "links": [
+        "https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19/"
+      ],
+      "tags": ["javascript", "typescript"]
+    },
+    {
+      "name": "New Node ESM Implementation",
+      "links": [
+        "https://github.com/nodejs/node/pull/26745",
+        "https://twitter.com/MylesBorins/status/1107671102417969152"
+      ],
+      "tags": ["esm", "node"]
+    },
+    {
+      "name": "Expo CLI and SDK web support beta",
+      "links": [
+        "https://blog.expo.io/expo-cli-and-sdk-web-support-beta-d0c588221375"
+      ],
+      "tags": ["expo"]
+    },
+    {
+      "name": "Ember Octane",
+      "links": ["https://twitter.com/tomdale/status/1109123288217714690"],
+      "tags": ["ember"]
+    },
+    {
+      "name": "7.4.0 Released: core-js 3, static private methods and partial application · Babel",
+      "links": ["https://babeljs.io/blog/2019/03/19/7.4.0"],
+      "tags": ["babel"]
+    },
+    {
+      "name": "react-redux v7 beta",
+      "links": ["https://github.com/reduxjs/react-redux/pull/1209"],
+      "tags": ["react", "redux", "react-redux"]
+    },
+    {
+      "name": "React Router v5",
+      "links": ["https://reacttraining.com/blog/react-router-v5/"],
+      "tags": ["react", "react-router"]
+    },
+    {
+      "name": "mobx-react@6 beta is now available",
+      "links": ["https://twitter.com/mweststrate/status/1108728328805068805"],
+      "tags": ["mobx", "react"]
+    },
+    {
+      "name": "React.warn and React.error",
+      "links": [
+        "https://twitter.com/brian_d_vaughn/status/1108788282966433792"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Technical Debt Is Like Tetris",
+      "links": [
+        "https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700"
+      ],
+      "tags": ["tech-debt", "tetris"]
+    },
+    {
+      "name": "Matthew's Jokes",
+      "links": ["http://laffgaff.com/history-puns/"],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "TypeScript: Allow JSX without using `.tsx` extension",
+      "links": ["https://github.com/Microsoft/TypeScript/issues/30503"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "The Three Tenets of Styled System",
+      "links": ["https://jxnblk.com/blog/the-three-tenets-of-styled-system/"],
+      "tags": ["styling"]
+    },
+    {
+      "name": "V8 release v7.4",
+      "links": ["https://v8.dev/blog/v8-release-74"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "MDX Blocks",
+      "links": ["https://mdx-blocks.netlify.com/"],
+      "tags": ["mdx"]
+    },
+    {
+      "name": "core-js@3, babel and a look into the future",
+      "links": [
+        "https://github.com/zloirock/core-js/blob/master/docs/2019-03-19-core-js-3-babel-and-a-look-into-the-future.md"
+      ],
+      "tags": ["babel"]
+    }
+  ]
+}
