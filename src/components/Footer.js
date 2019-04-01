@@ -1,6 +1,7 @@
 import React from 'react';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
 import { layout } from '../utils/constants';
+import css from '@emotion/css';
 
 export default () => (
   <Footer>
@@ -41,7 +42,7 @@ const Right = styled('div')``;
 
 const Bullet = () => (
   <span
-    css={`
+    css={css`
       display: inline-block;
       margin: 0 10px;
     `}

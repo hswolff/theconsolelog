@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import css from '@emotion/css';
 
 export default class AudioPlayer extends Component {
   render() {
@@ -7,7 +8,7 @@ export default class AudioPlayer extends Component {
       <audio
         controls
         src={src}
-        css={`
+        css={css`
           width: 100%;
         `}
       >

@@ -1,9 +1,10 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
 import Layout from '../components/Layout';
 import EpisodeListItem from '../components/EpisodeListItem';
+import css from '@emotion/css';
 
 export default ({ pageContext }) => {
   const { group, index, first, last, pageCount, pathPrefix } = pageContext;
@@ -32,7 +33,7 @@ const Navigation = ({
   nextUrl,
 }) => (
   <div
-    css={`
+    css={css`
       margin: 40px 0;
       display: flex;
       justify-content: space-between;
@@ -42,13 +43,13 @@ const Navigation = ({
         color: black;
     `}
   >
-    <NavButton css={{ visibility: first ? 'hidden' : 'visible ' }}>
+    <NavButton css={css({ visibility: first ? 'hidden' : 'visible ' })}>
       <NavLink test={first} url={previousUrl} text="Go to Previous Page" />
     </NavButton>
-    <div css={{ marginTop: '5px' }}>
+    <div css={css({ marginTop: '5px' })}>
       Page {index} of {pageCount}
     </div>
-    <NavButton css={{ visibility: last ? 'hidden' : 'visible ' }}>
+    <NavButton css={css({ visibility: last ? 'hidden' : 'visible ' })}>
       <NavLink test={last} url={nextUrl} text="Go to Next Page" />
     </NavButton>
   </div>

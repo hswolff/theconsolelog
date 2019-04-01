@@ -11,7 +11,6 @@ module.exports = {
     keywords: 'podcast, javascript, news',
   },
   plugins: [
-    'gatsby-plugin-react-next',
     {
       resolve: 'gatsby-plugin-typography',
       options: {

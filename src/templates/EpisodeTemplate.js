@@ -7,6 +7,7 @@ import EpisodeListItem from '../components/EpisodeListItem';
 import Host from '../components/Host';
 import Disqus from '../components/Disqus';
 import SEO from '../components/SEO';
+import css from '@emotion/css';
 
 export default function EpisodeTemplate({ data: { episodesJson } }) {
   const {
@@ -37,7 +38,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
             frameBorder={0}
             allow="autoplay; encrypted-media"
             allowFullScreen
-            css={`
+            css={css`
               @media (min-width: 1000px) {
                 width: 800px;
                 height: 450px;
@@ -60,7 +61,7 @@ export default function EpisodeTemplate({ data: { episodesJson } }) {
       />
       <h2>Hosts</h2>
       <div
-        css={`
+        css={css`
           display: flex;
           flex-direction: row;
         `}

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import hswolff from './hswolff.jpg';
 import MatthewGerstman from './MatthewGerstman.jpg';
 import jetpacmonkey from './jetpacmonkey.jpg';
+import css from '@emotion/css';
 
 const hosts = {
   hswolff,
@@ -17,7 +18,7 @@ export default class Host extends Component {
         href={`https://twitter.com/${name}`}
         target="_blank"
         rel="noopener noreferrer"
-        css={`
+        css={css`
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -32,14 +33,14 @@ export default class Host extends Component {
       >
         <img
           src={hosts[name]}
-          css={`
+          css={css`
             border-radius: 50%;
             width: 100px;
             margin: 0;
             margin-bottom: 10px;
           `}
         />
-        <p css={{ margin: 0 }}>@{name}</p>
+        <p css={css({ margin: 0 })}>@{name}</p>
       </a>
     );
   }

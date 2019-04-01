@@ -1,7 +1,8 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import Typed from 'typed.js';
-import styled from 'react-emotion';
-import {layout} from '../utils/constants';
+import styled from '@emotion/styled';
+import { layout } from '../utils/constants';
+import css from '@emotion/css';
 
 export default () => (
   <Container>
@@ -49,6 +50,8 @@ class TypedText extends Component {
   }
 
   render() {
-    return <span css={{whiteSpace: 'pre-wrap'}} ref={r => (this.el = r)} />;
+    return (
+      <span css={css({ whiteSpace: 'pre-wrap' })} ref={r => (this.el = r)} />
+    );
   }
 }

@@ -1,20 +1,21 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
+import { css } from '@emotion/core';
 import { layout } from '../utils/constants';
 import image from '../images/logo.png';
 import podcast from '../images/podcast.svg';
 
 export default () => (
   <header
-    css={`
+    css={css`
       background: #232121;
       margin-bottom: 1.45rem;
     `}
   >
     <HeaderInner>
       <LogoContainer>
-        <Link to="/" css={{ boxShadow: 'none' }}>
+        <Link to="/" css={css({ boxShadow: 'none' })}>
           <Logo src={image} title="The Console Log" />
         </Link>
         <Title>
@@ -39,7 +40,7 @@ export default () => (
           {'  '}
           <img
             src={podcast}
-            css={`
+            css={css`
               max-width: inherit;
               width: 24px;
               height: 24px;
@@ -131,7 +132,7 @@ const NavItem = styled('span')`
 
 const Bullet = () => (
   <span
-    css={`
+    css={css`
       display: inline-block;
       margin: 0 10px;
       color: #fff;
