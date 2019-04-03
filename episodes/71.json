@@ -1,10 +1,10 @@
 {
-  "title": "History Lessons and New Releases",
+  "title": "Baby Just Say Yes",
   "date": {
     "start": "2019-03-28",
     "end": "2019-04-03"
   },
-  "duration": "32:32",
+  "duration": "32:07",
   "hosts": ["hswolff", "MatthewGerstman"],
   "content": [
     {
@@ -39,12 +39,12 @@
       "links": [
         "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/"
       ],
-      "tags": []
+      "tags": ["typescript"]
     },
     {
       "name": "ReasonReact: Add support for React Hooks under a new React module namespace",
       "links": ["https://github.com/reasonml/reason-react/pull/351"],
-      "tags": []
+      "tags": ["reasonml", "react "]
     },
     {
       "name": "Intent to Implement and Ship: Support for SVG in favicons",
