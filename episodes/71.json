@@ -1,0 +1,113 @@
+{
+  "title": "History Lessons and New Releases",
+  "date": {
+    "start": "2019-03-28",
+    "end": "2019-04-03"
+  },
+  "duration": "32:32",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew’s Blog Post",
+      "links": ["https://www.matthewgerstman.com/tech/how-i-prepare-a-talk/"],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "Matthew Speaking at React Loop in Chicago",
+      "links": ["https://reactloop.com/"],
+      "tags": ["matthew", "conference"]
+    },
+    {
+      "name": "Harry’s Typescript Generics Video",
+      "links": ["https://www.youtube.com/watch?v=nePDL5lQSE4"],
+      "tags": ["harry"]
+    },
+    {
+      "name": "Taylor Swift Subtweets",
+      "links": [
+        "https://twitter.com/_theconsolelog/status/1111614965172109313"
+      ],
+      "tags": ["taylor-swift", "twitter"]
+    },
+    {
+      "name": "Npm Layoffs",
+      "links": ["https://www.theregister.co.uk/2019/04/01/npm_layoff_staff/"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Announcing TypeScript 3.4",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/"
+      ],
+      "tags": []
+    },
+    {
+      "name": "ReasonReact: Add support for React Hooks under a new React module namespace",
+      "links": ["https://github.com/reasonml/reason-react/pull/351"],
+      "tags": []
+    },
+    {
+      "name": "Intent to Implement and Ship: Support for SVG in favicons",
+      "links": [
+        "https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/IKe_SAgdNAA/NCTyawqYAwAJ",
+        "https://twitter.com/sarah_edo/status/1111457007515525121"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Twitter moving to GraphQL",
+      "links": ["https://twitter.com/floydophone/status/1110969203777896448"],
+      "tags": ["twitter", "graphql"]
+    },
+    {
+      "name": "Introducing the JetStream 2 Benchmark Suite",
+      "links": [
+        "https://webkit.org/blog/8685/introducing-the-jetstream-2-benchmark-suite/"
+      ],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "Google makes emails more dynamic with AMP for Email",
+      "links": [
+        "https://techcrunch.com/2019/03/26/google-makes-emails-more-dynamic-with-amp-for-email/",
+        "https://news.ycombinator.com/item?id=19493378"
+      ],
+      "tags": ["gmail", "amp"]
+    },
+    {
+      "name": "Standardizing WASI: A system interface to run WebAssembly outside the web",
+      "links": [
+        "https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/"
+      ],
+      "tags": ["webassembly"]
+    },
+    {
+      "name": "Announcing Lucet: Fastly’s native WebAssembly compiler and runtime",
+      "links": [
+        "https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime",
+        "https://twitter.com/roelvangils/status/1113074439976075264"
+      ],
+      "tags": ["webassembly"]
+    },
+    {
+      "name": "Listener Jokes!",
+      "links": [
+        "https://twitter.com/KRLyric/status/1113196570697187330",
+        "https://twitter.com/NikkitaFTW/status/1111310683428319234",
+        "https://twitter.com/elijahmanor/status/1111317491383451649",
+        "https://twitter.com/jkup/status/1113200986149904384",
+        "https://twitter.com/ChloeCondon/status/1111629915064074241"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Introducing Gatsby Preview Beta",
+      "links": [
+        "https://www.gatsbyjs.org/blog/2019-03-22-introducing-gatsby-preview-beta/"
+      ],
+      "tags": ["gatsby"]
+    }
+  ]
+}
