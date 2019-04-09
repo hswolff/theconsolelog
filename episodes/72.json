@@ -1,0 +1,86 @@
+{
+  "title": "Time Travel with @swyx",
+  "date": {
+    "start": "2019-04-04",
+    "end": "2019-04-10"
+  },
+  "duration": "44:02",
+  "hosts": ["hswolff", "MatthewGerstman", "swyx"],
+  "content": [
+    {
+      "name": "Netlify Dev — our entire platform, right on your laptop",
+      "links": [
+        "https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/"
+      ],
+      "tags": ["netlify"]
+    },
+    {
+      "name": "HackerRank 2019 Developer Skills Report",
+      "links": ["https://research.hackerrank.com/developer-skills/2019"],
+      "tags": ["report"]
+    },
+    {
+      "name": "Reducing Notification Permission Prompt Spam in Firefox",
+      "links": [
+        "https://blog.nightly.mozilla.org/2019/04/01/reducing-notification-permission-prompt-spam-in-firefox/"
+      ],
+      "tags": ["firefox"]
+    },
+    {
+      "name": "New WebKit Features in Safari 12.1",
+      "links": [
+        "https://webkit.org/blog/8718/new-webkit-features-in-safari-12-1/"
+      ],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "Native lazy-loading is coming to the web",
+      "links": [
+        "https://twitter.com/addyosmani/status/1114777583302799360",
+        "https://twitter.com/joshtumath/status/1114797825148313600"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "sindresorhus: Intent to stop using `null` in my JS code",
+      "links": ["https://github.com/sindresorhus/meta/issues/7"],
+      "tags": ["javascript"]
+    },
+    {
+      "name": "React Events Umbrella Issue",
+      "links": ["https://github.com/facebook/react/issues/15257"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Request’s Past, Present and Future",
+      "links": ["https://github.com/request/request/issues/3142"],
+      "tags": ["request", "node"]
+    },
+    {
+      "name": "Refreshing the VS Code product icon",
+      "links": ["https://github.com/Microsoft/vscode/issues/71827"],
+      "tags": ["vs-code"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Visual Studio Code March 2019",
+      "links": ["https://code.visualstudio.com/updates/v1_33"],
+      "tags": ["vs-code"]
+    },
+    {
+      "name": "Introducing experimental integrity policies to Node.js",
+      "links": [
+        "https://snyk.io/blog/introducing-experimental-integrity-policies-to-node-js/"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Easily identify problems in Node.js applications with Diagnostic Report",
+      "links": [
+        "https://medium.com/the-node-js-collection/easily-identify-problems-in-node-js-applications-with-diagnostic-report-dc82370d8029"
+      ],
+      "tags": ["node"]
+    }
+  ]
+}

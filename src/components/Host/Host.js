@@ -2,12 +2,14 @@ import React, { Component } from 'react';
 import hswolff from './hswolff.jpg';
 import MatthewGerstman from './MatthewGerstman.jpg';
 import jetpacmonkey from './jetpacmonkey.jpg';
+import swyx from './swyx.jpg';
 import css from '@emotion/css';
 
 const hosts = {
   hswolff,
   MatthewGerstman,
   jetpacmonkey,
+  swyx,
 };
 
 export default class Host extends Component {
