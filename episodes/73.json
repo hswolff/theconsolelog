@@ -1,0 +1,118 @@
+{
+  "title": "Breaking Tweets: Nutella is Great",
+  "date": {
+    "start": "2019-04-11",
+    "end": "2019-04-18"
+  },
+  "duration": "31:29",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Patreon for The Console Log Podcast",
+      "links": ["https://www.patreon.com/theconsolelog"],
+      "tags": ["patreon", "console-log"]
+    },
+    {
+      "name": "JavaScript and React Podcasts: The Ultimate Guide to Web Development Podcasts",
+      "links": [
+        "https://blog.soshace.com/en/2019/04/09/javascript-and-react-podcasts/"
+      ],
+      "tags": ["console-log"]
+    },
+    {
+      "name": "Harry has a new YouTube video",
+      "links": ["https://www.youtube.com/watch?v=bk1tmNKtXBo"],
+      "tags": ["harry"]
+    },
+    {
+      "name": "Microsoft Edge preview builds: The next step in our OSS journey",
+      "links": [
+        "https://blogs.windows.com/windowsexperience/2019/04/08/microsoft-edge-preview-builds-the-next-step-in-our-oss-journey/"
+      ],
+      "tags": ["edge"]
+    },
+    {
+      "name": "Public Sans",
+      "links": [
+        "https://public-sans.digital.gov/",
+        "https://github.com/uswds/public-sans"
+      ],
+      "tags": ["fonts"]
+    },
+    {
+      "name": "react-redux 7 final out",
+      "links": ["https://github.com/reduxjs/react-redux/releases/tag/v7.0.1"],
+      "tags": ["react", "redux", "react-redux"]
+    },
+    {
+      "name": "react-redux discussion about including Hooks",
+      "links": ["https://github.com/reduxjs/react-redux/issues/1179"],
+      "tags": ["react", "redux", "react-redux", "hooks"]
+    },
+    {
+      "name": "ReasonReact 0.7.0: Support for React Hooks",
+      "links": [
+        "https://reasonml.github.io/reason-react/blog/2019/04/10/react-hooks"
+      ],
+      "tags": ["reason", "react", "reason-react"]
+    },
+    { "name": "MDX", "links": ["https://mdxjs.com/blog/v1/"], "tags": ["mdx"] },
+    {
+      "name": "Statement from npm – npm, Inc.",
+      "links": ["https://medium.com/@npmjs/statement-from-npm-9bdf4eae05a9"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Stack Overflow Developer Survey 2019",
+      "links": ["https://insights.stackoverflow.com/survey/2019"],
+      "tags": ["survey"]
+    },
+    {
+      "name": "Launching the Front-End Tooling Survey 2019",
+      "links": [
+        "https://medium.freecodecamp.org/launching-the-front-end-tooling-survey-2019-4cb2b72f0b42"
+      ],
+      "tags": ["survey"]
+    },
+    {
+      "name": "jQuery 3.4.0 Released",
+      "links": ["http://blog.jquery.com/2019/04/10/jquery-3-4-0-released/"],
+      "tags": ["jQuery"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://icanhazdadjoke.com/j/Qusrcahiib",
+        "https://icanhazdadjoke.com/j/71gF6wHBsrc",
+        "https://icanhazdadjoke.com/j/FdNZTnWvHBd"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "What to Expect in Angular 8",
+      "links": [
+        "https://medium.com/grapecity/what-to-expect-in-angular-8-940b217b63cb"
+      ],
+      "tags": ["angular"]
+    },
+    {
+      "name": "Atom 1.36",
+      "links": ["https://blog.atom.io/2019/04/09/atom-1-36.html"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "Prettier 1.17: More quotes options and support for shared configs",
+      "links": ["https://prettier.io/blog/2019/04/12/1.17.0.html"],
+      "tags": ["prettier"]
+    },
+    {
+      "name": "Apple Podcasts on the web gets a fresh new interface",
+      "links": [
+        "https://9to5mac.com/2019/04/10/apple-podcasts-web-interface-redesign/"
+      ],
+      "tags": ["apple", "podcasts"]
+    }
+  ]
+}
