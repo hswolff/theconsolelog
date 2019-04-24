@@ -1,0 +1,76 @@
+{
+  "title": "Do You Believe?",
+  "date": {
+    "start": "2019-04-18",
+    "end": "2019-04-24"
+  },
+  "duration": "45:28",
+  "hosts": ["hswolff", "MatthewGerstman", "codehitchhiker"],
+  "content": [
+    {
+      "name": "Panic - What's Next for Coda?",
+      "links": ["https://panic.com/next/"],
+      "tags": ["panic", "coda"]
+    },
+    {
+      "name": "Storybook Docs sneak peak",
+      "links": [
+        "https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a"
+      ],
+      "tags": ["storybook"]
+    },
+    {
+      "name": "Create-react-app v3.0 Released",
+      "links": [
+        "https://github.com/facebook/create-react-app/releases/tag/v3.0.0"
+      ],
+      "tags": ["react", "create-react-app"]
+    },
+    {
+      "name": "Brief overview of the React Native ecosystem",
+      "links": ["https://twitter.com/reactnative/status/1118548423018467331"],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "New version of React DevTools nearing release",
+      "links": [
+        "https://twitter.com/brian_d_vaughn/status/1118676986887491584",
+        "https://github.com/bvaughn/react-devtools-experimental"
+      ],
+      "tags": ["react", "react-devtools"]
+    },
+    {
+      "name": "Preact 10.0.0-beta.0",
+      "links": [
+        "https://github.com/developit/preact/releases/tag/10.0.0-beta.0"
+      ],
+      "tags": ["preact"]
+    },
+    {
+      "name": "A horrifying globalThis polyfill in universal JavaScript",
+      "links": ["https://mathiasbynens.be/notes/globalthis"],
+      "tags": ["polyfill", "globalThis"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "packem A precompiled JavaScript module bundler",
+      "links": ["https://github.com/packem/packem"],
+      "tags": ["modules"]
+    },
+    {
+      "name": "Custom Open Graph Images for GitHub repositories",
+      "links": [
+        "https://github.blog/2019-04-17-custom-open-graph-images-for-repositories/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Preview: Upcoming Changes for Expo SDK 33",
+      "links": [
+        "https://blog.expo.io/preview-upcoming-changes-for-expo-sdk-33-67a4bac611a4"
+      ],
+      "tags": ["expo"]
+    }
+  ]
+}
