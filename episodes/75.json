@@ -1,0 +1,88 @@
+{
+  "title": "Kent's Tandem Bike",
+  "date": {
+    "start": "2019-04-25",
+    "end": "2019-05-01"
+  },
+  "duration": "38:20",
+  "hosts": ["hswolff", "MatthewGerstman", "kentcdodds"],
+  "content": [
+    {
+      "name": "Testing Library · Simple and complete testing utilities that encourage good testing practices",
+      "links": ["https://testing-library.com/"],
+      "tags": ["testing"]
+    },
+    {
+      "name": "React-Redux v7.1.0-alpha.1",
+      "links": ["https://github.com/reduxjs/react-redux/releases"],
+      "tags": ["react", "redux", "react-redux"]
+    },
+    {
+      "name": "Svelte 3: Rethinking reactivity",
+      "links": ["https://svelte.dev/blog/svelte-3-rethinking-reactivity"],
+      "tags": ["svelte"]
+    },
+    {
+      "name": "Introducing Node.js 12",
+      "links": [
+        "https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Node: Announcing a new — experimental-modules",
+      "links": [
+        "https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Open-Registry",
+      "links": ["https://open-registry.dev/"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Intent to Implement: JS Self-Profiling API",
+      "links": [
+        "https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/cl_WCx9OEcg/9b-6_7DPDAAJ"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Color Fonts",
+      "links": ["https://www.colorfonts.wtf/"],
+      "tags": ["fonts"]
+    },
+    {
+      "name": "Technology Radar | An opinionated guide to technology frontiers",
+      "links": ["https://www.thoughtworks.com/radar"],
+      "tags": ["news"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Flutter Desktop shells",
+      "links": ["https://github.com/flutter/flutter/wiki/Desktop-shells"],
+      "tags": ["flutter"]
+    },
+    {
+      "name": "Accenture sued over website redesign so bad it Hertz",
+      "links": [
+        "https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/"
+      ],
+      "tags": ["whoops"]
+    },
+    {
+      "name": "WebKit Intelligent Tracking Prevention 2.2",
+      "links": [
+        "https://webkit.org/blog/8828/intelligent-tracking-prevention-2-2/"
+      ],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "Electron 5.0.0",
+      "links": ["https://electronjs.org/blog/electron-5-0"],
+      "tags": ["electron"]
+    }
+  ]
+}

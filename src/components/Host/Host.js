@@ -4,6 +4,7 @@ import MatthewGerstman from './MatthewGerstman.jpg';
 import jetpacmonkey from './jetpacmonkey.jpg';
 import swyx from './swyx.jpg';
 import codehitchhiker from './codehitchhiker.jpg';
+import kentcdodds from './kentcdodds.jpg';
 import css from '@emotion/css';
 
 const hosts = {
@@ -12,6 +13,7 @@ const hosts = {
   jetpacmonkey,
   swyx,
   codehitchhiker,
+  kentcdodds,
 };
 
 export default class Host extends Component {
