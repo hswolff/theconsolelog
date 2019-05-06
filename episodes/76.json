@@ -1,0 +1,75 @@
+{
+  "title": "We Fixed The Audio",
+  "date": {
+    "start": "2019-05-02",
+    "end": "2019-05-08"
+  },
+  "duration": "38:20",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Thank You Todd and Tank!",
+      "links": [
+        "https://twitter.com/gtodd876",
+        "https://twitter.com/TankDotDigital"
+      ],
+      "tags": ["thank-you"]
+    },
+    {
+      "name": "Building the New facebook.com with React, GraphQL and Relay",
+      "links": [
+        "https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/"
+      ],
+      "tags": ["facebook", "react", "graphql", "relay"]
+    },
+    {
+      "name": "relay Release v4.0.0",
+      "links": ["https://github.com/facebook/relay/releases/tag/v4.0.0"],
+      "tags": ["relay"]
+    },
+    {
+      "name": "Preact Release 10.0.0-beta.1 Los Compresseros",
+      "links": [
+        "https://github.com/developit/preact/releases/tag/10.0.0-beta.1"
+      ],
+      "tags": ["preact"]
+    },
+    {
+      "name": "CSSBattle",
+      "links": ["https://cssbattle.dev/"],
+      "tags": ["css"]
+    },
+    {
+      "name": "yarn v2 status update",
+      "links": [
+        "https://twitter.com/texastoland/status/1123335279635513344",
+        "https://github.com/yarnpkg/yarn/issues/6953",
+        "https://github.com/yarnpkg/berry"
+      ],
+      "tags": ["yarn"]
+    },
+    {
+      "name": "Promise.allSettled shipped in Chrome 76",
+      "links": [
+        "https://twitter.com/_gsathya/status/1123605995177922560",
+        "https://github.com/tc39/proposal-promise-allSettled/"
+      ],
+      "tags": ["chrome", "promises"]
+    },
+    {
+      "name": "A Conspiracy To Kill IE6",
+      "links": ["http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6"],
+      "tags": ["ie6"]
+    },
+    {
+      "name": "Matthew's Jokes",
+      "links": [
+        "https://icanhazdadjoke.com/j/0oz51ozk3ob",
+        "https://icanhazdadjoke.com/j/2gii3LeN7Ed",
+        "https://icanhazdadjoke.com/j/MZvsrzXgyd"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": []
+}
