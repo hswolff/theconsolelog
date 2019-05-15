@@ -199,17 +199,22 @@ const createDescription = node => {
   let description = `
 Episode ${node.fields.episodeNumber}.
 ${formatDate(node.date.start)} - ${formatDate(node.date.end)}, ${getYear(
-  node.date.end
-)}
+    node.date.end
+  )}
+
+SUPPORT OUR PATREON
+https://www.patreon.com/theconsolelog
+
+JOIN OUR COMMUNITY
+https://usereact.nyc/#slack
+
+FIND US ON TWITTER
+https://twitter.com/_theconsolelog
+https://twitter.com/hswolff
+https://twitter.com/MatthewGerstman
 
 FIND ALL LINKS ON THE WEBSITE
 http://theconsolelog.com/episode/${node.fields.episodeNumber}
-
-MORE LINKS
-https://twitter.com/hswolff
-https://twitter.com/_theconsolelog
-http://theconsolelog.com/
-https://github.com/hswolff/theconsolelog/projects/1
 
 SHOW NOTES
 `;
