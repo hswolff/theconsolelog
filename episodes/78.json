@@ -1,0 +1,108 @@
+{
+  "title": "Boo Marcel",
+  "date": {
+    "start": "2019-05-09",
+    "end": "2019-05-15"
+  },
+  "duration": "45:27",
+  "hosts": ["hswolff", "MatthewGerstman", "NikkitaFTW"],
+  "content": [
+    {
+      "name": "Join useReact slack and talk to us",
+      "links": ["https://useReact.NYC#slack"],
+      "tags": ["slack", "the-console-log"]
+    },
+    {
+      "name": "Patreon",
+      "links": ["https://patreon.com/theconsolelog"],
+      "tags": ["patreon", "the-console-log"]
+    },
+    {
+      "name": "Matthew published a ridiculous video. 91 people watched it…",
+      "links": [
+        "https://twitter.com/MatthewGerstman/status/1129207838847438854?s=20",
+        "https://www.dropbox.com/s/pqt1nr4ptlkh9uq/What%20Makes%20You%20Beautiful.mp4"
+      ],
+      "tags": ["matthew"]
+    },
+    {
+      "name": "Game of Frameworks: JavaScript trends of 2019",
+      "links": [
+        "https://cvcompiler.com/blog/game-of-frameworks-javascript-trends-of-2019/?ref=changelog"
+      ],
+      "tags": ["trends", "survey"]
+    },
+    {
+      "name": "React PR: Add Batched Mode",
+      "links": ["https://github.com/facebook/react/pull/15502"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Announcing TypeScript 3.5 RC",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-5-rc/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "New Electron Release Cadence",
+      "links": ["https://electronjs.org/blog/12-week-cadence"],
+      "tags": ["electron"]
+    },
+    {
+      "name": "V8 release v7.5",
+      "links": ["https://v8.dev/blog/v8-release-75"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "Announcing Stencil One: Beta",
+      "links": ["https://blog.ionicframework.com/announcing-stencil-one-beta/"],
+      "tags": ["stencil"]
+    },
+    {
+      "name": "Grumpy Cat Is Dead at 7",
+      "links": [
+        "https://www.nytimes.com/2019/05/17/business/media/grumpy-cat-dead.html"
+      ],
+      "tags": ["grumpy-cat"]
+    },
+    {
+      "name": "Why == And === Behave Differently in JavaScript",
+      "links": [
+        "https://mobile.twitter.com/BrendanEich/status/1128839636501946369"
+      ],
+      "tags": ["javascript"]
+    },
+    {
+      "name": "clap.space",
+      "links": [
+        "https://twitter.com/MatthewGerstman/status/1130883397474279424",
+        "http://clap.space"
+      ],
+      "tags": ["clap.space"]
+    },
+    {
+      "name": "Matthews Jokes",
+      "links": [
+        "https://icanhazdadjoke.com/j/TCA59hiiVvc",
+        "https://icanhazdadjoke.com/j/jNCtkyIeNuc",
+        "https://icanhazdadjoke.com/j/eNuPm3Etzkb"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "React Training: The Future of React Router and @reach/router",
+      "links": ["https://reacttraining.com/blog/reach-react-router-future/"],
+      "tags": ["react-training"]
+    },
+    {
+      "name": "America's newest stock exchange could change how founder-led startups go public",
+      "links": [
+        "https://www.axios.com/long-term-stock-exchange-ipo-silicon-valley-3eb1a818-ce6d-41f5-a9b1-906bdcaf76b7.html"
+      ],
+      "tags": ["funding", "startups"]
+    }
+  ]
+}
