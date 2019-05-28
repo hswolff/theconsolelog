@@ -1,0 +1,72 @@
+{
+  "title": "A Github Haiku",
+  "date": {
+    "start": "2019-05-16",
+    "end": "2019-05-22"
+  },
+  "duration": "32:45",
+  "hosts": ["hswolff", "MatthewGerstman", "NikkitaFTW"],
+  "content": [
+    {
+      "name": "Join useReact slack and talk to us",
+      "links": ["https://useReact.NYC#slack"],
+      "tags": ["slack"]
+    },
+    {
+      "name": "Patreon",
+      "links": ["https://patreon.com/theconsolelog"],
+      "tags": ["patreon"]
+    },
+    {
+      "name": "GitHub Updates from GitHub Satellite: Sponsors & Security",
+      "links": [
+        "https://github.blog/2019-05-23-building-an-interconnected-community-together/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Babel Updates: v7.4.5 and better TypeScript Support",
+      "links": [
+        "https://twitter.com/nicoloribaudo/status/1130897987692056577",
+        "https://github.com/babel/notes/blob/master/2019/05/21.md#prs"
+      ],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Privacy Preserving Ad Click Attribution For the Web",
+      "links": [
+        "https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/",
+        "https://twitter.com/othermaciej/status/1131260652532535296"
+      ],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "Class-API proposal for Vue 3 has been dropped",
+      "links": ["https://twitter.com/notphanan/status/1131070702583468032"],
+      "tags": ["vue"]
+    },
+    {
+      "name": "The benefits (and costs) of corporate open source",
+      "links": [
+        "https://increment.com/open-source/the-benefits-and-costs-of-corporate-open-source/"
+      ],
+      "tags": ["open-source"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/MFeustle/status/1131358718631829505",
+        "https://twitter.com/Elliotd123/status/1131358759425650694",
+        "https://twitter.com/rickhanlonii/status/1131538358163918848"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "How healthy is the internet? — The Internet Health Report 2019",
+      "links": ["https://internethealthreport.org/2019/"],
+      "tags": ["report"]
+    }
+  ]
+}
