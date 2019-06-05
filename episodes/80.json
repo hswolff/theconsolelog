@@ -1,0 +1,116 @@
+{
+  "title": "WHATWG: What Will Gerstman Do?",
+  "date": {
+    "start": "2019-05-30",
+    "end": "2019-06-05"
+  },
+  "duration": "32:29",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "React Norway Next Week!",
+      "links": ["http://reactnorway.com"],
+      "tags": ["react-norway", "matthew"]
+    },
+    {
+      "name": "Join useReact slack and talk to us",
+      "links": ["https://useReact.NYC"],
+      "tags": ["slack"]
+    },
+    {
+      "name": "Patreon",
+      "links": ["https://patreon.com/theconsolelog"],
+      "tags": ["patreon"]
+    },
+    {
+      "name": "Node.js turns 10!",
+      "links": ["https://twitter.com/nodesource/status/1132947440796164097"],
+      "tags": ["nodejs"]
+    },
+    {
+      "name": "Enabling Modern JavaScript on npm",
+      "links": ["https://jasonformat.com/enabling-modern-js-on-npm/"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Announcing Entopic, a Federated package registry, CLI, and API",
+      "links": ["https://twitter.com/kosamari/status/1134876898604048384"],
+      "tags": ["npm", "packages"]
+    },
+    {
+      "name": "W3C and the WHATWG signed an agreement to collaborate on a single version of HTML and DOM",
+      "links": [
+        "https://www.w3.org/blog/news/archives/7753",
+        "https://news.ycombinator.com/item?id=20028454"
+      ],
+      "tags": ["w3c", "WHATWG"]
+    },
+    {
+      "name": "Google relents slightly on blocking ad-blockers for enterprise Chrome users",
+      "links": [
+        "https://news.ycombinator.com/item?id=20038872",
+        "https://github.com/uBlockOrigin/uBlock-issues/issues/338"
+      ],
+      "tags": ["google", "chrome"]
+    },
+    {
+      "name": "Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem",
+      "links": [
+        "https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27"
+      ],
+      "tags": ["angular"]
+    },
+    {
+      "name": "Microsoft is making a $100 million bet on African developers",
+      "links": [
+        "https://qz.com/africa/1618874/microsoft-opens-africa-development-centre-in-kenya-and-nigeria/"
+      ],
+      "tags": ["microsoft"]
+    },
+    {
+      "name": "Matthew's Jokes",
+      "links": [
+        "https://twitter.com/MatthewGerstman/status/1134968201052413952",
+        "https://icanhazdadjoke.com/j/baFQZv4w5wc",
+        "https://icanhazdadjoke.com/j/a218pbMmOmb",
+        "https://icanhazdadjoke.com/j/SvXDImbMe"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Raathigesh/fabulous: 🎨 CSS properties sidebar for VS Code",
+      "links": ["https://github.com/Raathigesh/fabulous"],
+      "tags": ["css", "vscode"]
+    },
+    {
+      "name": "Public Data Release of Stack Overflow’s 2019 Developer Survey - Stack Overflow Blog",
+      "links": [
+        "https://stackoverflow.blog/2019/05/21/public-data-release-of-stack-overflows-2019-developer-survey/"
+      ],
+      "tags": ["stack-overflow"]
+    },
+    {
+      "name": "Apollo Federation – Apollo GraphQL",
+      "links": [
+        "https://blog.apollographql.com/apollo-federation-f260cf525d21"
+      ],
+      "tags": ["apollo", "graphql"]
+    },
+    {
+      "name": "Announcing TypeScript 3.5",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "A Quick Look at the First Public Working Draft for Color Adjust Module 1",
+      "links": [
+        "https://css-tricks.com/a-quick-look-at-the-first-public-working-draft-for-color-adjust-module-1/"
+      ],
+      "tags": ["css"]
+    }
+  ]
+}
