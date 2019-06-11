@@ -1,0 +1,135 @@
+{
+  "title": "Scan The Navy In",
+  "date": {
+    "start": "2019-06-06",
+    "end": "2019-06-12"
+  },
+  "duration": "33:33",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew is at React Norway!",
+      "links": ["https://reactnorway.com"],
+      "tags": ["matthew", "react-norway"]
+    },
+    {
+      "name": "Join useReact slack and talk to us",
+      "links": ["https://useReact.NYC"],
+      "tags": ["slack"]
+    },
+    {
+      "name": "Patreon",
+      "links": ["http://patreon.com/theconsolelog"],
+      "tags": ["patreon"]
+    },
+    {
+      "name": "Visual Studio Code 1.35 Released",
+      "links": ["https://code.visualstudio.com/updates/v1_35"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Use zsh as the default shell on your Mac",
+      "links": [
+        "https://support.apple.com/en-us/HT208050",
+        "https://github.com/robbyrussell/oh-my-zsh"
+      ],
+      "tags": ["apple", "macos", "zsh"]
+    },
+    {
+      "name": "Safari on iOS & iPadOS 13 official changelog",
+      "links": [
+        "https://twitter.com/firt/status/1135635815252549632",
+        "https://developer.apple.com/documentation/safari_release_notes/safari_13_beta_release_notes"
+      ],
+      "tags": ["safari"]
+    },
+    {
+      "name": "All about SwiftUI",
+      "links": [
+        "https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e",
+        "https://github.com/apple/swift-evolution/blob/9992cf3c11c2d5e0ea20bee98657d93902d5b174/proposals/XXXX-function-builders.md",
+        "https://github.com/apple/swift-evolution/blob/master/proposals/0244-opaque-result-types.md"
+      ],
+      "tags": ["swift-ui"]
+    },
+    {
+      "name": "Understanding SwiftUI by reimplementing it to render to HTML",
+      "links": ["https://github.com/zhuowei/marina"],
+      "tags": ["swift-ui"]
+    },
+    {
+      "name": "New TC39 Meeting",
+      "links": [
+        "https://github.com/tc39/proposals/commits/master",
+        "https://twitter.com/left_pad/status/1136282005170262016"
+      ],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "core-js postinstall message drama",
+      "links": ["https://github.com/zloirock/core-js/issues/548"],
+      "tags": ["core-js"]
+    },
+    {
+      "name": "webpack 5.0.0-alpha.15 comes with a few new experimental features",
+      "links": ["https://twitter.com/wsokra/status/1136330733616848897"],
+      "tags": ["webpack"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "CSS Grid Level 2 - subgrid is coming to Firefox",
+      "links": [
+        "https://hacks.mozilla.org/2019/06/css-grid-level-2-subgrid-is-coming-to-firefox/"
+      ],
+      "tags": ["css-grid"]
+    },
+    {
+      "name": "Expo SDK v33.0.0 is now available",
+      "links": [
+        "https://blog.expo.io/expo-sdk-v33-0-0-is-now-available-52d1c99dfe4c"
+      ],
+      "tags": ["expo"]
+    },
+    {
+      "name": "The Roadmap for Expo SDK 34",
+      "links": [
+        "https://blog.expo.io/the-roadmap-for-expo-sdk-34-b2e379ab9fff"
+      ],
+      "tags": ["expo"]
+    },
+    {
+      "name": "React Fire Update",
+      "links": ["https://github.com/facebook/react/issues/13525"],
+      "tags": ["react", "react-fire"]
+    },
+    {
+      "name": "Plot to steal cryptocurrency foiled by the npm...",
+      "links": [
+        "https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Prisma 2 is Coming Soon",
+      "links": [
+        "https://www.prisma.io/blog/prisma-2-is-coming-soon-mwwfhevie993"
+      ],
+      "tags": ["prisma"]
+    },
+    {
+      "name": "GitHub Desktop 2.0 expands to support stashing and rebasing",
+      "links": [
+        "https://github.blog/2019-06-05-github-desktop-expands-to-support-stashing-and-rebasing/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "The economics of package management essay",
+      "links": [
+        "https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md"
+      ],
+      "tags": ["npm", "package-manager"]
+    }
+  ]
+}
