@@ -1,0 +1,121 @@
+{
+  "title": "Chocolate Style Sheets",
+  "date": {
+    "start": "2019-06-07",
+    "end": "2019-06-19"
+  },
+  "duration": "30:25",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Matthew at React Loop this week!",
+      "links": ["https://reactloop.com/"],
+      "tags": ["matthew", "react-loop"]
+    },
+    {
+      "name": "Join useReact slack and talk to us",
+      "links": ["https://useReact.nyc#slack"],
+      "tags": ["slack"]
+    },
+    {
+      "name": "Patreon",
+      "links": ["http://patreon.com/theconsolelo"],
+      "tags": ["patreon"]
+    },
+    {
+      "name": "The State of CSS 2019",
+      "links": ["https://2019.stateofcss.com/"],
+      "tags": ["state-of-css", "survey"]
+    },
+    {
+      "name": "react-redux Release v7.1.0",
+      "links": ["https://github.com/reduxjs/react-redux/releases/tag/v7.1.0"],
+      "tags": ["react", "redux", "react-redux"]
+    },
+    {
+      "name": "React Native Open Source Update June 2019",
+      "links": [
+        "https://facebook.github.io/react-native/blog/2019/06/12/react-native-open-source-update"
+      ],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "Apollo raises $22 million",
+      "links": [
+        "https://blog.apollographql.com/apollo-raises-22-million-to-simplify-app-development-ee30502c81b3"
+      ],
+      "tags": ["apollo"]
+    },
+    {
+      "name": "WHATWG: Introducing new HTML elements that are polyfillable",
+      "links": [
+        "https://github.com/whatwg/html/issues/4696",
+        "https://github.com/tc39/proposal-javascript-standard-library/"
+      ],
+      "tags": ["whatwh", "tc39"]
+    },
+    {
+      "name": "Mozilla will launch a paid version of Firefox this fall",
+      "links": [
+        "https://thenextweb.com/apps/2019/06/10/mozilla-will-reportedly-launch-a-paid-version-of-firefox-this-fall/"
+      ],
+      "tags": ["mozilla", "firefox"]
+    },
+    {
+      "name": "Chrome Incognito won't be detectable in Chrome 76",
+      "links": [
+        "https://mobile.twitter.com/paul_irish/status/1138471166115368960"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/kefimochi/status/1139218172282720259",
+        "https://twitter.com/Ethanx94/status/1141048898980593664",
+        "https://digitalsynopsis.com/design/web-designer-developer-jokes-humour-funny/"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Announcing styled-components v5: Beast Mode",
+      "links": [
+        "https://medium.com/styled-components/announcing-styled-components-v5-beast-mode-389747abd987"
+      ],
+      "tags": ["styled-components"]
+    },
+    {
+      "name": "create-react-app: Feedback wanted: New Hot Reloading",
+      "links": ["https://github.com/facebook/create-react-app/issues/7227"],
+      "tags": ["react", "react-react-app"]
+    },
+    {
+      "name": "Intro to VuePress 1.x",
+      "links": [
+        "https://medium.com/@_ulivz/intro-to-vuepress-1-x-7e2b7885f95f"
+      ],
+      "tags": ["vue"]
+    },
+    {
+      "name": "Atom 1.38",
+      "links": ["https://blog.atom.io/2019/06/11/atom-1-38.html"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "settlement.js not found: JavaScript package biz NPM scraps talks, fights union-busting claims",
+      "links": [
+        "https://www.theregister.co.uk/2019/06/14/npm_union_busting_claims/"
+      ],
+      "tags": ["settlement-js"]
+    },
+    {
+      "name": "What’s new in Apollo Client 2.6",
+      "links": [
+        "https://blog.apollographql.com/whats-new-in-apollo-client-2-6-b3acf28ecad1"
+      ],
+      "tags": ["apollo"]
+    }
+  ]
+}
