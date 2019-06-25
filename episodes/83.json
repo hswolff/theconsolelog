@@ -1,13 +1,17 @@
 {
-  "title": "Chocolate Style Sheets",
+  "title": "Rendevous With Cassidoo",
   "date": {
     "start": "2019-06-20",
     "end": "2019-06-26"
   },
-  "duration": "30:25",
+  "duration": "36:16",
   "hosts": ["hswolff", "MatthewGerstman", "cassidoo"],
   "content": [
-    { "name": "React Loop", "links": ["https://reactloop.com"], "tags": [] },
+    {
+      "name": "React Loop",
+      "links": ["https://reactloop.com"],
+      "tags": ["react-loop", "conference"]
+    },
     {
       "name": "Rendezvous With Cassido",
       "links": ["https://tinyletter.com/cassidoo"],
