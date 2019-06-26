@@ -1,0 +1,106 @@
+{
+  "title": "Rendevous With Cassidoo",
+  "date": {
+    "start": "2019-06-20",
+    "end": "2019-06-26"
+  },
+  "duration": "36:16",
+  "hosts": ["hswolff", "MatthewGerstman", "cassidoo"],
+  "content": [
+    {
+      "name": "React Loop",
+      "links": ["https://reactloop.com"],
+      "tags": ["react-loop", "conference"]
+    },
+    {
+      "name": "Rendezvous With Cassido",
+      "links": ["https://tinyletter.com/cassidoo"],
+      "tags": ["cassidy"]
+    },
+    {
+      "name": "We're a Top Javascript Podcast!",
+      "links": ["https://blog.feedspot.com/javascript_podcasts/"],
+      "tags": ["blog-post"]
+    },
+    {
+      "name": "What do you not like about the TypeScript Website and Documentation?",
+      "links": [
+        "https://github.com/microsoft/TypeScript/issues/31983",
+        "https://github.com/microsoft/TypeScript-new-Handbook/#the-new-typescript-handbook"
+      ],
+      "tags": ["typescript"]
+    },
+
+    {
+      "name": "Navigating code on GitHub",
+      "links": [
+        "https://help.github.com/en/articles/navigating-code-on-github"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "React Flare: Add useEvent hook implementation by trueadm",
+      "links": [
+        "https://github.com/facebook/react/pull/15927",
+        "https://twitter.com/acdlite/status/1141373522175938560"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Brian Vaughn’s React DevTools rewrite is almost ready",
+      "links": [
+        "https://mobile.twitter.com/dan_abramov/status/1141132080547602438"
+      ],
+      "tags": ["react", "react-devtools"]
+    },
+    {
+      "name": "Vue.js RFC for a Function API",
+      "links": [
+        "https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md"
+      ],
+      "tags": ["vue-js"]
+    },
+    {
+      "name": "V8 release v7.6",
+      "links": ["https://v8.dev/blog/v8-release-76"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "A New Bytecode Format for JavaScriptCore",
+      "links": [
+        "https://webkit.org/blog/9329/a-new-bytecode-format-for-javascriptcore/"
+      ],
+      "tags": ["webkit"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Node js vs Python 3 - Which programs are fastest?",
+      "links": [
+        "https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/node-python3.html"
+      ],
+      "tags": ["node"]
+    },
+    {
+      "name": "Reason React Native Hello Reason React Native",
+      "links": [
+        "https://reasonml-community.github.io/reason-react-native/en/blog/2019-06-17-hello-reason-react-native/"
+      ],
+      "tags": ["reasonml"]
+    },
+    {
+      "name": "Chromium Blog: Chrome 76 Beta: dark mode, payments, new PWA features and more",
+      "links": [
+        "https://blog.chromium.org/2019/06/chrome-76-beta-dark-mode-payments-new.html"
+      ],
+      "tags": ["chromium"]
+    },
+    {
+      "name": "Introducing Atom Nightly Releases",
+      "links": [
+        "https://blog.atom.io/2019/06/21/introducing-atom-nightly-releases.html"
+      ],
+      "tags": ["atom"]
+    }
+  ]
+}
