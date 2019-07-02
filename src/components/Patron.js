@@ -7,7 +7,7 @@ export default () => {
       data-patreon-widget-type="become-patron-button"
     >
       Become a Patron!
-      <React.Fragment
+      <div
         dangerouslySetInnerHTML={`<script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>`}
       />
     </a>
