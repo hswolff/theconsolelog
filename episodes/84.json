@@ -1,0 +1,107 @@
+{
+  "title": "Rendevous With Cassidoo",
+  "date": {
+    "start": "2019-06-27",
+    "end": "2019-07-03"
+  },
+  "duration": "42:30",
+  "hosts": ["hswolff", "MatthewGerstman", "eveporcello", "MoonTahoe"],
+  "content": [
+    {
+      "name": "Typescript Talk is Live!",
+      "links": ["https://www.youtube.com/watch?v=veXkJq0Z2Qk"],
+      "tags": ["matthew", "typescript"]
+    },
+    {
+      "name": "First 6 Chapters of Eve & Alex’s Learning React book available (Early Release)",
+      "links": [
+        "https://learning.oreilly.com/library/view/learning-react-2nd/9781492051718/"
+      ],
+      "tags": ["react", "eve", "alex"]
+    },
+    {
+      "name": "New GraphQL Query Language course coming to egghead.io at the end of July",
+      "links": ["https://egghead.io"],
+      "tags": ["graphql", "eve", "alex"]
+    },
+    {
+      "name": "Links to other books",
+      "links": ["https://amzn.to/2FOIVoo", "https://amzn.to/2XjBzEi"],
+      "tags": ["eve", "alex"]
+    },
+    {
+      "name": "GraphQL: The Documentary",
+      "links": [
+        "https://twitter.com/honeypotio/status/1143187930237886464",
+        "https://iamsaravieira.com"
+      ],
+      "tags": ["graphql"]
+    },
+    {
+      "name": "Three Predictions From the State of CSS 2019 Survey",
+      "links": [
+        "https://css-tricks.com/three-predictions-from-the-state-of-css-2019-survey/",
+        "https://github.com/kkuchta/css-only-chat"
+      ],
+      "tags": ["css"]
+    },
+    {
+      "name": "New TypeScript Playground Has Shipped",
+      "links": ["https://twitter.com/orta/status/1143622573512515585"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "A better Fast Refresh mode is on it's way into React Native",
+      "links": [
+        "https://twitter.com/reactnative/status/1144629612921720833",
+        "https://twitter.com/dan_abramov/status/1144630328142831616"
+      ],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "React Flare: Rethinking Focus",
+      "links": ["https://github.com/facebook/react/issues/16009"],
+      "tags": ["react"]
+    },
+    {
+      "name": "npm 6.9.1 is broken due to .git folder in published tarball",
+      "links": [
+        "https://npm.community/t/release-npm-6-9-1/8435/2",
+        "https://npm.community/t/npm-6-9-1-is-broken-due-to-git-folder-in-published-tarball/8454/6"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "ESLint is 6 years old",
+      "links": ["https://twitter.com/slicknet/status/1145045712951898112"],
+      "tags": ["eslint"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": ["https://twitter.com/stubailo/status/1054861905804705793"],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Micro Frontends",
+      "links": ["https://martinfowler.com/articles/micro-frontends.html"],
+      "tags": ["micro-frontends"]
+    },
+    {
+      "name": "Bringing service workers to Google Search",
+      "links": ["https://web.dev/google-search-sw/"],
+      "tags": ["service-workers", "google"]
+    },
+    {
+      "name": "The cost of JavaScript in 2019 · V8",
+      "links": ["https://v8.dev/blog/cost-of-javascript-2019"],
+      "tags": ["v8", "javascript"]
+    },
+    {
+      "name": "ESLint v6.0.0 released",
+      "links": ["https://eslint.org/blog/2019/06/eslint-v6.0.0-released"],
+      "tags": ["eslint"]
+    }
+  ]
+}

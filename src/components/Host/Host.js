@@ -7,6 +7,8 @@ import codehitchhiker from './codehitchhiker.jpg';
 import kentcdodds from './kentcdodds.jpg';
 import NikkitaFTW from './NikkitaFTW.jpg';
 import cassidoo from './cassidoo.jpg';
+import MoonTahoe from './MoonTahoe.jpg';
+import eveporcello from './eveporcello.jpg';
 import css from '@emotion/css';
 
 const hosts = {
@@ -18,6 +20,8 @@ const hosts = {
   kentcdodds,
   NikkitaFTW,
   cassidoo,
+  MoonTahoe,
+  eveporcello,
 };
 
 export default class Host extends Component {
