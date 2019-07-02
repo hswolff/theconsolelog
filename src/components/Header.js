@@ -74,6 +74,14 @@ export default () => (
         >
           Spotify
         </a>
+        <Bullet />
+        <a
+          href="https://www.patreon.com/bePatron?u=9399313"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Support Us!
+        </a>
       </Nav>
     </HeaderInner>
   </header>

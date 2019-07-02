@@ -5,7 +5,6 @@ import { layout } from '../utils/constants';
 import Header from './Header';
 import Footer from './Footer';
 import AboutInfoBox from './AboutInfoBox';
-import Patron from './Patron';
 import SEO from './SEO';
 
 export default ({ children }) => (
@@ -21,7 +20,6 @@ export default ({ children }) => (
       })}
     >
       <AboutInfoBox />
-      <Patron />
       {children}
       <Footer />
     </main>
