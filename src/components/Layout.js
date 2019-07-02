@@ -20,7 +20,6 @@ export default ({ children }) => (
       })}
     >
       <AboutInfoBox />
-
       {children}
       <Footer />
     </main>
