@@ -1,0 +1,76 @@
+{
+  "title": "The Heart of Texas",
+  "date": {
+    "start": "2019-07-04",
+    "end": "2019-07-10"
+  },
+  "duration": "23:42",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Mark files as viewed - The GitHub Blog",
+      "links": ["https://github.blog/2019-07-01-mark-files-as-viewed/"],
+      "tags": ["github"]
+    },
+    {
+      "name": "TypeScript Utility Types",
+      "links": [
+        "https://www.typescriptlang.org/docs/handbook/utility-types.html"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Announcing React Native 0.60 · React Native",
+      "links": [
+        "https://facebook.github.io/react-native/blog/2019/07/03/version-60"
+      ],
+      "tags": ["react", "react-native"]
+    },
+    {
+      "name": "NPM Inc settles union-busting complaints on third try",
+      "links": [
+        "https://www.theregister.co.uk/2019/07/02/npm_abandons_settlement_talks/"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Kat Marchán no longer working on npm cli",
+      "links": ["https://twitter.com/maybekatz/status/1146208849206005760"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "CodeSandbox Templates",
+      "links": ["https://codesandbox.io/post/Templates"],
+      "tags": ["code-sandbox"]
+    },
+    {
+      "name": "Announcing the Stable Release of Gatsby Themes!",
+      "links": [
+        "https://www.gatsbyjs.org/blog/2019-07-03-announcing-stable-release-gatsby-themes/"
+      ],
+      "tags": ["gatsby"]
+    },
+    {
+      "name": "User Inyerface - A worst-practice UI experiment",
+      "links": ["https://userinyerface.com/game.html"],
+      "tags": ["fun"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "7.5.0 Released: dynamic import and F# pipelines · Babel",
+      "links": ["https://babeljs.io/blog/2019/07/03/7.5.0"],
+      "tags": ["babel"]
+    },
+    {
+      "name": "Visual Studio Code June 2019",
+      "links": ["https://code.visualstudio.com/updates/v1_36"],
+      "tags": ["vs-code"]
+    },
+    {
+      "name": "Emscripten and the LLVM WebAssembly backend · V8",
+      "links": ["https://v8.dev/blog/emscripten-llvm-wasm"],
+      "tags": ["v8"]
+    }
+  ]
+}
