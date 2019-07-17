@@ -1,0 +1,57 @@
+{
+  "title": "A CASE OF THE MONDAYS",
+  "date": {
+    "start": "2019-07-11",
+    "end": "2019-07-17"
+  },
+  "duration": "26:48",
+  "hosts": ["hswolff", "MatthewGerstman"],
+  "content": [
+    {
+      "name": "Next.js 9",
+      "links": ["https://nextjs.org/blog/next-9"],
+      "tags": ["next-js"]
+    },
+    {
+      "name": "Framer Motion",
+      "links": ["https://www.framer.com/motion/"],
+      "tags": ["framer", "react"]
+    },
+    {
+      "name": "Facebook Hermes Released: A small and lightweight JavaScript engine",
+      "links": [
+        "https://github.com/facebook/hermes",
+        "https://twitter.com/reactnative/status/1149347916877901824",
+        "https://twitter.com/nadavrot/status/1149375921532493825",
+        "https://twitter.com/nparashuram/status/1149350214215462912",
+        "https://i.imgur.com/7vGH5Rs.jpg"
+      ],
+      "tags": ["react-native", "javascript-engine"]
+    },
+    {
+      "name": "QuickJS Javascript Engine",
+      "links": ["https://bellard.org/quickjs/"],
+      "tags": ["javascript-engine"]
+    },
+    {
+      "name": "Firefox 68: BigInts, Contrast Checks, and the QuantumBar - Mozilla Hacks - the Web developer blog",
+      "links": [
+        "https://hacks.mozilla.org/2019/07/firefox-68-bigints-contrast-checks-and-the-quantumbar/"
+      ],
+      "tags": ["firefox"]
+    },
+    {
+      "name": "Webpack-cli crashes on Monday",
+      "links": ["https://github.com/webpack/webpack-cli/issues/962"],
+      "tags": ["webpack"]
+    },
+    {
+      "name": "CAPSLOCK",
+      "links": [
+        "https://twitter.com/MatthewGerstman/status/1149007827198984194"
+      ],
+      "tags": ["CAPSLOCK"]
+    }
+  ],
+  "overflow": []
+}
