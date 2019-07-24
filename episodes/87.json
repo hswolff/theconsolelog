@@ -1,0 +1,74 @@
+{
+  "title": "All The Drama",
+  "date": {
+    "start": "2019-07-18",
+    "end": "2019-07-24"
+  },
+  "duration": "24:07",
+  "hosts": ["hswolff", "MatthewGerstman"],
+
+  "content": [
+    {
+      "name": "Matthew's Blog Post",
+      "links": [
+        "https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/"
+      ],
+      "tags": ["dropbox", "matthew", "redux", "typescript"]
+    },
+    {
+      "name": "1x Engineer",
+      "links": ["https://1x.engineer/"],
+      "tags": ["1x-engineer"]
+    },
+    {
+      "name": "The npm Blog — A new chapter for npm",
+      "links": [
+        "https://blog.npmjs.org/post/186378984340/a-new-chapter-for-npm"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Announcing TypeScript 3.6 Beta | TypeScript",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-beta/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "TypeScript passed Python in number of PRs in that language across all of GitHub",
+      "links": ["https://twitter.com/jntrnr/status/1152276213433434112"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Slack Rewrite",
+      "links": [
+        "https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4"
+      ],
+      "tags": ["slack"]
+    },
+    {
+      "name": "Redux isn’t Dead Yet",
+      "links": ["https://twitter.com/acemarke/status/1153343089844662280"],
+      "tags": ["redux"]
+    },
+    {
+      "name": "Apple offers a look at new emoji coming to iPhone this fall - Apple",
+      "links": [
+        "https://www.apple.com/newsroom/2019/07/apple-offers-a-look-at-new-emoji-coming-to-iphone-this-fall/",
+        "https://unicode.org/emoji/charts-12.0/full-emoji-list.html?utm_source=share&utm_medium=ios_app"
+      ],
+      "tags": ["emoji"]
+    },
+
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/rickhanlonii/status/1153421496041254912",
+        "https://twitter.com/rickhanlonii/status/1152993001511313408",
+        "https://twitter.com/rickhanlonii/status/1151832642494640128"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": []
+}
