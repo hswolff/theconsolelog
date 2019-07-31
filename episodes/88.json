@@ -1,0 +1,76 @@
+{
+  "title": "We Didn't Build The Browser",
+  "date": {
+    "start": "2019-07-25",
+    "end": "2019-07-31"
+  },
+  "duration": "29:55",
+  "hosts": ["hswolff", "MatthewGerstman"],
+
+  "content": [
+    {
+      "name": "tc39 updates: Promise.allSettled to stage 4",
+      "links": ["https://github.com/tc39/proposal-promise-allSettled"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "tc39 updates: Promise.any to stage 2",
+      "links": ["https://github.com/tc39/proposal-promise-any"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "tc39 updates: iterator helpers to stage 2",
+      "links": ["https://github.com/tc39/proposal-iterator-helpers"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "tc39 updates: Nullish coalescing proposal to stage 3",
+      "links": ["https://github.com/tc39/proposal-nullish-coalescing"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "tc39 updates: optional chaining to stage 3",
+      "links": ["https://github.com/tc39/proposal-optional-chaining"],
+      "tags": ["tc39"]
+    },
+    {
+      "name": "Panic - Nova Private Beta",
+      "links": ["https://panic.com/nova/"],
+      "tags": ["panic"]
+    },
+    {
+      "name": "treat",
+      "links": ["https://seek-oss.github.io/treat/"],
+      "tags": ["css-in-js"]
+    },
+    {
+      "name": "The 2019 Design Systems Survey by Sparkbox",
+      "links": ["https://designsystemssurvey.seesparkbox.com/2019/"],
+      "tags": ["design-systems"]
+    },
+    {
+      "name": "New CSS feature: use 50% opacity and not 0.5",
+      "links": ["https://twitter.com/argyleink/status/1154527358088466433"],
+      "tags": ["css"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/MatthewGerstman/status/1153736108964007938"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Atom 1.39 | Atom Blog",
+      "links": ["https://blog.atom.io/2019/07/23/atom-1-39.html"],
+      "tags": ["atom"]
+    },
+    {
+      "name": "What is PolyForm? – Polyform Project",
+      "links": ["https://polyformproject.org/what-is-polyform/"],
+      "tags": ["polyform"]
+    }
+  ]
+}
