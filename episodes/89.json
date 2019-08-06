@@ -1,0 +1,59 @@
+{
+  "title": "The Matthew's Jokes Theme Song",
+  "date": {
+    "start": "2019-08-01",
+    "end": "2019-08-08"
+  },
+  "duration": "29:55",
+  "hosts": ["hswolff", "MatthewGerstman", "jetpacmonkey"],
+
+  "content": [
+    {
+      "name": "GitHub: Automatically delete head branches of pull requests",
+      "links": [
+        "https://github.blog/changelog/2019-07-31-automatically-delete-head-branches-of-pull-requests/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "Electron 6.0.0",
+      "links": ["https://electronjs.org/blog/electron-6-0"],
+      "tags": ["electron"]
+    },
+    {
+      "name": "WIP Changelog for React 16.9",
+      "links": ["https://github.com/facebook/react/pull/16254"],
+      "tags": ["react"]
+    },
+    {
+      "name": "WIP React DevTools 4.0.0 changelog",
+      "links": [
+        "https://github.com/bvaughn/react-devtools-experimental/blob/master/CHANGELOG.md"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "React: Warn when Using DefaultProps on Function Components",
+      "links": ["https://github.com/facebook/react/pull/16210"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Websites saved to home screen behave like true aps on iPadOS 13",
+      "links": ["https://twitter.com/iryantldr/status/1156256177728176129"],
+      "tags": ["ios"]
+    },
+    {
+      "name": "The Web We Want",
+      "links": ["https://webwewant.fyi/"],
+      "tags": ["open-web"]
+    },
+    {
+      "name": "Matthew’s Jokes",
+      "links": [
+        "https://twitter.com/MatthewGerstman/status/1157043848146751490"
+      ],
+      "tags": ["matthews-jokes"]
+    }
+  ],
+  "overflow": []
+}
