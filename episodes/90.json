@@ -1,0 +1,79 @@
+{
+  "title": "Jeremy is Still Here",
+  "date": {
+    "start": "2019-08-09",
+    "end": "2019-08-14"
+  },
+  "duration": "45:12",
+  "hosts": ["hswolff", "MatthewGerstman", "jetpacmonkey"],
+
+  "content": [
+    {
+      "name": "React v16.9.0 and the Roadmap Update",
+      "links": ["https://reactjs.org/blog/2019/08/08/react-v16.9.0.html"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React upgrades to Babel 7",
+      "links": ["https://github.com/facebook/react/pull/16297"],
+      "tags": ["react", "babel"]
+    },
+    {
+      "name": "Apollo Client, now with React Hooks",
+      "links": [
+        "https://blog.apollographql.com/apollo-client-now-with-react-hooks-676d116eeae2"
+      ],
+      "tags": ["apollo", "hooks"]
+    },
+    {
+      "name": "GitHub Actions now supports CI/CD, free for public repositories",
+      "links": [
+        "https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/"
+      ],
+      "tags": ["github"]
+    },
+    {
+      "name": "TypeScript playground has type acquisition in beta now",
+      "links": ["https://twitter.com/orta/status/1158453010852433922"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Native lazy-loading for the web",
+      "links": ["https://web.dev/native-lazy-loading"],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "CSS Modules V1 Explainer",
+      "links": [
+        "https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/master/CSSModules/v1Explainer.md"
+      ],
+      "tags": ["css-modules", "edge"]
+    },
+    {
+      "name": "Detecting incognito mode in Chrome 76 with a timing attack",
+      "links": [
+        "https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "Domino’s asks the Supreme Court to shut down a lawsuit requiring its website be accessible to blind people",
+      "links": [
+        "https://www.theverge.com/2019/8/1/20750913/dominos-pizza-website-accessible-blind-supreme-court-lawsuit"
+      ],
+      "tags": ["a11y"]
+    },
+    {
+      "name": "Punpedia – The Online Encyclopedia of Puns",
+      "links": ["https://punpedia.org/"],
+      "tags": ["puns"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Visual Studio Code July 2019",
+      "links": ["https://code.visualstudio.com/updates/v1_37"],
+      "tags": ["vscode"]
+    }
+  ]
+}
