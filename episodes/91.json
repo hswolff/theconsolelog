@@ -1,0 +1,110 @@
+{
+  "title": "A Packed Episode",
+  "date": {
+    "start": "2019-08-15",
+    "end": "2019-08-21"
+  },
+  "duration": "45:12",
+  "hosts": ["hswolff", "MatthewGerstman", "jetpacmonkey"],
+
+  "content": [
+    {
+      "name": "Parcel 2.0.0-alpha.1 is here",
+      "links": [
+        "https://medium.com/@devongovett/parcel-2-0-0-alpha-1-is-here-8b160c6e3f7e"
+      ],
+      "tags": ["parcel"]
+    },
+    {
+      "name": "Volta - The JavaScript Launcher",
+      "links": ["https://volta.sh"],
+      "tags": ["volta"]
+    },
+    {
+      "name": "Blink: Intent to Implement: CSS Modules V1",
+      "links": [
+        "https://twitter.com/marvinhagemeist/status/1160971322408808449"
+      ],
+      "tags": ["blink", "css-modules"]
+    },
+    {
+      "name": "Introducing the New React DevTools – React Blog",
+      "links": [
+        "https://reactjs.org/blog/2019/08/15/new-react-devtools.html",
+        "https://twitter.com/brian_d_vaughn/status/1162128682535669760"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Named hooks · Issue #323 · bvaughn/react-devtools-experimental",
+      "links": [
+        "https://github.com/bvaughn/react-devtools-experimental/issues/323"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Announcing the WebKit Tracking Prevention Policy",
+      "links": [
+        "https://webkit.org/blog/9507/announcing-the-webkit-tracking-prevention-policy/"
+      ],
+      "tags": ["webkit"]
+    },
+    {
+      "name": "Highlights from Git 2.23",
+      "links": ["https://github.blog/2019-08-16-highlights-from-git-2-23/"],
+      "tags": ["git"]
+    },
+    {
+      "name": "Automattic + Tumblr",
+      "links": [
+        "https://photomatt.tumblr.com/post/186964618222/automattic-tumblr"
+      ],
+      "tags": ["tumblr"]
+    },
+    {
+      "name": "Version Museum: A Visual History of Your Favorite Technology",
+      "links": ["https://www.versionmuseum.com/"],
+      "tags": ["fun"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Google plans to deprecate FTP URL support in Chrome",
+      "links": [
+        "https://www.pixelstech.net/article/1566007822-Google-plans-to-deprecate-FTP-URL-support-in-Chrome"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "JS support for the @typescript playground",
+      "links": ["https://twitter.com/orta/status/1162831506257186816"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Microsoft Has First Major Impact on Chrome - Thurrott.com",
+      "links": [
+        "https://www.thurrott.com/cloud/web-browsers/google-chrome/212361/microsoft-has-first-major-impact-on-chrome"
+      ],
+      "tags": ["chromium", "microsoft"]
+    },
+    {
+      "name": "Next.js will soon ship modern JavaScript automatically to browsers that support it",
+      "links": ["https://twitter.com/timneutkens/status/1162845290015199232"],
+      "tags": []
+    },
+    {
+      "name": "Announcing TypeScript 3.6 RC | TypeScript",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-rc/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "The npm Blog — npm CLI Roadmap - Summer 2019",
+      "links": [
+        "https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019"
+      ],
+      "tags": ["npm"]
+    }
+  ]
+}
