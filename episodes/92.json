@@ -1,0 +1,81 @@
+{
+  "title": "Opposite Day",
+  "date": {
+    "start": "2019-08-22",
+    "end": "2019-08-28"
+  },
+  "duration": "33:20",
+  "hosts": ["hswolff", "MatthewGerstman", "jetpacmonkey"],
+
+  "content": [
+    {
+      "name": "The Console Log Listener Feedback Survey 2019",
+      "links": ["https://forms.gle/Fgde2iTQz7tzBY6M9"],
+      "tags": ["console-log"]
+    },
+    {
+      "name": "Introducing Microsoft Edge Beta: Be one of the first to try it now | Windows Experience Blog",
+      "links": [
+        "https://blogs.windows.com/windowsexperience/2019/08/20/introducing-microsoft-edge-beta-be-one-of-the-first-to-try-it-now/#u2Ec3y6j2sEiubqM.97"
+      ],
+      "tags": ["edge"]
+    },
+    {
+      "name": "Google: Building a more private web",
+      "links": [
+        "https://www.blog.google/products/chrome/building-a-more-private-web/"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "The Native File System API: Simplifying access to local files",
+      "links": [
+        "https://developers.google.com/web/updates/2019/08/native-file-system"
+      ],
+      "tags": ["chrome"]
+    },
+    {
+      "name": "react-redux v7.1.1",
+      "links": ["https://github.com/reduxjs/react-redux/releases/tag/v7.1.1"],
+      "tags": ["redux", "react", "react-redux"]
+    },
+    {
+      "name": "Ads in npm",
+      "links": ["https://twitter.com/qntm/status/1165344132728066048"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "Node v12.9.0 Released",
+      "links": ["https://nodejs.org/en/blog/release/v12.9.0/"],
+      "tags": ["node"]
+    },
+    {
+      "name": "Sunsetting Mercurial support in Bitbucket",
+      "links": [
+        "https://bitbucket.org/blog/sunsetting-mercurial-support-in-bitbucket"
+      ],
+      "tags": ["mercurial"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "New React DevTools inside @codesandbox, directly integrated",
+      "links": ["https://twitter.com/compuives/status/1164171042430042113"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Announcing the Ionic React Release Candidate!",
+      "links": [
+        "https://ionicframework.com/blog/announcing-ionic-react-release-candidate/"
+      ],
+      "tags": ["ionic"]
+    },
+    {
+      "name": "WebAssembly Interface Types: Interoperate with All the Things!",
+      "links": [
+        "https://hacks.mozilla.org/2019/08/webassembly-interface-types/"
+      ],
+      "tags": ["webassembly"]
+    }
+  ]
+}
