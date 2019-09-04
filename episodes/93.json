@@ -1,0 +1,79 @@
+{
+  "title": "Long Weekend",
+  "date": {
+    "start": "2019-08-29",
+    "end": "2019-09-04"
+  },
+  "duration": "22:54",
+  "hosts": ["hswolff", "MatthewGerstman"],
+
+  "content": [
+    {
+      "name": "The Console Log Listener Feedback Survey 2019",
+      "links": ["https://forms.gle/Fgde2iTQz7tzBY6M9"],
+      "tags": ["console-log"]
+    },
+    {
+      "name": "Recap of the `funding` experiment",
+      "links": ["https://feross.org/funding-experiment-recap/"],
+      "tags": ["oss"]
+    },
+    {
+      "name": "npm bans terminal ads",
+      "links": ["https://www.zdnet.com/article/npm-bans-terminal-ads/"],
+      "tags": ["npm"]
+    },
+    {
+      "name": "The npm Blog — Supporting Open Source Maintainers",
+      "links": [
+        "https://blog.npmjs.org/post/187382017885/supporting-open-source-maintainers"
+      ],
+      "tags": ["npm"]
+    },
+    {
+      "name": "The story of a V8 performance cliff in React · V8",
+      "links": ["https://v8.dev/blog/react-cliff"],
+      "tags": ["v8"]
+    },
+    {
+      "name": "The Baseline Interpreter: a faster JS interpreter in Firefox 70 - Mozilla Hacks - the Web developer blog",
+      "links": [
+        "https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/"
+      ],
+      "tags": ["firefox"]
+    },
+    {
+      "name": "Announcing TypeScript 3.6 | TypeScript",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "nominal types are coming to TypeScript",
+      "links": [
+        "https://twitter.com/wroctypescript/status/1168498435110121472"
+      ],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "CSS styling for video captions is now in development in Chrome",
+      "links": ["https://twitter.com/sw12/status/1164464817371058182"],
+      "tags": ["css"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Release 0.61.0-rc.0 · facebook/react-native",
+      "links": [
+        "https://github.com/facebook/react-native/releases/tag/v0.61.0-rc.0"
+      ],
+      "tags": ["react-native"]
+    },
+    {
+      "name": "Optional chaining · V8",
+      "links": ["https://v8.dev/features/optional-chaining"],
+      "tags": ["v8"]
+    }
+  ]
+}
