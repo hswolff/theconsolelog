@@ -1,0 +1,85 @@
+{
+  "title": "Chocolate Chips",
+  "date": {
+    "start": "2019-09-05",
+    "end": "2019-09-11"
+  },
+  "duration": "22:54",
+  "hosts": ["hswolff", "MatthewGerstman"],
+
+  "content": [
+    {
+      "name": "The Console Log Listener Feedback 2019",
+      "links": ["https://forms.gle/Fgde2iTQz7tzBY6M9"],
+      "tags": ["console-log"]
+    },
+    {
+      "name": "Apple Just Shipped Web Components to Production and You Probably Missed It",
+      "links": [
+        "https://dev.to/ionic/apple-just-shipped-web-components-to-production-and-you-probably-missed-it-57pf"
+      ],
+      "tags": ["web-components"]
+    },
+    {
+      "name": "In a swipe at Chrome, Firefox now blocks ad trackers by default",
+      "links": [
+        "https://www.wired.co.uk/article/firefox-browser-cookie-blocking-default"
+      ],
+      "tags": ["firefox"]
+    },
+    {
+      "name": "TypeScript: Add support for Optional Chaining by rbuckton",
+      "links": ["https://github.com/microsoft/TypeScript/pull/33294"],
+      "tags": ["typescript"]
+    },
+    {
+      "name": "Why is React doing this?",
+      "links": [
+        "https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919"
+      ],
+      "tags": ["react"]
+    },
+    {
+      "name": "Sneak peek of Fast Refresh, coming in React Native 0.61",
+      "links": [
+        "https://twitter.com/dan_abramov/status/1169687758849400832",
+        "https://github.com/facebook/react/issues/16604"
+      ],
+      "tags": ["hot-reloading"]
+    },
+    {
+      "name": "Node v12.10.0 Released",
+      "links": ["https://nodejs.org/en/blog/release/v12.10.0/"],
+      "tags": ["node"]
+    },
+    {
+      "name": "FirefoxDevTools: contextual information in the inspector",
+      "links": ["https://twitter.com/mozwebcompat/status/1168518402891079685"],
+      "tags": ["firefox"]
+    }
+  ],
+  "overflow": [
+    {
+      "name": "Visual Studio Code August 2019",
+      "links": ["https://code.visualstudio.com/updates/v1_38"],
+      "tags": ["vscode"]
+    },
+    {
+      "name": "Adopt Contributor Covenant by zpao · Pull Request #16613 · facebook/react",
+      "links": ["https://github.com/facebook/react/pull/16613"],
+      "tags": ["react"]
+    },
+    {
+      "name": "React PR: Babel Transform JSX to React.jsx/React.jsxDEV Plugin by lunaruan",
+      "links": ["https://github.com/facebook/react/pull/16432"],
+      "tags": ["react"]
+    },
+    {
+      "name": "Static TypeScript: An Implementation of a Static Compiler for the TypeScript Language",
+      "links": [
+        "https://www.microsoft.com/en-us/research/publication/static-typescript/"
+      ],
+      "tags": ["typescript"]
+    }
+  ]
+}
